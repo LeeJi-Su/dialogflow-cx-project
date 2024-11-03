@@ -1,0 +1,101 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "어깨 ",
+      "auto": true
+    }, {
+      "text": "통증이나",
+      "auto": true
+    }, {
+      "text": " 소화불량으로 인해 많이 힘든가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "지금",
+      "auto": true
+    }, {
+      "text": " 느끼는 어깨 ",
+      "auto": true
+    }, {
+      "text": "통증이나 소화불량이 고통스럽다고",
+      "auto": true
+    }, {
+      "text": " 생각하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "어깨 ",
+      "auto": true
+    }, {
+      "text": "통증이나 소화불량 때문에 매우 고통스러운",
+      "auto": true
+    }, {
+      "text": " 상황인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": "의 ",
+      "auto": true
+    }, {
+      "text": "어깨 통증이나 소화불량이 매우 힘든",
+      "auto": true
+    }, {
+      "text": " 상황인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "지금",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "나타나는 어깨 통증이나 소화불량으로 힘든",
+      "auto": true
+    }, {
+      "text": " 상황인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "현재 어깨 근육통이나 소화불량 때문에 많이 괴로우신가요",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그러면",
+      "auto": true
+    }, {
+      "text": ", "
+    }, {
+      "text": "현재 나타나는 어깨 근육통이나 소화불량으로 인해 매우 고통스러운 상황",
+      "auto": true
+    }, {
+      "text": "인가요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

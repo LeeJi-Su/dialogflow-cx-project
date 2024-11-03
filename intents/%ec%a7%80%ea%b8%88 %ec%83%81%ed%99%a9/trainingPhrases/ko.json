@@ -1,0 +1,29 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "지금 상황을 말씀해주실",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "수",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "지금 상황",
+      "auto": true
+    }, {
+      "text": "은 어떠신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

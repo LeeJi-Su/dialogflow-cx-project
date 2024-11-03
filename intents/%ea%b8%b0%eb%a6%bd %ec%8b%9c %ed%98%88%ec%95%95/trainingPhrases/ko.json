@@ -1,0 +1,30 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "기립 시 혈압",
+      "auto": true
+    }, {
+      "text": " 확인하겠습니다",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "기립 시 혈압",
+      "auto": true
+    }, {
+      "text": " 수치 보겠습니다",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "기립 시 혈압",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

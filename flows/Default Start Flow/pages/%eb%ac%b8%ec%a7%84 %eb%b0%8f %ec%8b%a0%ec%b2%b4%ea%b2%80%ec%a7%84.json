@@ -1,0 +1,2589 @@
+{
+  "name": "65ee722a-4881-4392-9064-6043e515c47a",
+  "displayName": "문진 및 신체검진",
+  "form": {
+    "parameters": [ {
+      "displayName": "user_question",
+      "entityType": "@sys.any",
+      "fillBehavior": {
+        "initialPromptFulfillment": {
+        
+        }
+      }
+    } ]
+  },
+  "entryFulfillment": {
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "intent": "우울장애 1",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "약간 우울하기도 합니다." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "5394408e-94df-43f0-9582-d3ac703add94"
+  }, {
+    "intent": "우울장애 2",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "아 딱히 그러진 않은 것 같아요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "85f55982-72ea-42e4-9fa1-6259fb8da8d9"
+  }, {
+    "intent": "주소증 질문",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "두근거림이 너무 심해서 왔어요.", "두근거림이 너무 심해요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "0fbd1fbe-dd5e-45f7-a550-d8c08aab9c66"
+  }, {
+    "intent": "우울장애 5",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "네" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "758b57d7-7119-4146-86f9-4aa7f6b11dc5"
+  }, {
+    "intent": "우울장애 3",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "네. 제가 소화가 잘 안돼서 식욕이 잘 없는 편입니다." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "a7038302-d7d5-4686-8434-a0720c45feb7"
+  }, {
+    "intent": "우울장애 7",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "그렇지 않습니다." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "64be7dea-3cb5-4bcd-8f81-e2aaf3f4c70a"
+  }, {
+    "intent": "우울장애 4",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "지금은 괜찮고 두근거림 나타났을 때만 불안합니다." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "1205686b-8c38-4020-a169-415a61b1a3df"
+  }, {
+    "intent": "우울장애 6",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "네 그렇진 않습니다.", "그렇진 않습니다." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "63022639-4983-439b-8427-326870a459b9"
+  }, {
+    "intent": "우울장애 8",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "네 그렇진 않아요.", "그렇진 않아요" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "3a3d29e0-d32c-427c-810f-d70b0a5681f5"
+  }, {
+    "intent": "범불안장애 1",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "아까 말했다시피 평소에는 그렇진 않은데 증상이 발생하면 숨이 안쉬어지니까 죽을까봐 무서워요. 그땐 불안하죠." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "a0231020-e4f2-4477-8b20-c4c2c19d5818"
+  }, {
+    "intent": "범불안장애 2",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "증상이 발생한 당시에는 제가 조절하기 힘듭니다." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "3ea29d55-d4b2-46c9-935c-2a33e558a46f"
+  }, {
+    "intent": "범불안장애 3",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "평소에 피로해서 증상이 나타났을 때 피곤해지는건 잘 모르겠네요.. 힘이 빠지긴 하는데 잘 모르겠어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "208eaf56-1e05-4c1d-99f1-4893f3dceb74"
+  }, {
+    "intent": "범불안장애 4",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "없습니다." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "920e7cbc-b0ea-4eab-b4dc-ba29e7144a1a"
+  }, {
+    "intent": "범불안장애 5",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "없습니다." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "bbc35c2c-e482-40fb-9766-fbc6897b5759"
+  }, {
+    "intent": "범불안장애 6",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "어깨가 원래 좀 많이 뭉쳐서.. 어깨가 뻐근하긴 해요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "9b0f03f2-6a93-4bd2-b902-0ece464db886"
+  }, {
+    "intent": "범불안장애 7",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "네. 약을 안 먹으면 잘 못 잡니다." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "1b1323f0-1460-4386-bde7-330ec5365619"
+  }, {
+    "intent": "공황장애 1",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "네. 증상 발생할 때 갑작스럽게 나타납니다." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "b44f06da-203d-4496-a1b3-c42f6c5bddb3"
+  }, {
+    "intent": "공황장애 2",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "네. 저도 계기가 있을까 생각해봤는데 진짜 그걸 못찾겠어요. 갑자기 나타납니다." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "240656c1-f536-466f-abe5-4734f51640ed"
+  }, {
+    "intent": "공황장애 3",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "네" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "423734bb-19d4-4b57-bb08-e507f115e06a"
+  }, {
+    "intent": "공황장애 4",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "네" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "39b8f7a9-7406-40f9-a0ba-eed474682eb6"
+  }, {
+    "intent": "공황장애 5",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "그렇진 않아요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "2ca3d7ee-07cf-4ecd-b3a4-cea598cec43f"
+  }, {
+    "intent": "공황장애 6",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "네. 엄청 답답하고 숨을 진짜 못 쉬겠어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "fd9d391c-7a65-4083-9199-9b852bce9338"
+  }, {
+    "intent": "공황장애 7",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "네" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "0f75963f-b6f0-45c9-90a5-24707e80198f"
+  }, {
+    "intent": "공황장애 8",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "통증보다는 숨이 안쉬어지고 답답해서 많이 불편합니다." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "2e1d9f05-d527-424e-9ad9-64a9ead5d42e"
+  }, {
+    "intent": "공황장애 9",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "딱히 그러진 않습니다." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "44694506-5000-49f6-b49a-b2b3b5987003"
+  }, {
+    "intent": "공황장애 10",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "약간 머리가 어지러운 것 같아요. 빡빡하다고 해야하나" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "b040aa10-9f51-4e64-b679-a36ed7f59ed4"
+  }, {
+    "intent": "공황장애 11",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "아니요" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "984710bb-f174-47de-9928-ed269226af5d"
+  }, {
+    "intent": "공황장애 12",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "그러진 않습니다." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "71fc5517-7754-4c6e-b859-f48eaf4f48cd"
+  }, {
+    "intent": "공황장애 13",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "아니요" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "ea4936ad-1c2f-4664-a3e8-07364d176af7"
+  }, {
+    "intent": "공황장애 14",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "죽을 것 같은 두려움은 통제가 절대 안돼요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "32b0c54c-de3b-42d4-b4ca-24aaa809cef5"
+  }, {
+    "intent": "공황장애 15",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "네" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "bcb1c57e-138d-45a4-ac7d-69efd8a97782"
+  }, {
+    "intent": "공황장애 16",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "지금은 괜찮아졌는데, 증상이 발생하고 가라앉아도 계속 걱정은 되죠." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "0a673141-3f52-4f89-97b1-f2e7c4d0b151"
+  }, {
+    "intent": "공황장애 17",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "운동을 할까 생각해봤는데 아직 하진 않았습니다." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "737cf674-1956-4bba-94cb-0a0fb6bda421"
+  }, {
+    "intent": "광장공포증 1",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "딱히 그렇진 않아요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "c1960c59-d63e-4b1c-b48a-b508bba15126"
+  }, {
+    "intent": "광장공포증 2",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "그래서 그런건 아닌 것 같아요" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "c9230c8b-23bc-48eb-8b8a-b96f40a812b3"
+  }, {
+    "intent": "광장공포증 3",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "공간이랑 상관 없는 것 같습니다." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "1c78bf5c-e424-41d7-a9e2-de9c86004059"
+  }, {
+    "intent": "광장공포증 4",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "제가 발작이 많이 일어나서 다양한 상황이 있었긴 한데, 그것때문은 아닌 것 같아요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "dfd8b7ba-77ec-4d51-9397-9621c5649be1"
+  }, {
+    "intent": "광장공포증 5",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "혼자 있다고 그런건 아니에요" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "a8385389-aa29-4253-ab75-93c3adf565dd"
+  }, {
+    "intent": "주소증 파악(두근거림 양상)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "약간 쿵쿵거린다고 해야하나? 일상생활이 안될 정도로 심하게 두근거리는 느낌을 받아요", "약간 쿵쿵거리는 듯 한데, 일상생활이 안될 정도로 심하게 두근거려요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "73c134f7-c2b5-422e-b2f4-db3d925c22c6"
+  }, {
+    "intent": "주소증 파악(심방/심실 조기수축)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "음.. 약간 쿵 내려앉는 것 같기도 하고, 빨리 뛰는 것 같기도 하고.. 복잡하네요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "d7c068ef-88d3-4a7c-beaa-c8ce57ad41fb"
+  }, {
+    "intent": "주소증 파악(빈맥성 부정맥)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "잘 모르겠어요.", "그건 잘 모르겠어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "36876d31-148a-46da-9280-270c79c8189c"
+  }, {
+    "intent": "주소증 파악(규칙성)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "규칙적인 것 같아요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "120fe0c6-6e7e-4135-aa55-376f040d7fce"
+  }, {
+    "intent": "주소증파악(서맥)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "빠른지 느린지 속도는 잘 모르겠어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "e319ba43-94f7-4abd-b761-edb9794a117e"
+  }, {
+    "intent": "주소증파악(자각 불편감의 정량화1)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "증상이 발생하면 제가 하고있는 활동은 바로 멈춰야되고, 증상이 가라앉기 전까지는 어떠한 행동도 못해요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "96e8349f-e807-49e2-af95-fe7a015e4772"
+  }, {
+    "intent": "주소증 파악(자각 불편감의 정량화2)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "음.. 증상이 발생할 땐 거의 9정도 되는 것 같아요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "6d543de0-3d15-4738-b43f-1da648d3a335"
+  }, {
+    "intent": "발병시기(onset)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "2달 전쯤부터 두근거림이 나타났어요. 그때쯤에 회사 업무도 많았고, 상사한테 폭언도 들어서 스트레스를 많이 받았던 것 같아요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "aad5e61c-e3f5-4355-a238-10da833ff6e4"
+  }, {
+    "intent": "병정(course)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "두근거림이 처음 발생했던 시기에 회사업무와 상사의 폭언 때문에 스트레스를 많이 받고 있었어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "5f7026ce-22a3-4e27-81f2-131abef5433c"
+  }, {
+    "intent": "병정(course2)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "시작은 두달 전이고, 매번 다르지만 증상이 심할 때도 있고, 심하지 않을 때도 있어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "448303ef-fefb-44dd-938f-eed38faea88c"
+  }, {
+    "intent": "지속(duration)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "한번 나타나면 30분 정도 지속되는 것 같아요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "0017f73e-ecd1-49d0-a5fc-304dce81ac96"
+  }, {
+    "intent": "지속(duration2)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "보통은 일주일에 2~3번 정도 나타나요. 심할 땐 하루에 2번 발생한 적도 있어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "854b0661-2ff9-46d8-8600-6d0070585e84"
+  }, {
+    "intent": "지속(duration 3)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "언제 심하다고 말하긴 애매해요.\n증상이 갑자기 찾아와서 아침에 심할때도 있고 밤에 심할 때도 있어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "1d4275ea-0c6e-4f5c-9233-d58c49c372c4"
+  }, {
+    "intent": "약인성 두근거림(1)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "제가 불면증이 있어서 수면제 처방 받은게 있어서 그걸 먹고, 소화제도 가끔 먹었어요. \n근데 약을 먹은 후에 증상이 더 심해지거나 그러진 않아요. 약을 안먹을 때도 증상이 나타나기도 했어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "58b8dd88-ab6d-44b1-94ff-d6cbbc61e2a9"
+  }, {
+    "intent": "생리적 두근거림(1)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "운동을 하면 심장이 뛰긴하는데, 그거랑 느낌이 좀 다른 것 같아요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "be6fdc5d-8b72-49f1-9a60-c2b43ccdf5ff"
+  }, {
+    "intent": "약인성 두근거림(2)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "그러지는 않는 것 같아요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "260fdf23-9561-47aa-822e-b05c39b9125f"
+  }, {
+    "intent": "기립성저혈압(1)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "앉았다가 일어난다고 해서 어지럽거나 두근거림이 나타나진 않아요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "46fcd558-7f37-48af-8deb-c0372f1201a1"
+  }, {
+    "intent": "최종진단",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "최종진단_안내",
+    "name": "c940ee64-a29c-4c43-b0ef-b47e959ab6b9"
+  }, {
+    "intent": "흉부-X-ray",
+    "triggerFulfillment": {
+      "messages": [ {
+        "payload": {
+          "richContent": [ [ {
+            "accessibilityText": "이미지 설명",
+            "height": 200,
+            "rawUrl": "https://drive.google.com/uc?export=view\u0026id=1o7DEZibRQTXxQyZWkU6wewNsEEdGXdLT",
+            "type": "image",
+            "width": 300
+          }, {
+            "icon": {
+              "color": "#FF9800",
+              "type": "search"
+            },
+            "link": "https://drive.google.com/uc?export=view\u0026id=1o7DEZibRQTXxQyZWkU6wewNsEEdGXdLT",
+            "text": "이미지 확대",
+            "type": "button"
+          } ] ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "1c5a033d-7623-4429-91a9-5b5b13640676"
+  }, {
+    "intent": "심전도 검사",
+    "triggerFulfillment": {
+      "messages": [ {
+        "payload": {
+          "richContent": [ [ {
+            "accessibilityText": "이미지 설명",
+            "height": 200,
+            "rawUrl": "https://drive.google.com/uc?export=view\u0026id=1tGZBZBkvei4f5NuormjgNNwqhyO2nh8i",
+            "type": "image",
+            "width": 300
+          }, {
+            "icon": {
+              "color": "#FF9800",
+              "type": "search"
+            },
+            "link": "https://drive.google.com/uc?export=view\u0026id=1tGZBZBkvei4f5NuormjgNNwqhyO2nh8i",
+            "text": "이미지 확대",
+            "type": "button"
+          } ] ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "b75cd6ef-a3e4-45ee-ac12-37f6f3c5cd9f"
+  }, {
+    "intent": "심장 초음파",
+    "triggerFulfillment": {
+      "messages": [ {
+        "payload": {
+          "richContent": [ [ {
+            "accessibilityText": "이미지 설명",
+            "height": 200,
+            "rawUrl": "https://drive.google.com/uc?export=view\u0026id=1l2IXedulf65sbcAHbeo_rDXVXHatKiBR",
+            "type": "image",
+            "width": 300
+          }, {
+            "icon": {
+              "color": "#FF9800",
+              "type": "search"
+            },
+            "link": "https://drive.google.com/uc?export=view\u0026id=1l2IXedulf65sbcAHbeo_rDXVXHatKiBR",
+            "text": "이미지 확대",
+            "type": "button"
+          } ] ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "a4490fe0-3148-45aa-85e6-db6482ebd3af"
+  }, {
+    "intent": "복부 X-ray(AP spine)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "payload": {
+          "richContent": [ [ {
+            "accessibilityText": "이미지 설명",
+            "height": 200,
+            "rawUrl": "https://drive.google.com/uc?export=view\u0026id=187Wt2D60tKDziJEYvVK9QWW1frFTNiIN",
+            "type": "image",
+            "width": 300
+          }, {
+            "icon": {
+              "color": "#FF9800",
+              "type": "search"
+            },
+            "link": "https://drive.google.com/uc?export=view\u0026id=187Wt2D60tKDziJEYvVK9QWW1frFTNiIN",
+            "text": "이미지 확대",
+            "type": "button"
+          } ] ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "027b1abf-0a9f-4a3e-9b76-bdedb5132afd"
+  }, {
+    "intent": "복부 x-ray(AP errect)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "payload": {
+          "richContent": [ [ {
+            "accessibilityText": "이미지 설명",
+            "height": 200,
+            "rawUrl": "https://drive.google.com/uc?export=view\u0026id=1995ByRH-cQlYA6eV-aL9u1PeNTr3A0-m",
+            "type": "image",
+            "width": 300
+          }, {
+            "icon": {
+              "color": "#FF9800",
+              "type": "search"
+            },
+            "link": "https://drive.google.com/uc?export=view\u0026id=1995ByRH-cQlYA6eV-aL9u1PeNTr3A0-m",
+            "text": "이미지 확대",
+            "type": "button"
+          } ] ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "64ebbd44-b4f4-4fec-ba8d-d4db42956e51"
+  }, {
+    "intent": "저혈당(1)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "제가 평소에 소화가 잘 안돼서 밥을 잘 안먹긴 하는데, 어지러울 때는 밥을 먹어도 비슷하게 어지러운 것 같이요. " ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "9387cf9a-4360-4df0-9490-f5193e649acd"
+  }, {
+    "intent": "폐경기증후군(1)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "월경은 2주 전쯤 했고, 별다른 이상 없이 규칙적이에요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "a00ac6db-fe91-4a14-a06c-8015df9e5ffb"
+  }, {
+    "intent": "임신(1)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "임신 가능성은 없어요. 그리고 최근에 월경도 했습니다." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "5e3a5046-ac23-4dd3-a278-0d363e8028c1"
+  }, {
+    "intent": "갑상선 기능항진(1)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "음.. 덥다고 해서 증상이 더 심해지거나 하진 않아요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "121949c9-a716-4130-a526-482694ecc9a5"
+  }, {
+    "intent": "red flag(1)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "두근거림이 나타날 때면, 식은 땀도 나고 머리도 어지러운 듯해요. 신경쓰입니다. " ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "da6fcf5f-d6d2-43b9-ac61-9ae517e4cb13"
+  }, {
+    "intent": "red flag(2)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "음.. 구역질은 없어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "aa72c675-8c58-4ca5-9b80-243611811454"
+  }, {
+    "intent": "red flag(3)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "증상 때문에 신경이 예민해지는 건 아니에요. " ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "c5876b84-efc5-484e-acd6-120c625d3ba6"
+  }, {
+    "intent": "red flag(4)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "잘 모르겠어요. 상복부에 통증은 없는 것 같아요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "dab16d6d-f6a1-4679-baad-e718ba1cc4a5"
+  }, {
+    "intent": "red flag(5)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "가슴이 답답하긴 한데, 쥐어짜는 듯한 통증은 아니에요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "9b6ed1c3-9140-4a4b-ba4c-6426ceef0640"
+  }, {
+    "intent": "red flag(6)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "사실 호흡곤란이 무서워서 내원했어요. 증상이 나타나면, 가슴이 엄청 두근거리면서 답답하고 숨이 잘 안쉬어져서 무서워요," ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "d560cd8d-4a7c-4a78-934d-561eaa2fe764"
+  }, {
+    "intent": "red flag(7)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "증상이 나타나면 보통 앉아있는 편이긴 해요. 그런데 누운 자세에서 더 심해지진 않아요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "923d81ad-ac21-4bf4-a2cc-695ae2f046db"
+  }, {
+    "intent": "red flag(8)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "아니요. 실신한 적은 없어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "ca308c38-fae9-4808-a94a-a8f283727e03"
+  }, {
+    "intent": "red flag(9)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "찢어지는 듯한 느낌보다는 답답하면서 숨이 안쉬어지고 두근거리는 느낌이에요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "6bcafe79-990a-47c6-8ccc-fef1b6e0641d"
+  }, {
+    "intent": "red flag(10)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ " 평소에 어깨 근육통이 있어서 뻐근함이 있긴 한데, 두근거림이 나타난다고 해서 통증이 나타나는 건 아니에요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "4e64bce1-eb79-4aa1-888d-05a5afda93df"
+  }, {
+    "intent": "동반증상(갑상선 기능항진증 1)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "두근거림이 나타나기 전후로 딱히 달라진 건 없어요. 예전과 비슷한 정도로 더위를 적당하게 타는 것 같습니다." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "ba880e50-867b-424b-938f-26e847f309d2"
+  }, {
+    "intent": "동반증상(갑상선 기능항진증 2)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "체중은 비슷해요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "3845d7f0-46a1-4e1b-a912-978814c7f4d4"
+  }, {
+    "intent": "동반증상(3)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "제가 불면증이 있어서 피로감이 항상 있긴 하지만, 일상생활을 못할 정도로 심하진 않아요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "0ad10257-6d7a-4241-a72d-9e9042ae2624"
+  }, {
+    "intent": "동반증상(길랑바레 증후군)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "그런 증상은 없어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "20ff4c07-0246-4f0f-8e50-247e154e38d1"
+  }, {
+    "intent": "동반증상(우울장애)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "딱히 무기력하거나 우울해지거나 그러진 않아요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "a3fa1a98-8fa4-4997-9366-e7821389ef25"
+  }, {
+    "intent": "동반증상(신체화장애1)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "어깨 근육통이랑 소화불량도 있어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "bc881dfd-73f3-40d2-99d6-d2b186fa1017"
+  }, {
+    "intent": "동반증상(신체화장애2)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "네. 근육통이랑 소화가 잘 안되는 증상이 동반돼요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "e223d293-ce14-4f14-8710-5acca63bf29c"
+  }, {
+    "intent": "동반증상(신체화장애3)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "흠,, 두근거릴 때 숨이 잘 안 쉬어지면서 식은 땀도 나고, 약간 어지럽긴 합니다." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "f838a678-508e-4476-ad91-81c464652542"
+  }, {
+    "intent": "동반증상(불안장애)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "두근거림이 나타나면 엄청 불안해요. 숨이 제 의지대로 안 쉬어지니까 증상이 가라앉은 후에도 몇 시간 동안은 계속 안절부절 못해요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "a9de20e7-07ba-4af5-b173-ebee86138028"
+  }, {
+    "intent": "신체화장애(1)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "불면증 때문에 정신과 방문하여 수면제 처방 받은 적 이외엔 병원에 방문한 적 없어요. " ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "79cee7a0-46c4-45ee-92f8-f41f6d0fc04c"
+  }, {
+    "intent": "신체화장애(2)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "어깨 근육통이나 소화불량은 많이 심하진 않아요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "0387119e-6cb2-4d40-b84f-cb11aab745eb"
+  }, {
+    "intent": "사회력(1)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "재혼했고, 현재 남편과 초등학생 딸과 함께 살고 있어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "d022e3d5-854a-429c-98cf-1c36b1979ec9"
+  }, {
+    "intent": "사회력(2)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "사실 남편과 사이가 안좋아요. 최근 남편이 직장을 잃었는데, 술만 마셔요. 초등학생 딸이 있어서 돈을 벌어야하는데.. 정말 걱정이에요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "a40aef7d-d1f2-4aac-a4dc-6f1db30b9e17"
+  }, {
+    "intent": "사회력(3)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "저랑 딸은 괜찮은데 애가 아빠를 싫어해서.. 이것도 문제네요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "c0610f59-ab92-47af-84e6-112cbc0173fb"
+  }, {
+    "intent": "사회력(4)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "시어머니와 특별히 문제는 없어요. " ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "82a18b3e-f105-4182-9e4f-08efb3219b77"
+  }, {
+    "intent": "사회력(5)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "직장 상사가 폭언을 자주해서 너무 스트레스에요. \n 그리고 회사에서 증상이 발생할까봐 불안하기도 해요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "23f1826e-9fc6-4839-87e2-569e96afe072"
+  }, {
+    "intent": "사회력(6)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "네. 직장상사가 말을 막해서 지금도 스트레스를 받는 중이에요. 처음 두근거림이 발생했을 때도 폭언을 듣고 난 후였어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "62e811b6-b3c4-468f-843a-27f4e5388d63"
+  }, {
+    "intent": "과거력(1)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "두근거림으로 병원을 가본 적은 없습니다. 불면증 때문에 6개월 전에 근처 정신과에 방문한 게 전부에요. 아! 그때 수면제로 졸피뎀을 처방받았아요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "4c7d920a-d73a-41ff-8613-a7b8f10da5c1"
+  }, {
+    "intent": "약물력(1)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "제가 1~2년 전부터 불면 증상이 있었는데, 6개월 전에 근처 정신과에 가서 불면증 진단을 받고 약 처방 받았어요. 그 약이 아마 졸피뎀이었던 것 같아요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "fb7ac935-7991-4546-9b09-e3366e9dd67e"
+  }, {
+    "intent": "과거력(갑상선 기능 저하증 or 항진증)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "갑상선 호르몬 수치는 큰 이상 없었어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "e4a23db3-032a-43a1-b25c-4615133687e7"
+  }, {
+    "intent": "약물력",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "불면증 때문에 처방받은 졸피뎀 말고는 현재 복용 중인 약은 없어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "ca33a32a-8df4-4c0f-b249-4dc4c66fd23d"
+  }, {
+    "intent": "폐경기",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "월경은 지금까지 해오던 패턴과 동일해요. 변화 없습니다." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "812898c7-5307-4e10-a2f0-94965d77c2aa"
+  }, {
+    "intent": "고혈압",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "고혈압 진단을 받은 적은 없어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "18f61ea4-2fde-429f-ad98-fd57cf4bc916"
+  }, {
+    "intent": "길랑바레",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "최근에  감염질환을 앓은 적은 없어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "b016bf40-868a-44c6-bc7f-ae15b594bfe7"
+  }, {
+    "intent": "카페인",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "커피는 하루에 1잔 마셔요. 10년 전부터 그래왔어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "43683b2d-5bed-4d58-b467-97bef674149b"
+  }, {
+    "intent": "알코올, 니코틴",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "술과 담배는 일절 안합니다." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "3aa9588b-27c0-4fef-92bf-c961d8f48193"
+  }, {
+    "intent": "정신과적",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "일 때문에 밤을 새진 않아요. " ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "1aac6eff-e44a-476c-bc6b-db370edbdbc5"
+  }, {
+    "intent": "가족력(크롬친화세포종)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "암이나 종양질환은 없는 것 같아요. " ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "06e80e76-4a02-445a-bea8-86d416c2006f"
+  }, {
+    "intent": "가족력(갑상선기능항진증)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "갑상선 질환은 없습니다." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "d6626b49-734a-4706-9c65-08ff45164fe7"
+  }, {
+    "intent": "가족력(부정맥)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "저도 그렇고 가족들도 그렇고 부정맥 없습니다." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "3edf0955-0bfe-4d05-b402-9475dd675aec"
+  }, {
+    "intent": "가족력(당뇨)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "아버지가 당뇨로 돌아가셨어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "9fa62e1a-74a1-49f7-b98c-35a5a5861391"
+  }, {
+    "intent": "한방변증(1)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "소화도 잘 안되고 식욕도 없어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "4e3f13e6-c080-480e-993d-16888c72e87f"
+  }, {
+    "intent": "한방변증(2)",
+    "triggerFulfillment": {
+    
+    },
+    "name": "709e679c-1699-4c4e-a0c0-94877359a49e"
+  }, {
+    "intent": "한방변증(2)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "토하고 싶다거나 그러진 않아요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "9f377d3a-2d4f-4abd-abb9-bcdf96cd23e2"
+  }, {
+    "intent": "한방변증(3_대변)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "대소변에는 문제 없는 것 같아요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "0fd79220-a478-44c2-8fcd-40d02bb62d13"
+  }, {
+    "intent": "한방변증(4)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "일단 증상이 발생하면 하던 일을 멈춰야해서 쉬긴해요. 그렇게 시간이 지나면 괜찮아지는 것 같아요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "eb90fcf7-2758-4098-9bf8-35fbe2c7c253"
+  }, {
+    "intent": "한방변증(5_수면)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "잠은 6개월전부터 잘 못자요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "5e820a08-0c5d-4446-b7f9-a9e270c6dc33"
+  }, {
+    "intent": "한방변증(6)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "쉽게 화를 내고 그러진 않아요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "2de36f46-8a38-4ce6-9c20-dccc4f453cba"
+  }, {
+    "intent": "한방변증(7)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "입이 마른 증상은 없어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "c65d8b1a-e79f-486f-8af0-f2f0b53495e9"
+  }, {
+    "intent": "한방변증(8)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "음.. 몸에서 딱히 열감이 느껴지진 않아요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "2efb4b63-a68e-47f5-a936-e5012362baae"
+  }, {
+    "intent": "한방변증(10)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "잘 때 땀을 흘리진 않습니다." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "ddad412c-9372-4d0f-94f8-a9cb8385e6c3"
+  }, {
+    "intent": "한방변증(11)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "두근거림이 나타나면 숨을 잘 못셔요. 어지러운 것 같기도 하고요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "b826514f-087b-45d0-8a64-12d4137710fe"
+  }, {
+    "intent": "한방변증(12)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "기운 없죠. 밥도 잘 못먹고 잠도 잘 못자니까.." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "d88abce2-b5c0-42b8-a5de-834f1ef81779"
+  }, {
+    "intent": "한방변증(13)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "쉽게 놀라지는 않는 편이에요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "eebe460c-283b-4d06-a03c-260a07d0fea6"
+  }, {
+    "intent": "한방변증(14_사지)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "사지가 특별히 차갑진 않습니다." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "f0aa6ddd-515a-4d91-a5b9-2cb77a5beb83"
+  }, {
+    "intent": "한방변증(15_부종)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "부종은 없어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "d57b5ee7-81b9-47ea-8038-5c59e0e4a7cd"
+  }, {
+    "intent": "한방변증(16_요통)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "허리는 튼튼합니다. 안아파요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "257f3909-c97e-4597-83dc-4b9c81b511e4"
+  }, {
+    "intent": "피부색 확인",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "이상 소견 없습니다" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "30acf6a8-f819-4654-85ad-56a4440ced43"
+  }, {
+    "intent": "목정맥 확인",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "이상 소견 없습니다" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "f7e45c1e-9eb1-460d-a368-9915e869b0bf"
+  }, {
+    "intent": "복부 촉진",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "이상 소견 없습니다" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "264378b4-4222-4e12-921f-e001cbbdb96c"
+  }, {
+    "intent": "갑상선 촉진",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "이상 소견 없습니다" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "34d756ec-2e04-4b02-9912-62651a3c0554"
+  }, {
+    "intent": "흉부 타진",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "이상 소견 없습니다" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "c4c4ea7f-7f97-4230-88d9-6bbe8d573ff4"
+  }, {
+    "intent": "일반 혈액 검사 및 생화학 검사",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "\n검사 항목                       검사결과         단위\n혈색소 (HB)                     14.4                g/dl\n헤마토크리트 (HCT)       45.0                  %\n적혈구 (RBC)                   4.41             백만개/uL\n백혈구 (WBC)                  7.08               천개/uL\n혈소판수 (Platelet)         322                천개/uL\nMCV                                  102.0                fL\nMCH                                  32.7                 pg\nMCHC                               32.0                g/dL\n적혈구침강속도 (ESR)     6                  mm/hr\n분절호중구 (Seg N)        57                     %\n임파구 (Lymphocyte)     33                     %\n단핵구 (Monocyte)         6                       %\n호산구 (Eosinophil)        3                       %\n호염기성구 (Basophil)   1                       %\n" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "ca3b8242-87e4-4b35-8da0-72587df744a5"
+  }, {
+    "intent": "간기능 검사",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "                                     \n혈청지오티 (SGOT, ALT)           17                  U/L\n혈청지피티 (SGPT, AST)          20                  U/L\n알카린포스파타제 (ALP)         49                   U/L\n감마지티피 (r-GTP)                  26                   U/L\n총단백 (Total Protein)            6.97                 g/dl\n알부민 (Albumin)                    4.13                 g/dl\n총빌리루빈 (Total Billirubin) 0.46               mg/dl\n직접빌리루빈 (Direct Bilirubin)  0.10          mg/dL\n" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "0b0142fb-03cb-4af8-b342-606686b90d4a"
+  }, {
+    "intent": "신기능 검사",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "                             \n요소질소 (BUN)                       10.8         mg/dl\n크레아티닌 (creatinine)          0.93        mg/dl\n  \n" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "91f3ea44-d8d9-4848-8aba-0222828bcbe8"
+  }, {
+    "intent": "전해질 검사",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "\n나트륨 (Na)            139               mEq/day\n칼륨 (K)                   4.9                mmol/L\n염소 (Cl)                 100                mmol/L\n" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "fe628dd1-87e6-44c0-98cd-a2a6ec27f3db"
+  }, {
+    "intent": "소변검사",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "\n요비중 (SG)                          1.018                 -\n산성도 (PH)                              6.0               pH\n요백혈구 (Leucocyte)          음성                  -\n아질산염 (Nitrite)                 음성                  -\n요단백 (protein)                   음성                   -\n요당 (Glucose)                     음성                   -\n케톤 (Ketone)                       음성                   -\n유로빌리노겐 (Urobilino)   음성                   -\n빌리루빈 (Bilirubin)             음성                   -\n요적협구 (Blood)                 음성                   -\n요백협구 (WBC)                    0-1                /H.P.F\n요적혈구 (RBC)                     0-1               /H.P.F\n상피세포 (ECell)                   0-1               /H.P.F" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "66d1125b-d719-4172-8918-0e100b02aea4"
+  }, {
+    "intent": "맥진",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "맥세약(脈細弱) 입니다" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "5713130b-ed2b-43d2-9130-77ca08aea9b9"
+  }, {
+    "intent": "설진",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "설질담(舌質淡)입니다" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "204d98fa-56c1-4a5b-8f83-2c2f58f3284c"
+  }, {
+    "intent": "기립 시 혈압",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "\n검사 항목                           검사결과      단위\n누워 있을 때의 혈압         120/80        mmHg\n일어난 즉시 측정한 혈압\n                                    1차   105/75      mmHg\n                                    2차   110/75      mmHg\n                                    3차   115/79      mmHg \n" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "17b382ae-bfe8-4cfa-adda-ccaa4fe5dc17"
+  }, {
+    "intent": "당뇨 검사",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "\n공복혈당 (Glucose)           89            mg/dL\n당화혈색소 (HbA1C)        5.7                %\n" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "3b7f4918-8adc-48a4-b418-1f74a57a6c03"
+  }, {
+    "intent": "  혈중 여성 호르몬 검사 결과 ",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "\nFSH                           8.2               mIU/mL\nLH                             10                mIU/mL\nE2                              11                pg/mL\nProgesterone          1.0               ng/mL\nAMH                         2.0               ng/mL\n" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "769789e7-99fe-47e6-a823-e558bcaaa455"
+  }, {
+    "intent": "갑상선 기능검사",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "\nFree T4               1.14                 ng/dL\nTSH                    1.94                  uIU/mL\n" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "ab90c54c-92fb-493b-baa3-582662af9726"
+  }, {
+    "intent": "평소 성격",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "예민하고 별 것 아닌 일에도 쉽게 화가 나고 언성이 높아져요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "344d612e-a85c-4ceb-be65-470389a39b94"
+  }, {
+    "intent": "현재 감정 상태",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "최근 직장 상사의 폭언으로 인해 정신적 충격을 받았고, 어려워진 경제사정과 딸의 초등학교 입학 등으로 스트레스가 심하여 예민해요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "b09d37f8-ca71-4395-a4f0-e9d7fe93d5b0"
+  }, {
+    "intent": "지금 상황",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "불면증이 심해서 신체적 피로가 누적되고, 상사로부터 폭언을 들은 직장에서 1~2주일에 한 번 가량 식은 땀, 가슴 두근거림과 죽을 것 같은 공포가 발작적으로 나타나 직장생활이 어려운 상황이에요. 경제사정으로 인해 일을 그만둘 수도 없어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "3403091c-bb42-4689-891f-237df2aaa7ce"
+  }, {
+    "intent": "지금 가장 걱정되는 것",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "남편이 최근 실직하여 경제적인 소득이 없는데다가 매일 음주를 일삼고 있어요. 갓 초등학교에 입학한 딸의 양육비를 마련해야 하는 상황이에요. 제가 홀로 가정을 부양해야 하는데 심장두근거림으로 인해 직장생활에 어려움이 있어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "8cf43ef0-f253-4ec7-b042-84ae2678a9ba"
+  }, {
+    "intent": "지금 기대하는 것",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "정신적으로 평안을 찾고, 충분한 수면을 취하여 직장생활을 계속해 딸의 뒷바라지를 할 수 있게 건강을 찾고 싶어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "e90fc768-a0dd-42e7-a692-8d3903966f7f"
+  }, {
+    "intent": "표정",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "입꼬리가 아래로 쳐져있고, 눈동자의 초점이 불안하게 흔들리는 편이에요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "3ca27ed4-21ee-44ef-be38-530ccb514cf4"
+  }, {
+    "intent": "자세",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "어깨, 승모근이 긴장된 듯 들려있으면서 구부정한 편이에요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "76abdcd8-15ef-4aa5-b7c3-c3ab43230fed"
+  }, {
+    "intent": "복장",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "특이사항 없어요" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "f8ebec43-5124-4acf-993f-f4be5dc4b679"
+  }, {
+    "intent": "한방변증(17)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "음식은 원래 잘 안먹어요. 최근에 줄어든 건 아니에요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "fbaf2924-0969-4e33-b9e4-3de60edbf1a7"
+  }, {
+    "intent": "한방변증(18)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "가래는 없어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "040cc317-0c0d-421b-b8dd-ba51d53adcdc"
+  }, {
+    "intent": "한방변증(19)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "가슴이 답답한데, 이게 통증은 또 아닌것 같아요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "eaa84c60-779a-49fd-8112-88d0993eb05a"
+  }, {
+    "intent": "인삿말",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "네 안녕하세요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "2a32bc09-61be-425a-bcdd-55e989a6e891"
+  }, {
+    "intent": "호응",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "네 그렇습니다." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "270cbdab-c4a1-4dc5-9b94-19a6c9955fb4"
+  }, {
+    "intent": "X-ray",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "어떤 X-ray를 보시겠습니까?(흉부 X-ray / 복부 X-ray AP spine / 복부 X-ray AP errect)" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "852cc907-e1ba-4feb-9b6e-f08eddd6d9a0"
+  }, {
+    "intent": "심음 측정",
+    "triggerFulfillment": {
+      "messages": [ {
+        "payload": {
+          "richContent": [ [ {
+            "link": "https://storage.googleapis.com/bucket-chat01/%EC%8B%AC%EC%9D%8C%20%EC%9D%B4%EC%83%81%20%EC%86%8C%EA%B2%AC%20%EC%97%86%EC%9D%8C.mp3",
+            "text": "오디오 듣기",
+            "type": "button"
+          } ] ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "a4bb88f5-eede-409d-8263-c1616d27f627"
+  }, {
+    "intent": "청진음 ",
+    "triggerFulfillment": {
+      "messages": [ {
+        "payload": {
+          "richContent": [ [ {
+            "link": "https://storage.googleapis.com/bucket-chat01/%EC%B2%AD%EC%A7%84%EC%9D%8C%20%EC%9D%B4%EC%83%81%EC%86%8C%EA%B2%AC%20%EC%97%86%EC%9D%8C.mp3",
+            "text": "오디오 듣기",
+            "type": "button"
+          } ] ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "f8fdcd84-64b6-4e90-a46f-1d9eb4f80bce"
+  }, {
+    "intent": "장음",
+    "triggerFulfillment": {
+      "messages": [ {
+        "payload": {
+          "richContent": [ [ {
+            "link": "https://storage.googleapis.com/bucket-chat01/%EC%9E%A5%EC%9D%8C%20%EC%9D%B4%EC%83%81%EC%86%8C%EA%B2%AC%20%EC%97%86%EC%9D%8C%20(1).mp3",
+            "text": "오디오 듣기",
+            "type": "button"
+          } ] ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "1ec52f58-c2d0-4fdb-a2c9-748bddf9fb67"
+  }, {
+    "intent": "두근거리는 상황",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "회사에서 일 하다가 피로가 쌓이고 집중이 안될 때 나타나요. 특별한 상황 없이 갑자기 나타나기도 해요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "7dc60a2f-14e1-4f08-80ce-b94dc644152e"
+  }, {
+    "intent": "불편한 점",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "심장이 두근거리면서 식은땀도 나고, 죽을 것 같은 공포가 느껴져요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "7e8fbccf-d41c-4c42-921a-74b9f279c3bd"
+  }, {
+    "intent": "PVST (1)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "시작은 갑작스러웠던 것 같은데, 끝은 잘 모르겠네요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "8fa03312-c784-477e-bf59-20fc39ce580b"
+  }, {
+    "intent": "PVST(2)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "두근거린다고 소변을 보고싶진 않아요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "602123c3-774b-43a8-b33c-5b8a21dda8b9"
+  }, {
+    "intent": "저혈당증 + 공황장애",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "경련이나 떨림은 없는데 갑자기 두려운 감정이 엄습해요. " ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "5d55c38c-467c-4042-bef1-fbc374f10cd2"
+  }, {
+    "intent": "저혈량증(1)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "구토물에 혈액이 섞여있진 않아요. 구토도 없고요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "70c9d2b6-cc24-4528-a224-91b74f9d86e1"
+  }, {
+    "intent": "복부 x-ray",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "복부 x-ray (AP spine)과 복부 x-ray (AP errect) 중에 하나를 골라주세요.\n\n(두 개 다 확인하고 싶으시다면, 하나를 고른 이후 다시 요구해주세요)" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "7898197d-6311-4fd4-b599-cc834a2e493a"
+  }, {
+    "intent": "환자 인적사항 확인",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "이름은 박선영이고, 80년 9월 15일생 입니다." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "799eb1f3-b293-47fa-9b9a-49557d31e91f"
+  }, {
+    "intent": "환자인적사항(이름)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "박선영입니다." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "46b496ef-973e-4d3d-9f06-f7de719b94f7"
+  }, {
+    "intent": "환자 인적사항(생년월일)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "80년 9월 15일입니다." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "c21533cc-138f-4880-887c-3c05aaaed901"
+  }, {
+    "intent": "빈혈 확인",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "피부가 창백하거나 그러진 않아요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "41cf9ac0-8a8f-4fca-95f5-8a29bbb9e2f3"
+  }, {
+    "intent": "여성력(홍조)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "얼굴이 붉거나 후끈후끈 달아오르진 않아요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "e1763c5c-95a8-446b-aff8-e14818957841"
+  } ]
+}

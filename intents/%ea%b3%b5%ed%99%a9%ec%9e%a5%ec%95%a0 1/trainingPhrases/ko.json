@@ -1,0 +1,140 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "극심한 공포",
+      "parameterId": "person",
+      "auto": true
+    }, {
+      "text": "가 갑작스럽게 발생하나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "극심한 공포, 극도의 두려움, 불안감이 갑작스럽게",
+      "auto": true
+    }, {
+      "text": " 발생하나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "예상치 못한 순간에 극심한 공포, 극도의 두려움, 불안감이 반복적으로",
+      "auto": true
+    }, {
+      "text": " 발생하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "반복적으로 그리고 갑작스럽게 극심한 공포, 극도의 두려움, 불안감을",
+      "auto": true
+    }, {
+      "text": " 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "극심한 공포, 극도의 두려움, 불안감이 반복적으로 그리고 갑자기 찾아",
+      "auto": true
+    }, {
+      "text": "오시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "예상하지 못한 때에 극심한 공포, 극도의 두려움, 불안감이 반복해서",
+      "auto": true
+    }, {
+      "text": " 나타나시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갑작스럽고 반복적으로 극심한 공포, 극도의 두려움, 불안감이",
+      "auto": true
+    }, {
+      "text": " 발생하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "반복적으로 그리고 예상치 못하게 극심한 공포, 극도의 두려움",
+      "auto": true
+    }, {
+      "text": ", ",
+      "auto": true
+    }, {
+      "text": "불안감",
+      "auto": true
+    }, {
+      "text": "을 경험하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "극심한 공포, 극도의 두려움, 불안감이 갑자기 그리고 반복적으로 나타나시",
+      "auto": true
+    }, {
+      "text": "는 건 아닌가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "예상하지 못한 순간에 극심한 공포, 극도의 두려움, 불안감이 반복적으로 찾아오시",
+      "auto": true
+    }, {
+      "text": "나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갑작스럽게 극심한 공포나 극도의 두려움, 불안감이 반복해서",
+      "auto": true
+    }, {
+      "text": " 발생하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 극심한 공포, 극도의 두려움, 불안감이 예상치 못하게 반복적으로",
+      "auto": true
+    }, {
+      "text": " 나타나시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "다음 증상이 반복적으로 예상하지 못하게 나타나면 말씀해주세요.\r 극심한 공포, 극도의 두려움, 불안감이 갑작스럽게",
+      "auto": true
+    }, {
+      "text": " 발생하나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

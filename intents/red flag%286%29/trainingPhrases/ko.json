@@ -1,0 +1,446 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "두근거림을 경험",
+      "auto": true
+    }, {
+      "text": "하면서 호흡곤란을 느낀 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림과 호흡곤란이 동시에 나타나는 일",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 자주 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 있을 때 ",
+      "auto": true
+    }, {
+      "text": "호흡이 가쁘게 느껴진 적이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 발생할 때",
+      "auto": true
+    }, {
+      "text": " 호흡",
+      "auto": true
+    }, {
+      "text": "곤란",
+      "auto": true
+    }, {
+      "text": "을 느끼는 경우가 많나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 있을 때 ",
+      "auto": true
+    }, {
+      "text": "호흡곤란을 경험",
+      "auto": true
+    }, {
+      "text": "한",
+      "auto": true
+    }, {
+      "text": " 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림과 함께 호흡곤란이",
+      "auto": true
+    }, {
+      "text": " 나타나는 경우가 많나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 발생할 때",
+      "auto": true
+    }, {
+      "text": " 호흡",
+      "auto": true
+    }, {
+      "text": "곤란을",
+      "auto": true
+    }, {
+      "text": " 느끼는 ",
+      "auto": true
+    }, {
+      "text": "일이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림",
+      "auto": true
+    }, {
+      "text": "을 느낄 때 호흡곤란을 자주 겪으시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거릴 때 호흡곤란이 동반되어",
+      "auto": true
+    }, {
+      "text": " 나타나시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림과 호흡곤란이",
+      "auto": true
+    }, {
+      "text": " 동반되나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림과",
+      "auto": true
+    }, {
+      "text": " 동시에 ",
+      "auto": true
+    }, {
+      "text": "호흡곤란이",
+      "auto": true
+    }, {
+      "text": " 느껴지시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 있을 때 ",
+      "auto": true
+    }, {
+      "text": "호흡이 갑자기",
+      "auto": true
+    }, {
+      "text": " 어려워지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림",
+      "auto": true
+    }, {
+      "text": "을 느낄 때 호흡곤란",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 함께 오는 경우가 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 있을 때 ",
+      "auto": true
+    }, {
+      "text": "호흡이 어려운 적이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림",
+      "auto": true
+    }, {
+      "text": "을 느낄 때 호흡",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 힘들어지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있을 때 호흡곤란",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 느껴지시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그러면, ",
+      "auto": true
+    }, {
+      "text": "호흡곤란도",
+      "auto": true
+    }, {
+      "text": " 함께 나타나시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 나타날 때 호흡곤란이 나타나",
+      "auto": true
+    }, {
+      "text": "진 않으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거릴 때 호흡",
+      "auto": true
+    }, {
+      "text": "곤란",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 오시지는 않으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 있을 때 ",
+      "auto": true
+    }, {
+      "text": "호흡곤란이",
+      "auto": true
+    }, {
+      "text": " 있었던 경험 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거리는",
+      "auto": true
+    }, {
+      "text": " 증상",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있을 때 ",
+      "auto": true
+    }, {
+      "text": "호흡곤란이",
+      "auto": true
+    }, {
+      "text": " 나타나거나 그러신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있을 때 ",
+      "auto": true
+    }, {
+      "text": "호흡곤란",
+      "auto": true
+    }, {
+      "text": "도 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거릴",
+      "auto": true
+    }, {
+      "text": " 때 ",
+      "auto": true
+    }, {
+      "text": "호흡곤란 증상도",
+      "auto": true
+    }, {
+      "text": " 동반되시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거릴 때 호흡곤란",
+      "auto": true
+    }, {
+      "text": "도 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거리는 증상이",
+      "auto": true
+    }, {
+      "text": " 나타날 때 호흡도 ",
+      "auto": true
+    }, {
+      "text": "곤란",
+      "auto": true
+    }, {
+      "text": "해지시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 나타날 때 호흡곤란도",
+      "auto": true
+    }, {
+      "text": " 동반되나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "호흡곤란",
+      "auto": true
+    }, {
+      "text": "을 경험하신 적 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "호흡곤란도 경험하신",
+      "auto": true
+    }, {
+      "text": " 적 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "호흡곤란",
+      "auto": true
+    }, {
+      "text": "도 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "호흡곤란이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "호흡곤란이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼 호흡곤란도",
+      "auto": true
+    }, {
+      "text": " 함께 나타나시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

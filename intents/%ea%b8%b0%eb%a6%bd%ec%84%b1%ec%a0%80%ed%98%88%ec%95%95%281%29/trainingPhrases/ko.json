@@ -1,0 +1,287 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "앉아 ",
+      "auto": true
+    }, {
+      "text": "있다가 일어났을 때 가슴이 두근거리는 느낌이 자주",
+      "auto": true
+    }, {
+      "text": " 드시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "앉았다가 일어난 직후에 ",
+      "auto": true
+    }, {
+      "text": "두근거림이 더",
+      "auto": true
+    }, {
+      "text": " 두드러지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "앉았다가 일어난 후에 ",
+      "auto": true
+    }, {
+      "text": "두근거림과 어지럼증이",
+      "auto": true
+    }, {
+      "text": " 느껴지는 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "앉았다",
+      "auto": true
+    }, {
+      "text": "가 일어",
+      "auto": true
+    }, {
+      "text": "났을 ",
+      "auto": true
+    }, {
+      "text": "때 어지러움과 두근거림이",
+      "auto": true
+    }, {
+      "text": " 발생하나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "앉아 ",
+      "auto": true
+    }, {
+      "text": "있다가",
+      "auto": true
+    }, {
+      "text": " 일어난 후에 ",
+      "auto": true
+    }, {
+      "text": "가슴이",
+      "auto": true
+    }, {
+      "text": " 두근거리고 어지럽나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "앉았다",
+      "auto": true
+    }, {
+      "text": "가 일어",
+      "auto": true
+    }, {
+      "text": "났을 때 ",
+      "auto": true
+    }, {
+      "text": "어지럽고 두근거리는 느낌이",
+      "auto": true
+    }, {
+      "text": " 드시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "앉았다",
+      "auto": true
+    }, {
+      "text": "가 일어",
+      "auto": true
+    }, {
+      "text": "났을 때 ",
+      "auto": true
+    }, {
+      "text": "어지럼증이 더 심하게",
+      "auto": true
+    }, {
+      "text": " 느껴지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "일어난 직후에 두근거림",
+      "auto": true
+    }, {
+      "text": "과 함께 어지럼증이",
+      "auto": true
+    }, {
+      "text": " 느껴지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "앉았다가 일어난 후 ",
+      "auto": true
+    }, {
+      "text": "가슴이 두근거리고",
+      "auto": true
+    }, {
+      "text": " 어지럽나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "앉았다가 일어날 때 어지러우신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "앉았다 일어날 때 ",
+      "auto": true
+    }, {
+      "text": "어지러운 증상이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "앉았다 일어나면 ",
+      "auto": true
+    }, {
+      "text": "어지럼증이",
+      "auto": true
+    }, {
+      "text": " 있나요\u003e",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "앉았다가 일어나면 ",
+      "auto": true
+    }, {
+      "text": "어지러운",
+      "auto": true
+    }, {
+      "text": "가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "일어난 직후에 ",
+      "auto": true
+    }, {
+      "text": "어지럽고 두근거리는 기분이 드시",
+      "auto": true
+    }, {
+      "text": "나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "앉아 ",
+      "auto": true
+    }, {
+      "text": "있다가 일어났을 때 가슴이 두근거리는",
+      "auto": true
+    }, {
+      "text": " 것 같나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "일어난 직후에 어지러움과 함께 ",
+      "auto": true
+    }, {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 느껴지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "앉았다가 일어난 후 ",
+      "auto": true
+    }, {
+      "text": "두근거림과 어지럼증이",
+      "auto": true
+    }, {
+      "text": " 발생하나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "일어",
+      "auto": true
+    }, {
+      "text": "났을 때 ",
+      "auto": true
+    }, {
+      "text": "어지럽고 가슴이 두근거리는 느낌이",
+      "auto": true
+    }, {
+      "text": " 드시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "앉았다가 일어난 직후에 ",
+      "auto": true
+    }, {
+      "text": "어지럼증과 두근",
+      "auto": true
+    }, {
+      "text": "거림을 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "앉았다가 일어난 직후에 ",
+      "auto": true
+    }, {
+      "text": "어지럼증과 두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

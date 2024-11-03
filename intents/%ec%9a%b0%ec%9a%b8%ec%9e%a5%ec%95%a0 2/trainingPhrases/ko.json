@@ -1,0 +1,146 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "혹시 사회활동을 회피하거나 전에 즐거워하던 것들에 흥미를 잃은 적이 있으신지 여쭤봐도 될까요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 들어 즐거움을 ",
+      "auto": true
+    }, {
+      "text": "주던 것들에",
+      "auto": true
+    }, {
+      "text": " 흥미가 없어지고 사회활동을 피하고 ",
+      "auto": true
+    }, {
+      "text": "싶어",
+      "auto": true
+    }, {
+      "text": "지는 마음",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "사회활동을 기피하거나 즐거움을 ",
+      "auto": true
+    }, {
+      "text": "주던 것들에 대한",
+      "auto": true
+    }, {
+      "text": " 흥미를 상실하지는 않으셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "전에 ",
+      "auto": true
+    }, {
+      "text": "즐거움",
+      "auto": true
+    }, {
+      "text": "을 느끼던 활동들에 흥미를 잃고 사회활동을 피하고 계시지는 않으신지요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "요즘 들어 사회활동을 꺼리거나 예전에 즐거워하던 것들에 흥미를 잃은 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 즐거움",
+      "auto": true
+    }, {
+      "text": "을 주던 것들에 흥미",
+      "auto": true
+    }, {
+      "text": "가 없어지고 사회활동을 피하고 싶어지는 경향",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "사회활동을 피하고 있거나 전에 즐거워하던 것들에 흥미를 잃지는 않으셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근에 ",
+      "auto": true
+    }, {
+      "text": "즐거움을 주던 활동들에 흥미를 잃고 사회활동을 피하고 계신 건 아닌지",
+      "auto": true
+    }, {
+      "text": " 궁금합니다.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "요즘 ",
+      "auto": true
+    }, {
+      "text": "사회",
+      "auto": true
+    }, {
+      "text": "활동을 피하거나 전에 ",
+      "auto": true
+    }, {
+      "text": "즐거움을",
+      "auto": true
+    }, {
+      "text": " 주던 것들에 흥미를 잃은 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 즐거움을 주던 것들에 흥미를 잃거나 사회활동을 피하고 계시지는 않나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "사회활동을 피하거나 ",
+      "auto": true
+    }, {
+      "text": "즐거움을",
+      "auto": true
+    }, {
+      "text": " 주던 것들에 흥미를 잃지 않으셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

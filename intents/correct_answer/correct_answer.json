@@ -1,0 +1,10 @@
+{
+  "name": "ffa7dc4a-b16f-44a0-a353-74567d74e210",
+  "displayName": "correct_answer",
+  "parameters": [ {
+    "id": "number",
+    "entityType": "@sys.number"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 20
+}

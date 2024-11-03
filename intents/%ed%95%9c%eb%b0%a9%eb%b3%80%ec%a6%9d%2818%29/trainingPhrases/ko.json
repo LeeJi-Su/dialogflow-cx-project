@@ -1,0 +1,507 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "가래를",
+      "auto": true
+    }, {
+      "text": " 뱉는 ",
+      "auto": true
+    }, {
+      "text": "일이",
+      "auto": true
+    }, {
+      "text": " 잦아졌다고 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "요즘 가래가 많이 쌓여서 ",
+      "auto": true
+    }, {
+      "text": "걱정하고",
+      "auto": true
+    }, {
+      "text": " 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "요즘 가래가 많아져서 일상생활",
+      "auto": true
+    }, {
+      "text": "에 지장",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "이전보다 ",
+      "auto": true
+    }, {
+      "text": "가래를",
+      "auto": true
+    }, {
+      "text": " 뱉는 ",
+      "auto": true
+    }, {
+      "text": "횟수",
+      "auto": true
+    }, {
+      "text": "가 증가했다고 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근에 ",
+      "auto": true
+    }, {
+      "text": "가래가 자주 생겨서 답답함",
+      "auto": true
+    }, {
+      "text": "을 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가래 양이",
+      "auto": true
+    }, {
+      "text": " 증가했나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가래",
+      "auto": true
+    }, {
+      "text": "의 ",
+      "auto": true
+    }, {
+      "text": "양이",
+      "auto": true
+    }, {
+      "text": " 증가",
+      "auto": true
+    }, {
+      "text": "했다고 느끼고",
+      "auto": true
+    }, {
+      "text": " 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "요즘 ",
+      "auto": true
+    }, {
+      "text": "가래가 자주",
+      "auto": true
+    }, {
+      "text": " 생겨서 힘들지 않으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "기침할 때 ",
+      "auto": true
+    }, {
+      "text": "가래가 많아져서",
+      "auto": true
+    }, {
+      "text": " 괴로운가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근에 기침",
+      "auto": true
+    }, {
+      "text": "할",
+      "auto": true
+    }, {
+      "text": " 때 ",
+      "auto": true
+    }, {
+      "text": "가래가 많아",
+      "auto": true
+    }, {
+      "text": "져서 괴로운가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가래",
+      "auto": true
+    }, {
+      "text": "를 ",
+      "auto": true
+    }, {
+      "text": "자주",
+      "auto": true
+    }, {
+      "text": " 뱉는 상황",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 발생하나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "이전보다 ",
+      "auto": true
+    }, {
+      "text": "가래",
+      "auto": true
+    }, {
+      "text": "가 많이 ",
+      "auto": true
+    }, {
+      "text": "차오르는 것",
+      "auto": true
+    }, {
+      "text": " 같다고 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "요즘 ",
+      "auto": true
+    }, {
+      "text": "가래가 쌓여서 뱉는",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "일이",
+      "auto": true
+    }, {
+      "text": " 많아지셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가래가",
+      "auto": true
+    }, {
+      "text": " 예전보다 많이 생기고 있다고 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근",
+      "auto": true
+    }, {
+      "text": "에 ",
+      "auto": true
+    }, {
+      "text": "기침할 때 가래가",
+      "auto": true
+    }, {
+      "text": " 많아지는 것 같나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가래",
+      "auto": true
+    }, {
+      "text": "가 많이 생겨서 불편함을 느끼신 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "요즘 가래를 뱉는 ",
+      "auto": true
+    }, {
+      "text": "일이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "자주 발생하시나요",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가래",
+      "auto": true
+    }, {
+      "text": "가 많이 생기는 것 같으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근에 ",
+      "auto": true
+    }, {
+      "text": "가래가 더 많이 차오르는 느낌이 드시",
+      "auto": true
+    }, {
+      "text": "나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가래가",
+      "auto": true
+    }, {
+      "text": " 증가하는 것에 대해 걱정하고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "요즘 ",
+      "auto": true
+    }, {
+      "text": "가래가 쌓여서 뱉는",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "일이",
+      "auto": true
+    }, {
+      "text": " 잦아지셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "드시는 것과 관계없이 가래",
+      "auto": true
+    }, {
+      "text": "가 많이 생기나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근에 ",
+      "auto": true
+    }, {
+      "text": "가래가 자주 생겨서",
+      "auto": true
+    }, {
+      "text": " 불편하신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가래",
+      "auto": true
+    }, {
+      "text": "를 뱉는 횟수가 늘어난 것 같으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "예전",
+      "auto": true
+    }, {
+      "text": "보다 ",
+      "auto": true
+    }, {
+      "text": "가래",
+      "auto": true
+    }, {
+      "text": "가 많이 생기는 상황",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 자주 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근에 ",
+      "auto": true
+    }, {
+      "text": "가래가",
+      "auto": true
+    }, {
+      "text": " 잘 차오르는 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "요즘 가래가 증가하는 ",
+      "auto": true
+    }, {
+      "text": "것 같은 기분이",
+      "auto": true
+    }, {
+      "text": " 드시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "이전보다 ",
+      "auto": true
+    }, {
+      "text": "가래를 더",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "자주",
+      "auto": true
+    }, {
+      "text": " 뱉으시는 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근에 가래가 많이 생기는 것 같다고 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가래를",
+      "auto": true
+    }, {
+      "text": " 자주 뱉으시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가래",
+      "auto": true
+    }, {
+      "text": " 많이 나오시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가래",
+      "auto": true
+    }, {
+      "text": "가 많이 나오세요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가래",
+      "auto": true
+    }, {
+      "text": "가 많나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가래",
+      "auto": true
+    }, {
+      "text": "가 많이 끼나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가래",
+      "auto": true
+    }, {
+      "text": "가 많이 생기나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "전보다 가래",
+      "auto": true
+    }, {
+      "text": "가 많이 생기거나 뱉으시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

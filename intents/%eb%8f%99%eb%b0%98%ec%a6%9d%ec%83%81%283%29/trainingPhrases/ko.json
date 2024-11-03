@@ -1,0 +1,424 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "일상에 방해가 될 정도로 ",
+      "auto": true
+    }, {
+      "text": "심한 피로",
+      "auto": true
+    }, {
+      "text": "가 동반되시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "일상에 방해가 될 정도로 피곤하신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "미친듯이 피곤한가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "극심한 피로가",
+      "auto": true
+    }, {
+      "text": " 두근거림과 함께 나타나시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "극심한 피로가",
+      "auto": true
+    }, {
+      "text": " 동반되시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림과",
+      "auto": true
+    }, {
+      "text": " 함께 피로가 나타나시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "생활에 영향을 줄 정도로 ",
+      "auto": true
+    }, {
+      "text": "피곤",
+      "auto": true
+    }, {
+      "text": "하신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "많이 피곤한가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "피로가",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근",
+      "auto": true
+    }, {
+      "text": " 들어 일상생활",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 힘들 정도로 피로한 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "피로감이 심해져서 일상적인",
+      "auto": true
+    }, {
+      "text": " 생활에 ",
+      "auto": true
+    }, {
+      "text": "방해가 되었던",
+      "auto": true
+    }, {
+      "text": " 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "심한 피로로 인해 일상적인 활동이",
+      "auto": true
+    }, {
+      "text": " 어려웠던 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "일상생활에 영향을 줄 정도로 ",
+      "auto": true
+    }, {
+      "text": "피곤함",
+      "auto": true
+    }, {
+      "text": "을 느끼신 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근에 ",
+      "auto": true
+    }, {
+      "text": "피로감이 심해져 일상생활",
+      "auto": true
+    }, {
+      "text": "에 지장",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있었던 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "심한",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "피로로 인해",
+      "auto": true
+    }, {
+      "text": " 일상적인 ",
+      "auto": true
+    }, {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "을 수행하기 힘든 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "일상생활에 지장을 줄 정도로 피곤하신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "일상생활에 영향을 줄 만큼 ",
+      "auto": true
+    }, {
+      "text": "피로감",
+      "auto": true
+    }, {
+      "text": "을 ",
+      "auto": true
+    }, {
+      "text": "자주",
+      "auto": true
+    }, {
+      "text": " 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "심한",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "피로로 인해",
+      "auto": true
+    }, {
+      "text": " 일상생활에 어려움을 겪으신 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근",
+      "auto": true
+    }, {
+      "text": "에 일상적인 ",
+      "auto": true
+    }, {
+      "text": "활동이",
+      "auto": true
+    }, {
+      "text": " 힘들 정도로 피곤하셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "일상생활에 영향을 줄 정도로 극심한 피로를 경험",
+      "auto": true
+    }, {
+      "text": "한",
+      "auto": true
+    }, {
+      "text": " 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "피로감이",
+      "auto": true
+    }, {
+      "text": " 심해",
+      "auto": true
+    }, {
+      "text": "져서 일상생활",
+      "auto": true
+    }, {
+      "text": "에 지장",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있었던 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "일상생활",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 힘들 정도로 ",
+      "auto": true
+    }, {
+      "text": "피로하신",
+      "auto": true
+    }, {
+      "text": " 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "심한 피로가",
+      "auto": true
+    }, {
+      "text": " 일상적인 생활에 영향을 주는 경우가 많으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "일상생활에 영향을 미칠 만큼 ",
+      "auto": true
+    }, {
+      "text": "피로감을 느끼신 적이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "일상",
+      "auto": true
+    }, {
+      "text": "생활",
+      "auto": true
+    }, {
+      "text": "에 ",
+      "auto": true
+    }, {
+      "text": "방해가 될",
+      "auto": true
+    }, {
+      "text": " 정도로 ",
+      "auto": true
+    }, {
+      "text": "피곤함",
+      "auto": true
+    }, {
+      "text": "을 경험",
+      "auto": true
+    }, {
+      "text": "한",
+      "auto": true
+    }, {
+      "text": " 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "심한 피로로 인해 일상적인 활동에 어려움을 느끼신 적이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "일상생활에 영향을 미칠 정도로 피로하신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "일상생활에 지장을 줄",
+      "auto": true
+    }, {
+      "text": " 만큼 심한 피로를 느끼신 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "심한 피로가",
+      "auto": true
+    }, {
+      "text": " 동반되시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림과 함께 심한 피로가",
+      "auto": true
+    }, {
+      "text": " 나타나시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "일상생활에 영향을 줄 정도로 ",
+      "auto": true
+    }, {
+      "text": "심한 피로",
+      "auto": true
+    }, {
+      "text": "가 동반되실까요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

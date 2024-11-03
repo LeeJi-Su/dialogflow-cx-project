@@ -1,0 +1,28 @@
+{
+  "name": "d6245f48-bf6e-4f8b-9458-c4d69d924f68",
+  "displayName": "end page",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "가상 진료가 종료되었습니다. \n수고하셨습니다:)" ]
+      },
+      "languageCode": "ko"
+    } ],
+    "nextActionOverride": {
+    
+    }
+  },
+  "eventHandlers": [ {
+    "targetPage": "end page",
+    "event": "sys.no-match-1",
+    "triggerFulfillment": {
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "b8772c61-9357-4e3a-a29b-5ca0737eaac2"
+  } ]
+}

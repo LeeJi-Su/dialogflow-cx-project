@@ -1,0 +1,29 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "두근거림",
+      "auto": true
+    }, {
+      "text": " 외에 ",
+      "auto": true
+    }, {
+      "text": "근육통이나 소화불량이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼 두근거림 외에 불편한 증상 중에는",
+      "auto": true
+    }, {
+      "text": " 근육통과 소화불량인거죠?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

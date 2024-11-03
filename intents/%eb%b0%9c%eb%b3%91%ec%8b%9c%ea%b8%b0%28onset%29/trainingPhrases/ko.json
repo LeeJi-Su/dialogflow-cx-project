@@ -1,0 +1,150 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "언제부터",
+      "parameterId": "date"
+    }, {
+      "text": " 증상이 나타나기 "
+    }, {
+      "text": "시작",
+      "parameterId": "date"
+    }, {
+      "text": "했나요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "언제부터",
+      "parameterId": "date"
+    }, {
+      "text": " 증상이 나타났나요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "언제부터",
+      "parameterId": "date"
+    }, {
+      "text": " 두근거리기 "
+    }, {
+      "text": "시작",
+      "parameterId": "date"
+    }, {
+      "text": "했나요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 "
+    }, {
+      "text": "언제부터",
+      "parameterId": "date"
+    }, {
+      "text": " 나타났나요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림 증상을 "
+    }, {
+      "text": "처음",
+      "parameterId": "date"
+    }, {
+      "text": " 경험하신 날짜나 기간을 말씀해 주실 수 있나요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 "
+    }, {
+      "text": "처음",
+      "parameterId": "date"
+    }, {
+      "text": " 발생한 때를 기억하고 계신가요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "이 증상이 "
+    }, {
+      "text": "언제부터",
+      "parameterId": "date"
+    }, {
+      "text": " 나타나셨나요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림 증상이 "
+    }, {
+      "text": "처음",
+      "parameterId": "date"
+    }, {
+      "text": " 나타났을 때가 언제인지 기억나시나요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림을 "
+    }, {
+      "text": "처음",
+      "parameterId": "date"
+    }, {
+      "text": " 경험하신 때가 언제쯤인지 기억나시나요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거리는 증상이 "
+    }, {
+      "text": "처음",
+      "parameterId": "date"
+    }, {
+      "text": " 나타난 시기가 언제쯤인가요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 "
+    }, {
+      "text": "시작",
+      "parameterId": "date"
+    }, {
+      "text": "된 시점이 언제쯤인지 기억나시나요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림 증상을 "
+    }, {
+      "text": "처음",
+      "parameterId": "date"
+    }, {
+      "text": " 느끼신 때가 언제인가요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼 가슴이 두근거리는 증상이 "
+    }, {
+      "text": "언제부터",
+      "parameterId": "date"
+    }, {
+      "text": " 시작되었나요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

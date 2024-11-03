@@ -1,0 +1,268 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "부정맥을 앓고 있는 가족",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있습니까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 ",
+      "auto": true
+    }, {
+      "text": "부정맥 환자가 있는지 궁금합니다",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "부정맥으로 ",
+      "auto": true
+    }, {
+      "text": "치료",
+      "auto": true
+    }, {
+      "text": "받고 있는 가족",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 ",
+      "auto": true
+    }, {
+      "text": "부정맥",
+      "auto": true
+    }, {
+      "text": " 문제로 힘들어하는 분이 있습니까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가까운",
+      "auto": true
+    }, {
+      "text": " 가족 중에 부정맥으로 진단받은 분이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 ",
+      "auto": true
+    }, {
+      "text": "부정맥 환자가",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "부정맥",
+      "auto": true
+    }, {
+      "text": "을 앓고 있는 ",
+      "auto": true
+    }, {
+      "text": "가까운",
+      "auto": true
+    }, {
+      "text": " 가족",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 부정맥으로 어려움",
+      "auto": true
+    }, {
+      "text": "을",
+      "auto": true
+    }, {
+      "text": " 겪는 분이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "부정맥",
+      "auto": true
+    }, {
+      "text": "으로 ",
+      "auto": true
+    }, {
+      "text": "고통받는 가족이",
+      "auto": true
+    }, {
+      "text": " 있습니까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 부정맥으로 힘들어하는 분이 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가까운 친척",
+      "auto": true
+    }, {
+      "text": " 중에 ",
+      "auto": true
+    }, {
+      "text": "부정맥을 겪고 계신 분이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 ",
+      "auto": true
+    }, {
+      "text": "부정맥 환자가 있는지 알고",
+      "auto": true
+    }, {
+      "text": " 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "부정맥 문제로 고생하는 가족이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 부정맥으로 ",
+      "auto": true
+    }, {
+      "text": "치료",
+      "auto": true
+    }, {
+      "text": "받고 있는 분이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "부정맥을 앓고 있는 가족",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 부정맥으로 ",
+      "auto": true
+    }, {
+      "text": "진단받은 분이",
+      "auto": true
+    }, {
+      "text": " 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가까운 가족",
+      "auto": true
+    }, {
+      "text": " 중에 ",
+      "auto": true
+    }, {
+      "text": "부정맥",
+      "auto": true
+    }, {
+      "text": " 환자가 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 부정맥을 앓고 ",
+      "auto": true
+    }, {
+      "text": "계신",
+      "auto": true
+    }, {
+      "text": " 분이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 ",
+      "auto": true
+    }, {
+      "text": "부정맥",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "앓고 계신 분",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

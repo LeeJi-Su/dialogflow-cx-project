@@ -1,0 +1,471 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "가까운 가족 중에 갑상선 문제로 고생하는 분이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 ",
+      "auto": true
+    }, {
+      "text": "갑상선 기능 항진증으로 치료받고 계신 분이",
+      "auto": true
+    }, {
+      "text": " 있습니까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갑상선",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "기능 항진증 환자가 가까운",
+      "auto": true
+    }, {
+      "text": " 친척 중에 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 갑상선 관련 질환을 앓고 있는지 ",
+      "auto": true
+    }, {
+      "text": "궁금",
+      "auto": true
+    }, {
+      "text": "합니다.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갑상선 기능 항진증",
+      "auto": true
+    }, {
+      "text": "으로 힘든 상황에 있는 가족",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 ",
+      "auto": true
+    }, {
+      "text": "갑상선 기능 항진증으로 진단받은 분이",
+      "auto": true
+    }, {
+      "text": " 있는지요?",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가까운",
+      "auto": true
+    }, {
+      "text": " 가족 중에 ",
+      "auto": true
+    }, {
+      "text": "갑상선",
+      "auto": true
+    }, {
+      "text": " 문제",
+      "auto": true
+    }, {
+      "text": "로 고생하는 분이",
+      "auto": true
+    }, {
+      "text": " 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 갑상선 ",
+      "auto": true
+    }, {
+      "text": "기능 항진증 환자가",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갑상선",
+      "auto": true
+    }, {
+      "text": " 기능 ",
+      "auto": true
+    }, {
+      "text": "항진증",
+      "auto": true
+    }, {
+      "text": "을 앓고 있는 가까운 가족",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 ",
+      "auto": true
+    }, {
+      "text": "갑상선",
+      "auto": true
+    }, {
+      "text": " 질환으로 힘들어하는 분이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가까운 친척 중에 갑상선 기능 항진증 환자가 있는지",
+      "auto": true
+    }, {
+      "text": " 알고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 ",
+      "auto": true
+    }, {
+      "text": "갑상선 기능 항진증으로 고생하는 분이",
+      "auto": true
+    }, {
+      "text": " 있습니까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갑상선",
+      "auto": true
+    }, {
+      "text": " 문제로 ",
+      "auto": true
+    }, {
+      "text": "치료",
+      "auto": true
+    }, {
+      "text": "받고 있는 가족",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 ",
+      "auto": true
+    }, {
+      "text": "갑상선 기능 항진증 환자가 있는지",
+      "auto": true
+    }, {
+      "text": " 궁금합니다.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갑상선 ",
+      "auto": true
+    }, {
+      "text": "기능",
+      "auto": true
+    }, {
+      "text": " 항진증으로 어려움을 겪고 있는 가족",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 ",
+      "auto": true
+    }, {
+      "text": "갑상선",
+      "auto": true
+    }, {
+      "text": " 관련 질환을 앓고 ",
+      "auto": true
+    }, {
+      "text": "계신 분이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가까운",
+      "auto": true
+    }, {
+      "text": " 가족 중에 ",
+      "auto": true
+    }, {
+      "text": "갑상선 기능 항진증을 겪고 계신 분이",
+      "auto": true
+    }, {
+      "text": " 있습니까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갑상선 기능 항진증 환자가 가까운",
+      "auto": true
+    }, {
+      "text": " 가족 중에 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 갑상선 질환으로 힘들어하는 분이 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갑상선 ",
+      "auto": true
+    }, {
+      "text": "기능",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "항진증으로 고통받는",
+      "auto": true
+    }, {
+      "text": " 가족",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 ",
+      "auto": true
+    }, {
+      "text": "갑상선 기능 항진증 환자가",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "있는지",
+      "auto": true
+    }, {
+      "text": " 알고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 ",
+      "auto": true
+    }, {
+      "text": "갑상선 기능 항진증으로",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "치료",
+      "auto": true
+    }, {
+      "text": "받고 있는 분이 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가까운 친척 중에 갑상선 기능 항진증을 앓고 계신 분이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갑상선",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "기능 항진증 환자가",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "가족",
+      "auto": true
+    }, {
+      "text": "에 있는지 궁금합니다.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 ",
+      "auto": true
+    }, {
+      "text": "갑상선 문제로 고생하는 분이",
+      "auto": true
+    }, {
+      "text": " 있습니까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갑상선 ",
+      "auto": true
+    }, {
+      "text": "기능",
+      "auto": true
+    }, {
+      "text": " 항진증을 앓고 있는 가족",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 ",
+      "auto": true
+    }, {
+      "text": "갑상선 기능 항진증으로 진단받은 분이",
+      "auto": true
+    }, {
+      "text": " 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가까운",
+      "auto": true
+    }, {
+      "text": " 가족 중에 ",
+      "auto": true
+    }, {
+      "text": "갑상선 기능 항진증을 앓고 계신 분이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 갑상선 ",
+      "auto": true
+    }, {
+      "text": "기능 항진증 환자가",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족중에 ",
+      "auto": true
+    }, {
+      "text": "갑상선",
+      "auto": true
+    }, {
+      "text": " 기능 ",
+      "auto": true
+    }, {
+      "text": "항진증 환자",
+      "auto": true
+    }, {
+      "text": " 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

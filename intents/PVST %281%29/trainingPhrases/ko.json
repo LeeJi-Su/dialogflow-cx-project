@@ -1,0 +1,246 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "두근거림이 멈출",
+      "auto": true
+    }, {
+      "text": " 때의 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 갑작스러웠나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 발생하는 과정",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 갑작스러웠나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림의 시작과 종료가 급격한",
+      "auto": true
+    }, {
+      "text": " 경우가 있었나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림의 발현",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 갑작스럽고 뚜렷하게 느껴졌나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 갑자기 시작해서 빠르게 사라진 적이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갑작스럽게",
+      "auto": true
+    }, {
+      "text": " 두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 느껴지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갑작스럽게 증상이",
+      "auto": true
+    }, {
+      "text": " 나타나나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갑자기 두근거리기",
+      "auto": true
+    }, {
+      "text": " 시작하나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "갑자기",
+      "auto": true
+    }, {
+      "text": " 발생하나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림의 발현",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 순간적으로 느껴졌나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림의 발생과 종료가 급작스럽다고",
+      "auto": true
+    }, {
+      "text": " 느끼셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 갑작스레",
+      "auto": true
+    }, {
+      "text": " 멈추거나 시작된 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 갑자기",
+      "auto": true
+    }, {
+      "text": " 발생했나요, 아니면 ",
+      "auto": true
+    }, {
+      "text": "점진적",
+      "auto": true
+    }, {
+      "text": "으로 느껴졌나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림의 시작과 끝이",
+      "auto": true
+    }, {
+      "text": " 예고 없이 나타났나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 시작되거나 멈출 때, ",
+      "auto": true
+    }, {
+      "text": "갑작스러운",
+      "auto": true
+    }, {
+      "text": " 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있었나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림의 발현이",
+      "auto": true
+    }, {
+      "text": " 갑작스럽게 느껴졌나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 시작될 때",
+      "auto": true
+    }, {
+      "text": "와 ",
+      "auto": true
+    }, {
+      "text": "끝날 때",
+      "auto": true
+    }, {
+      "text": "의 ",
+      "auto": true
+    }, {
+      "text": "변화가",
+      "auto": true
+    }, {
+      "text": " 급격했나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림의 시작과 끝이 갑작",
+      "auto": true
+    }, {
+      "text": "스러웠나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

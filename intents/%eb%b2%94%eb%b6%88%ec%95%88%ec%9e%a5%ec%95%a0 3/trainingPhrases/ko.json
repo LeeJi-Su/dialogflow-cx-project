@@ -1,0 +1,169 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "그러한 증상이",
+      "auto": true
+    }, {
+      "text": " 있을 때 쉽게 ",
+      "auto": true
+    }, {
+      "text": "피곤해",
+      "auto": true
+    }, {
+      "text": "지시는 것 같나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "해당 증상",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으시면 쉽게 지치는 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그 ",
+      "auto": true
+    }, {
+      "text": "증상을",
+      "auto": true
+    }, {
+      "text": " 겪으실 때 ",
+      "auto": true
+    }, {
+      "text": "쉽게 피로해지",
+      "auto": true
+    }, {
+      "text": "시는 경향",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그런 증상이",
+      "auto": true
+    }, {
+      "text": " 있을 때 ",
+      "auto": true
+    }, {
+      "text": "피곤함을",
+      "auto": true
+    }, {
+      "text": " 쉽게 느끼시는 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "해당 증상",
+      "auto": true
+    }, {
+      "text": "이 있으시면 쉽게 기운이 빠지",
+      "auto": true
+    }, {
+      "text": "시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그 ",
+      "auto": true
+    }, {
+      "text": "증상을 경험하실",
+      "auto": true
+    }, {
+      "text": " 때 ",
+      "auto": true
+    }, {
+      "text": "쉽게 피로",
+      "auto": true
+    }, {
+      "text": "해지",
+      "auto": true
+    }, {
+      "text": "시는",
+      "auto": true
+    }, {
+      "text": " 건 아닌가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그러한 증상이",
+      "auto": true
+    }, {
+      "text": " 있을 때 ",
+      "auto": true
+    }, {
+      "text": "피곤함",
+      "auto": true
+    }, {
+      "text": "을 쉽게 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "해당 ",
+      "auto": true
+    }, {
+      "text": "증상이 있으시면 쉽게 지치시는",
+      "auto": true
+    }, {
+      "text": " 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그 증상을 겪으실 때 피로감을 쉽게 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 그런 증상이 있으실",
+      "auto": true
+    }, {
+      "text": " 때 쉽게 ",
+      "auto": true
+    }, {
+      "text": "피곤해",
+      "auto": true
+    }, {
+      "text": "지시는 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

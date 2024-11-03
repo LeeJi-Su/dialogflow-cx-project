@@ -1,0 +1,337 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "약",
+      "auto": true
+    }, {
+      "text": "을 복용하면 두근거림이",
+      "auto": true
+    }, {
+      "text": " 심해지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "약물을 복용하고 나면 두근거림이",
+      "auto": true
+    }, {
+      "text": " 느껴지시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "증상",
+      "auto": true
+    }, {
+      "text": "이 처음",
+      "auto": true
+    }, {
+      "text": " 나타났을 때 ",
+      "auto": true
+    }, {
+      "text": "약",
+      "auto": true
+    }, {
+      "text": "을 복용했나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "증상",
+      "auto": true
+    }, {
+      "text": "이 처음",
+      "auto": true
+    }, {
+      "text": " 나타났을 쯤 ",
+      "auto": true
+    }, {
+      "text": "복용 중이던 약이",
+      "auto": true
+    }, {
+      "text": " 있었나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "증상",
+      "auto": true
+    }, {
+      "text": "이 처음",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "나타났을",
+      "auto": true
+    }, {
+      "text": " 즈음에 혹시 약물을 복용하고 계셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "증상 발생하기",
+      "auto": true
+    }, {
+      "text": " 전후로 복용",
+      "auto": true
+    }, {
+      "text": "한",
+      "auto": true
+    }, {
+      "text": " 약물",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림 증상 발생 전후로 약물 복용과",
+      "auto": true
+    }, {
+      "text": " 관련된 특이사항",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있었습니까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림 증상 발생 전후로 약물 복용 시간이나 방법을 변경",
+      "auto": true
+    }, {
+      "text": "한",
+      "auto": true
+    }, {
+      "text": " 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림 증상이",
+      "auto": true
+    }, {
+      "text": " 나타나기 전에 새로 처방받은 약물",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있었습니까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림 증상이 시작된 시기에 특정 영양제나 보충제를 복용",
+      "auto": true
+    }, {
+      "text": "하고 계셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림 증상 발생 전에 약물 복용량이나 종류를 변경한 적이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 시작되었을 때 정기적으로 복용하던",
+      "auto": true
+    }, {
+      "text": " 약물",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있었나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근",
+      "auto": true
+    }, {
+      "text": "거림 증상이 나타나기 직전",
+      "auto": true
+    }, {
+      "text": "에 ",
+      "auto": true
+    }, {
+      "text": "시작한 새로운 약물이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림 발생 시점",
+      "auto": true
+    }, {
+      "text": "에 특정 약물 ",
+      "auto": true
+    }, {
+      "text": "치료",
+      "auto": true
+    }, {
+      "text": "를 받고 있었나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 시작되었을 때 복용 중이던 약물 목록을 말씀해 주실",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "수",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림 증상과 시기적으로 일치하는 약물 복용",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있었습니까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가슴 두근거림을 경험하기 시작했을 때 복용 중이던 약물을 기억",
+      "auto": true
+    }, {
+      "text": "하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림 증상 발생 전후로 약물 복용 패턴",
+      "auto": true
+    }, {
+      "text": "에 변화가 있었나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 시작된 시기에 특정 약물",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "치료",
+      "auto": true
+    }, {
+      "text": "를 받고 계셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "처음",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "가슴 두근거림을 느꼈을",
+      "auto": true
+    }, {
+      "text": " 당시, ",
+      "auto": true
+    }, {
+      "text": "복용",
+      "auto": true
+    }, {
+      "text": "하고 ",
+      "auto": true
+    }, {
+      "text": "있던 약물",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있었나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 시작되었을 때 어떤 약을 복용",
+      "auto": true
+    }, {
+      "text": " 중이셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 처음 나타났을 때 혹시 약물을 복용하고",
+      "auto": true
+    }, {
+      "text": " 계셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

@@ -1,0 +1,164 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "그렇다면 식은",
+      "auto": true
+    }, {
+      "text": "땀 현상도 함께 겪고 계신다는",
+      "auto": true
+    }, {
+      "text": " 말씀이신 거군요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "식은땀",
+      "auto": true
+    }, {
+      "text": "이 같이 나고 있다는 점도",
+      "auto": true
+    }, {
+      "text": " 언급하셨던 것 같은데요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그러면 식은",
+      "auto": true
+    }, {
+      "text": "땀 증상도",
+      "auto": true
+    }, {
+      "text": " 동반되고 있다고 ",
+      "auto": true
+    }, {
+      "text": "이해해",
+      "auto": true
+    }, {
+      "text": "도 될까요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "식은땀도 함께 나타난다고 ",
+      "auto": true
+    }, {
+      "text": "하신 말씀",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 맞나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그렇다면 식은",
+      "auto": true
+    }, {
+      "text": "땀 증상도",
+      "auto": true
+    }, {
+      "text": " 같이 있다고 보면 되겠네요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "식은땀",
+      "auto": true
+    }, {
+      "text": "이 동시에 나타난다고",
+      "auto": true
+    }, {
+      "text": " 언급하셨던 것 같은데, 맞나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그러니까",
+      "auto": true
+    }, {
+      "text": " 식은땀",
+      "auto": true
+    }, {
+      "text": "도 함께",
+      "auto": true
+    }, {
+      "text": " 경험하고 ",
+      "auto": true
+    }, {
+      "text": "계신다는",
+      "auto": true
+    }, {
+      "text": " 뜻",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": "신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "식은",
+      "auto": true
+    }, {
+      "text": "땀 증상도 같이",
+      "auto": true
+    }, {
+      "text": " 나타나고 있다고 하셨던 건가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그렇다면 식은땀도 동반되고 있다는 말씀이신 거죠?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "식은땀",
+      "auto": true
+    }, {
+      "text": "이 함께 나고 있다고",
+      "auto": true
+    }, {
+      "text": " 말씀하셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "식은땀",
+      "auto": true
+    }, {
+      "text": "도 같이 난다고",
+      "auto": true
+    }, {
+      "text": " 하셨고요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

@@ -1,0 +1,194 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "그럼 열린 공간에",
+      "auto": true
+    }, {
+      "text": " 있을 때, 특히 ",
+      "auto": true
+    }, {
+      "text": "주차장, 다리, 시장 등에서",
+      "auto": true
+    }, {
+      "text": " 그런 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 나타나시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 주차장, 다리, 시장 등의 열린 공간",
+      "auto": true
+    }, {
+      "text": "에 있을 때 그런 증상을 경험하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그렇다면 열린 공간, 예컨대 주차장이나 다리, 시장 등에",
+      "auto": true
+    }, {
+      "text": " 있을 때 그런 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드시는 건가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 주차장",
+      "auto": true
+    }, {
+      "text": ", ",
+      "auto": true
+    }, {
+      "text": "다리, 시장 같은 열린 공간에",
+      "auto": true
+    }, {
+      "text": " 있을 때 그런 증상",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 느껴지시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼 열린 공간, 즉 주차장이나 다리, 시장 등에",
+      "auto": true
+    }, {
+      "text": " 있을 때 그런 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 들으시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 주차장, 다리, 시장 등 열린 공간에",
+      "auto": true
+    }, {
+      "text": " 있을 때 그런 증상을 겪으시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그렇다면 열린 공간에 있을 때, 특히 ",
+      "auto": true
+    }, {
+      "text": "주차장이나 다리",
+      "auto": true
+    }, {
+      "text": ", ",
+      "auto": true
+    }, {
+      "text": "시장 등에서",
+      "auto": true
+    }, {
+      "text": " 그런 느낌을 받으시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 주차장, 다리, 시장과 같은 열린 공간",
+      "auto": true
+    }, {
+      "text": "에 있을 때 그런 증상",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 나타나시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼 열린 공간, 예를",
+      "auto": true
+    }, {
+      "text": " 들어 ",
+      "auto": true
+    }, {
+      "text": "주차장",
+      "auto": true
+    }, {
+      "text": ", ",
+      "auto": true
+    }, {
+      "text": "다리",
+      "auto": true
+    }, {
+      "text": ", ",
+      "auto": true
+    }, {
+      "text": "시장",
+      "auto": true
+    }, {
+      "text": " 등에 있을 때 그런 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 주차장이나 다리, 시장 같은 열린 공간에 있을",
+      "auto": true
+    }, {
+      "text": " 때 ",
+      "auto": true
+    }, {
+      "text": "그런 증상을",
+      "auto": true
+    }, {
+      "text": " 경험하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼 주차장, 다리, 시장 등 열린 공간",
+      "auto": true
+    }, {
+      "text": "에 있을 때 느껴지시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

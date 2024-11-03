@@ -1,0 +1,280 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "에너지이",
+      "auto": true
+    }, {
+      "text": " 상실되는 증상",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근",
+      "auto": true
+    }, {
+      "text": "거림과",
+      "auto": true
+    }, {
+      "text": " 함께 무기력하거나 에너지가 없는 증상",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 나타나시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림",
+      "auto": true
+    }, {
+      "text": "과 함께 ",
+      "auto": true
+    }, {
+      "text": "무기력한 증상이",
+      "auto": true
+    }, {
+      "text": " 동반되나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "무기력감과 에너지 상실이 함께 나타날",
+      "auto": true
+    }, {
+      "text": " 때가 많으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근에 무기력함으로 인해 삶의 의욕",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 떨어진 것 같다고 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "무기력감과 에너지 상실이",
+      "auto": true
+    }, {
+      "text": " 함께 느껴진 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "무기력감이 심해질",
+      "auto": true
+    }, {
+      "text": " 때 삶의 의욕도 줄어드는 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근",
+      "auto": true
+    }, {
+      "text": "에 삶에 대한 에너지가 줄어들어 무기력감을 느끼신 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "무기력",
+      "auto": true
+    }, {
+      "text": "해",
+      "auto": true
+    }, {
+      "text": "지거나 ",
+      "auto": true
+    }, {
+      "text": "기분이",
+      "auto": true
+    }, {
+      "text": " 다운되진 않으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "우울하거나 ",
+      "auto": true
+    }, {
+      "text": "그러시진",
+      "auto": true
+    }, {
+      "text": " 않나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 최근",
+      "auto": true
+    }, {
+      "text": "들어 우울하거나 그러신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "삶의 에너지가 떨어져 무기력감을 느낀 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "요즘 ",
+      "auto": true
+    }, {
+      "text": "무기력감을 느끼며",
+      "auto": true
+    }, {
+      "text": " 에너지가 상실된 것 같다고 생각하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "무기력감으로 인해 삶의 에너지가 ",
+      "auto": true
+    }, {
+      "text": "부족하다고 느끼신",
+      "auto": true
+    }, {
+      "text": " 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근에 ",
+      "auto": true
+    }, {
+      "text": "무기력감과",
+      "auto": true
+    }, {
+      "text": " 함께 에너지가 ",
+      "auto": true
+    }, {
+      "text": "감소한",
+      "auto": true
+    }, {
+      "text": " 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "무기력감",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 동반될 때 삶의 의욕",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 줄어드는 것 같나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "삶에 대한 ",
+      "auto": true
+    }, {
+      "text": "에너지",
+      "auto": true
+    }, {
+      "text": "가 상실된 느낌을 경험",
+      "auto": true
+    }, {
+      "text": "한",
+      "auto": true
+    }, {
+      "text": " 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "무기력감",
+      "auto": true
+    }, {
+      "text": "과 함께 삶의 에너지가 부족하다고 느끼신 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "무기력감과 삶에 대한 에너지 상실 등",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "동반",
+      "auto": true
+    }, {
+      "text": " 되실까요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

@@ -1,0 +1,448 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "전혀 불편하지 않은 ",
+      "auto": true
+    }, {
+      "text": "상태를",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "0",
+      "auto": true
+    }, {
+      "text": "으로 하고, 환자분께서 ",
+      "auto": true
+    }, {
+      "text": "느낄",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "수",
+      "auto": true
+    }, {
+      "text": " 있는 가장 ",
+      "auto": true
+    }, {
+      "text": "불편한 상태를",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "10",
+      "auto": true
+    }, {
+      "text": "이라고 했을 때 환자분께서 느끼시는 정도가 몇정도 인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "불편함의 척도를 ",
+      "auto": true
+    }, {
+      "text": "0",
+      "auto": true
+    }, {
+      "text": "부터 ",
+      "auto": true
+    }, {
+      "text": "10",
+      "auto": true
+    }, {
+      "text": "까지로 나타낸다면, ",
+      "auto": true
+    }, {
+      "text": "0",
+      "auto": true
+    }, {
+      "text": "은 불편함",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 전혀 없는 상태, ",
+      "auto": true
+    }, {
+      "text": "10",
+      "auto": true
+    }, {
+      "text": "은 견딜 ",
+      "auto": true
+    }, {
+      "text": "수",
+      "auto": true
+    }, {
+      "text": " 없을 정도로 불편한 상태를 의미합니다. ",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 척도에서 현재 느끼시는 불편함은 어디에 해당하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "0은 전혀 불편하지 않은 상태, 10은 상상할 수 있는 가장 불편한 상태라고 할 때",
+      "auto": true
+    }, {
+      "text": ", ",
+      "auto": true
+    }, {
+      "text": "현재 느끼시는 불편함의",
+      "auto": true
+    }, {
+      "text": " 수준을 숫자로 말씀해 ",
+      "auto": true
+    }, {
+      "text": "주",
+      "auto": true
+    }, {
+      "text": "시겠어요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "불편",
+      "auto": true
+    }, {
+      "text": "함의 정도를 ",
+      "auto": true
+    }, {
+      "text": "0",
+      "auto": true
+    }, {
+      "text": "에서 ",
+      "auto": true
+    }, {
+      "text": "10",
+      "auto": true
+    }, {
+      "text": " 사이의 숫자로 ",
+      "auto": true
+    }, {
+      "text": "표현해 주신다면",
+      "auto": true
+    }, {
+      "text": ", ",
+      "auto": true
+    }, {
+      "text": "지금",
+      "auto": true
+    }, {
+      "text": " 경험하고 계신 불편",
+      "auto": true
+    }, {
+      "text": "함은",
+      "auto": true
+    }, {
+      "text": " 몇 점 정도라고 생각하십니까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "0부터 10까지의 불편함 척도에서, 0은 완전히 편안한 상태,",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "10",
+      "auto": true
+    }, {
+      "text": "은 ",
+      "auto": true
+    }, {
+      "text": "극도",
+      "auto": true
+    }, {
+      "text": "로 ",
+      "auto": true
+    }, {
+      "text": "불편한 상태",
+      "auto": true
+    }, {
+      "text": "를 의미한다면, ",
+      "auto": true
+    }, {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " 느끼시는 불편함은 어느 정도인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "불편함이 전혀 없는 상태를 0, 가장 심한 불편함을 10으로 표현",
+      "auto": true
+    }, {
+      "text": "한다면, ",
+      "auto": true
+    }, {
+      "text": "지금 느끼시는 불편",
+      "auto": true
+    }, {
+      "text": "함의 강도는 몇 점 정도라고 보시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "0",
+      "auto": true
+    }, {
+      "text": "에서 ",
+      "auto": true
+    }, {
+      "text": "10",
+      "auto": true
+    }, {
+      "text": "까지의 척도에서, ",
+      "auto": true
+    }, {
+      "text": "0",
+      "auto": true
+    }, {
+      "text": "은 전혀 불편하지 않음을, ",
+      "auto": true
+    }, {
+      "text": "10",
+      "auto": true
+    }, {
+      "text": "은 극도의 불편함을 나타낸다고 할 때, ",
+      "auto": true
+    }, {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " 경험하고 계신 불편함의 정도는 어디에 해당하나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "불편함의 정도를 ",
+      "auto": true
+    }, {
+      "text": "0",
+      "auto": true
+    }, {
+      "text": "부터 ",
+      "auto": true
+    }, {
+      "text": "10",
+      "auto": true
+    }, {
+      "text": "까지의 숫자로 ",
+      "auto": true
+    }, {
+      "text": "평가한다면",
+      "auto": true
+    }, {
+      "text": ", ",
+      "auto": true
+    }, {
+      "text": "지금",
+      "auto": true
+    }, {
+      "text": " 느끼시는 불편함은 몇 점 정도라고 생각하십니까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "\"",
+      "auto": true
+    }, {
+      "text": "0은 완전히 편안한 상태, 10은 상상할 수 있는 가장 불편한 상태라고 할 때",
+      "auto": true
+    }, {
+      "text": ", ",
+      "auto": true
+    }, {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "느끼시는",
+      "auto": true
+    }, {
+      "text": " 불편함의 정도를 숫자로 표현해 ",
+      "auto": true
+    }, {
+      "text": "주",
+      "auto": true
+    }, {
+      "text": "시겠어요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "불편함의 척도를 0에서 10까지로 나타낸다면, 지금 경험하고 계신 불편함의 수준",
+      "auto": true
+    }, {
+      "text": "은 어느 정도라고 보시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "0은 불편함이 전혀 없는 상태, 10은 견딜 수 없을 정도로 불편한 상태",
+      "auto": true
+    }, {
+      "text": "라고 할 때, ",
+      "auto": true
+    }, {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " 느끼시는 불편함의 정도는 어디에 해당하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "불편함의 정도를 ",
+      "auto": true
+    }, {
+      "text": "0",
+      "auto": true
+    }, {
+      "text": "부터 ",
+      "auto": true
+    }, {
+      "text": "10",
+      "auto": true
+    }, {
+      "text": "까지의 숫자로 표현한다면, ",
+      "auto": true
+    }, {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " 느끼시는 불편함은 어느 정도인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "전혀 불편하지 않은 상태가 0이고, 극도로 불편한 상태가 10이라면, 지금 느끼시는 불편함은 몇 점",
+      "auto": true
+    }, {
+      "text": " 정도라고 생각하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "0",
+      "auto": true
+    }, {
+      "text": "에서 ",
+      "auto": true
+    }, {
+      "text": "10",
+      "auto": true
+    }, {
+      "text": "까지의 불편함 척도에서, ",
+      "auto": true
+    }, {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " 경험하고 계신 불편함의 강도를 어떻게 평가하시겠습니까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "불편함이 전혀 없는 상태를 0, 가장 심한 불편함을 10이라고",
+      "auto": true
+    }, {
+      "text": " 할 때, ",
+      "auto": true
+    }, {
+      "text": "지금",
+      "auto": true
+    }, {
+      "text": " 느끼시는 불편함의 정도를 숫자로 표현한다면 몇 점이 될까요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "0",
+      "auto": true
+    }, {
+      "text": "부터 ",
+      "auto": true
+    }, {
+      "text": "10",
+      "auto": true
+    }, {
+      "text": "까지의 ",
+      "auto": true
+    }, {
+      "text": "척도에서",
+      "auto": true
+    }, {
+      "text": ", ",
+      "auto": true
+    }, {
+      "text": "0",
+      "auto": true
+    }, {
+      "text": "은 전혀 불편하지 않음을, ",
+      "auto": true
+    }, {
+      "text": "10",
+      "auto": true
+    }, {
+      "text": "은 상상할 ",
+      "auto": true
+    }, {
+      "text": "수",
+      "auto": true
+    }, {
+      "text": " 있는 가장 심한 불편함을 나타낸다면, ",
+      "auto": true
+    }, {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " 느끼시는 불편함의 정도는 어디에 해당하나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

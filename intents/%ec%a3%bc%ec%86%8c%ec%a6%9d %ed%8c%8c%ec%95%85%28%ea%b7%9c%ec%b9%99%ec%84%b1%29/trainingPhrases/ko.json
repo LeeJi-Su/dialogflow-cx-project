@@ -1,0 +1,158 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "두근거림이 어떠한 리듬으로 나타나는지 알려주세요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "불규칙적인지 알려주세요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 규칙적으로 나타나는지",
+      "auto": true
+    }, {
+      "text": " 알려주실 ",
+      "auto": true
+    }, {
+      "text": "수",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 규칙적인지 아닌지 알려주세요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "규칙적인지 알려주세요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "심장박동의 규칙성에",
+      "auto": true
+    }, {
+      "text": " 대해 어떻게 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 일정한 리듬을 따르나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 규칙적인 간격으로 발생하나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두금거림이",
+      "auto": true
+    }, {
+      "text": " 불규칙적으로 ",
+      "auto": true
+    }, {
+      "text": "나타나나요, 아니면 규칙적인",
+      "auto": true
+    }, {
+      "text": " 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 규칙적인가요, 불규칙적인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 일정한 간격으로 느껴지시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 일정한가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "심장박동이",
+      "auto": true
+    }, {
+      "text": " 일정한 리듬인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 "
+    }, {
+      "text": "규칙적"
+    }, {
+      "text": "인가요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

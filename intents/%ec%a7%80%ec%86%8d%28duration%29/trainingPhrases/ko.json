@@ -1,0 +1,181 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "두근거림이 발생",
+      "auto": true
+    }, {
+      "text": "했을 때, 그 ",
+      "auto": true
+    }, {
+      "text": "증상",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 얼마나 오래 계속되는지 궁금합니다.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "증상이 나타나면",
+      "auto": true
+    }, {
+      "text": " 보통 몇 분 또는 몇 시간 정도 지속되나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 시작되고 나서 완전히 없어지기까지 얼마나 걸리는",
+      "auto": true
+    }, {
+      "text": " 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 시작되고 나서 정상으로 돌아오기까지 얼마나",
+      "auto": true
+    }, {
+      "text": " 걸리시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가슴 두근거림의 평균적인 지속 시간에 대해 말씀해 ",
+      "auto": true
+    }, {
+      "text": "주",
+      "auto": true
+    }, {
+      "text": "시겠어요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가슴 두근거림",
+      "auto": true
+    }, {
+      "text": "의 지속 시간",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 일정한 편인가요? 그렇다면 얼마나 지속되나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 나타나면",
+      "auto": true
+    }, {
+      "text": " 보통 ",
+      "auto": true
+    }, {
+      "text": "얼마",
+      "auto": true
+    }, {
+      "text": " 동안 그 상태가 유지되나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "증상의",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "평균",
+      "auto": true
+    }, {
+      "text": "적인 지속 시간에 대해 설명해 주실 ",
+      "auto": true
+    }, {
+      "text": "수",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 시작되고 나서 언제쯤 멈추는",
+      "auto": true
+    }, {
+      "text": " 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림의",
+      "auto": true
+    }, {
+      "text": " 지속 시간",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 대략 어느 정도인지 말씀해 주실 ",
+      "auto": true
+    }, {
+      "text": "수",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가슴 두근거림이 한 번 시작되면 대략 몇 분",
+      "auto": true
+    }, {
+      "text": " 정도 계속되나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 발생하면 보통 얼마나 오래",
+      "auto": true
+    }, {
+      "text": " 지속되나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 한번 나타나면 어느정도 시간까지",
+      "auto": true
+    }, {
+      "text": " 지속되시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

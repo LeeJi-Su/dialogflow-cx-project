@@ -1,0 +1,137 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "지금 어지럽고 불안정하며 멍한 듯한 증상이",
+      "auto": true
+    }, {
+      "text": " 나타나고 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 어지러운 느낌과 불안정함, 그리고 멍한",
+      "auto": true
+    }, {
+      "text": " 감각 중 어느 것이라도 있으신지요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " 어지럽거나 불안정하거나 멍한 상태라고 말씀하실 ",
+      "auto": true
+    }, {
+      "text": "수",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 어지러움이나 불안정한 감각, 또는 멍한 느낌을 겪고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "지금 어지럽고 불안정하며 멍한 듯한 느낌이 드시는",
+      "auto": true
+    }, {
+      "text": " 건 아닌가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 어지러움",
+      "auto": true
+    }, {
+      "text": "과 불안정한 느낌, 그리고 멍한 상태 중 어느 것이라도 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " 어지럽거나 불안정하거나 ",
+      "auto": true
+    }, {
+      "text": "멍한 것 같은",
+      "auto": true
+    }, {
+      "text": " 감각",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 ",
+      "auto": true
+    }, {
+      "text": "어지러운",
+      "auto": true
+    }, {
+      "text": " 느낌이나 불안정함, 또는 멍한 상태를 경험하고 계신지요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "지금",
+      "auto": true
+    }, {
+      "text": " 어지럽거나 불안정하거나 멍한 듯한 증상을 겪고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 어지러움이나 불안정한 느낌, 또는 멍한 감각",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "어지럽거나 불안정하거나 멍한 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

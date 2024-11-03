@@ -1,0 +1,6 @@
+{
+  "name": "d15eecf9-f37a-4b21-8a24-f7fec9b14dc4",
+  "displayName": "현재 감정 상태",
+  "priority": 500000,
+  "numTrainingPhrases": 3
+}

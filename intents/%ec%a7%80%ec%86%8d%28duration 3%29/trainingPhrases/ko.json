@@ -1,0 +1,455 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "증상이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "하루",
+      "auto": true
+    }, {
+      "text": " 중 언제 가장 심한가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "특정 시간대에 ",
+      "auto": true
+    }, {
+      "text": "증상이",
+      "auto": true
+    }, {
+      "text": " 심해지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "증상이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "하루",
+      "auto": true
+    }, {
+      "text": " 중 어느때에 가장 심해지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림의 강도",
+      "auto": true
+    }, {
+      "text": "가 ",
+      "auto": true
+    }, {
+      "text": "하루",
+      "auto": true
+    }, {
+      "text": " 중 어느 때 가장 심해지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "특정 시간대에 ",
+      "auto": true
+    }, {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 더 강하게 발생하나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림으로 인한 불편함이 하루 중 언제 절정에",
+      "auto": true
+    }, {
+      "text": " 이르나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림의",
+      "auto": true
+    }, {
+      "text": " 강도가 ",
+      "auto": true
+    }, {
+      "text": "하루",
+      "auto": true
+    }, {
+      "text": " 중 어느 때 최고조에 ",
+      "auto": true
+    }, {
+      "text": "달",
+      "auto": true
+    }, {
+      "text": "하나요?",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "특정 시간대에 ",
+      "auto": true
+    }, {
+      "text": "두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 더 뚜렷하게 느껴지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "하루",
+      "auto": true
+    }, {
+      "text": " 중 어느 시점에 ",
+      "auto": true
+    }, {
+      "text": "심장 박동이 가장 빨라지",
+      "auto": true
+    }, {
+      "text": "나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "특정 시간에 ",
+      "auto": true
+    }, {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 더 강하게 느껴지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림으로 인한 불편함이 하루 중 언제 가장 심해지",
+      "auto": true
+    }, {
+      "text": "나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "특정 시간대에 두근거림이 더 자주 발생하는 경향",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림의 강도가 하루 중",
+      "auto": true
+    }, {
+      "text": " 어느 시점에 최고조에 이르나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림의 빈도가 하루 중 특정 시점",
+      "auto": true
+    }, {
+      "text": "에 증가하나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "어느 시간대에 ",
+      "auto": true
+    }, {
+      "text": "두근거림으로 인한 불편함이 최고조",
+      "auto": true
+    }, {
+      "text": "에 ",
+      "auto": true
+    }, {
+      "text": "달",
+      "auto": true
+    }, {
+      "text": "하나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 특정 시간대에",
+      "auto": true
+    }, {
+      "text": " 집중되는 경향",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "하루",
+      "auto": true
+    }, {
+      "text": " 중 어느 때 가슴 ",
+      "auto": true
+    }, {
+      "text": "두근거림이 가장",
+      "auto": true
+    }, {
+      "text": " 불편하신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림의 강도가 하루",
+      "auto": true
+    }, {
+      "text": " 중 언제 절정에 ",
+      "auto": true
+    }, {
+      "text": "달",
+      "auto": true
+    }, {
+      "text": "하나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "특정 시간에 ",
+      "auto": true
+    }, {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 더 자주 발생하나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "하루 중 두근거림이 가장 심해지",
+      "auto": true
+    }, {
+      "text": "는 시간대가 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "하루동안",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "언제 두근거림이 가장",
+      "auto": true
+    }, {
+      "text": " 심한가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "하루",
+      "auto": true
+    }, {
+      "text": " 중 ",
+      "auto": true
+    }, {
+      "text": "증상이",
+      "auto": true
+    }, {
+      "text": " 언제 가장 심한가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "증상이 특히 심하게 나타나는",
+      "auto": true
+    }, {
+      "text": " 시간",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "하루",
+      "auto": true
+    }, {
+      "text": " 중 특히 강하게 느껴지는 시간은?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "하루 중 두근거림이 가장 강하게 일어나는 시점",
+      "auto": true
+    }, {
+      "text": "은 언제인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 가장 심한 하루의 특정",
+      "auto": true
+    }, {
+      "text": " 시간대가 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "하루",
+      "auto": true
+    }, {
+      "text": "의 어떤 시간에 두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 가장 많이 느껴지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 하루 중 언제 가장",
+      "auto": true
+    }, {
+      "text": " 두드러지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "하루 동안",
+      "auto": true
+    }, {
+      "text": " 두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 특히 심하게 느껴지는 순간",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "당신의 하루 중 두근거림이 가장 심한 때는",
+      "auto": true
+    }, {
+      "text": " 언제인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "하루 중 두근거림이 가장 강하게 느껴지는",
+      "auto": true
+    }, {
+      "text": " 시간대는 언제인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "하루",
+      "auto": true
+    }, {
+      "text": " 중 ",
+      "auto": true
+    }, {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 언제 가장 심하신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

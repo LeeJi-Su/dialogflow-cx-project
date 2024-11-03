@@ -1,0 +1,43 @@
+{
+  "name": "5addf7b1-6219-42bd-98cb-de75544d084f",
+  "displayName": "정보 재입력(이름)",
+  "form": {
+    "parameters": [ {
+      "displayName": "student_name",
+      "required": true,
+      "entityType": "@sys.any",
+      "fillBehavior": {
+        "initialPromptFulfillment": {
+          "nextActionOverride": {
+          
+          }
+        }
+      }
+    } ]
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "이름을 입력해주세요." ]
+      },
+      "languageCode": "ko"
+    } ],
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "condition": "$session.params.student_name",
+    "triggerFulfillment": {
+      "setParameterActions": [ {
+        "parameter": "$session.params.student_name = $page.params.text;",
+        "value": ""
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "정보재입력(학번)",
+    "name": "8cd961e1-52d4-47aa-9afd-0222fd85aa43"
+  } ]
+}

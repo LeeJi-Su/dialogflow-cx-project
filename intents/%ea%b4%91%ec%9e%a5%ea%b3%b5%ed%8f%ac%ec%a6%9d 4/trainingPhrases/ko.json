@@ -1,0 +1,164 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "그럼 줄을 서 있는 상황이나 군중 속에 있을",
+      "auto": true
+    }, {
+      "text": " 때 그런 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 나타나시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 줄을 서",
+      "auto": true
+    }, {
+      "text": " 있을 때나 군중 속에 있는 경우에 그런 증상을 경험하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그렇다면 줄을 서 있거나 군중 속에 있는 상황에서 ",
+      "auto": true
+    }, {
+      "text": "그런 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드시는 건가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 줄을 서 있는 동안이나",
+      "auto": true
+    }, {
+      "text": " 군중 속에 있을 때 ",
+      "auto": true
+    }, {
+      "text": "그런",
+      "auto": true
+    }, {
+      "text": " 증상",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 느껴지시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼 줄",
+      "auto": true
+    }, {
+      "text": "을 서 있거나 군중 속에 있는 경우에 그런 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 들으시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 줄 서 있는 상황이나 군중 속에 있을 때",
+      "auto": true
+    }, {
+      "text": " 그런 증상을 겪으시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그렇다면 ",
+      "auto": true
+    }, {
+      "text": "줄을",
+      "auto": true
+    }, {
+      "text": " 서 있을 때나 군중 속에 있을 때 그런 느낌을 받으시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 줄을 서 있거나 군중 속에 있는 경우에 ",
+      "auto": true
+    }, {
+      "text": "그런 증상이",
+      "auto": true
+    }, {
+      "text": " 나타나시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼 줄을 서 있는 상황이나 군중 속에",
+      "auto": true
+    }, {
+      "text": " 있을 때 ",
+      "auto": true
+    }, {
+      "text": "그런",
+      "auto": true
+    }, {
+      "text": " 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 줄을 서 있거나 군중 속에 있을 때 ",
+      "auto": true
+    }, {
+      "text": "그런 증상을",
+      "auto": true
+    }, {
+      "text": " 경험하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼",
+      "auto": true
+    }, {
+      "text": " 줄을 서있거나 군중 속에 있을 때 느껴지시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

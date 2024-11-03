@@ -1,0 +1,146 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "혹시 환자가 느끼시는 불안감이 통제하기 어려운 정도",
+      "auto": true
+    }, {
+      "text": "라고 여기시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "환자분이 경험하시는 불안감을",
+      "auto": true
+    }, {
+      "text": " 조절하기 힘들다고 생각하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "환자께서 겪으시는 불안감이 다루기",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "어려운 수준",
+      "auto": true
+    }, {
+      "text": "이라고 느끼시는 건 아닌가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 ",
+      "auto": true
+    }, {
+      "text": "환자분의 불안감이 조절하기 힘들",
+      "auto": true
+    }, {
+      "text": " 정도로 심각하다고 여기시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "환자가 느끼시",
+      "auto": true
+    }, {
+      "text": "는 ",
+      "auto": true
+    }, {
+      "text": "불안감이 통제 불가능한",
+      "auto": true
+    }, {
+      "text": " 수준이라고 생각되시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "환자분께서 경험하시는 불안감을 조절하기 벅차다고 느끼시",
+      "auto": true
+    }, {
+      "text": "는 건 아닌지요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 환자분의 불안감이 조절하기",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "어려운",
+      "auto": true
+    }, {
+      "text": " 정도라고 생각되시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "환자께서 느끼시는 불안감이 다루기 힘든 수준",
+      "auto": true
+    }, {
+      "text": "이라고 여기시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "환자분이",
+      "auto": true
+    }, {
+      "text": " 겪으시는 ",
+      "auto": true
+    }, {
+      "text": "불안감",
+      "auto": true
+    }, {
+      "text": "을 통제하기 어렵다고 생각하시는 건 아닌가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 환자분께서 경험하시는 불안감이 조절하기 힘들",
+      "auto": true
+    }, {
+      "text": " 정도라고 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼 환자가 느끼시는",
+      "auto": true
+    }, {
+      "text": " 불안감",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 조절하기 어렵다고 느끼실 정도이신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

@@ -1,0 +1,164 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "직장",
+      "auto": true
+    }, {
+      "text": " 상사",
+      "auto": true
+    }, {
+      "text": "의",
+      "auto": true
+    }, {
+      "text": " 폭언",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 두근거림에 영향을 미쳤다고 생각하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "폭언이 있은 후 두근거림이 심해진 것 같으신가요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "상사의",
+      "auto": true
+    }, {
+      "text": " 언행 때문에 ",
+      "auto": true
+    }, {
+      "text": "두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 나타났나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "직장 ",
+      "auto": true
+    }, {
+      "text": "상사",
+      "auto": true
+    }, {
+      "text": "로부터 ",
+      "auto": true
+    }, {
+      "text": "폭언을 들은 뒤 두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 생겼나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "폭언을 들은 후 두근거림이 발생한 것인지",
+      "auto": true
+    }, {
+      "text": " 궁금합니다.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "상사의",
+      "auto": true
+    }, {
+      "text": " 폭언 후에 두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 생긴 건가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "직장에서의 스트레스 때문에 증상",
+      "auto": true
+    }, {
+      "text": "이 처음",
+      "auto": true
+    }, {
+      "text": " 발생한건가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "직장상사가 폭언을 한 뒤로 두근거림이 발생한건가요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "직장상사가 폭언을 하신",
+      "auto": true
+    }, {
+      "text": "건가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "직장 상사가",
+      "auto": true
+    }, {
+      "text": " 뭐라고 폭언을 했나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼 그분이 환자분께 폭언을 하신",
+      "auto": true
+    }, {
+      "text": "건가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼 직장 상사분께서",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "환자분께",
+      "auto": true
+    }, {
+      "text": " 폭언을 하신건가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

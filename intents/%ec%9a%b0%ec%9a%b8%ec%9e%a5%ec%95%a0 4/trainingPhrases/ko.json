@@ -1,0 +1,173 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "지금 자리에 앉아있으면서 좌불안석 같은 불안감이나 아니면 처진 기분을 느끼고 계시",
+      "auto": true
+    }, {
+      "text": "진 않나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "앉아계신 곳",
+      "auto": true
+    }, {
+      "text": "에서 ",
+      "auto": true
+    }, {
+      "text": "좌불안석",
+      "auto": true
+    }, {
+      "text": "처럼 ",
+      "auto": true
+    }, {
+      "text": "불안해하거나 혹은 처진 느낌이 드시는지",
+      "auto": true
+    }, {
+      "text": " 확인해보고 싶습니다.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "지금 앉아있는 자리에서 좌불안석 같은 불안함이나 처진 기분이 드시진 않는지",
+      "auto": true
+    }, {
+      "text": " 여쭤봐도 될까요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 ",
+      "auto": true
+    }, {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " 앉아있는 곳에서 좌불안석처럼 ",
+      "auto": true
+    }, {
+      "text": "불안해하거나 아니면 처진 느낌을 경험하고 계신지 궁금합니다",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "지금 앉아계신 자리에서 좌불안석 같은 불안감이나 처진 기분을 느끼고 계시",
+      "auto": true
+    }, {
+      "text": "진 않나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "앉아있는 상태에서 좌불안석처럼 불안하거나 아니면 반대로 처진 느낌이 드시나요",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 지금 자리에 앉아있으면서 좌불안석 같은 불안함이나 처진 기분을",
+      "auto": true
+    }, {
+      "text": " 경험하고 계신건 아닌가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "지금 앉아계신 곳",
+      "auto": true
+    }, {
+      "text": "에서 ",
+      "auto": true
+    }, {
+      "text": "좌불안석처럼",
+      "auto": true
+    }, {
+      "text": " 불안한 느낌이나 혹은 처진 감정",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 들진 않으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "앉아있는 자리에서 좌불안석 같은 불안함이나 아니면 처진 기분을 느끼고",
+      "auto": true
+    }, {
+      "text": " 계신지요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 ",
+      "auto": true
+    }, {
+      "text": "지금 앉아계신 자리에서 좌불안석처럼 불안하거나 반대로 처진 느낌이 드시진",
+      "auto": true
+    }, {
+      "text": " 않나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "지금 자리에 앉아있을 때 좌불안석",
+      "auto": true
+    }, {
+      "text": "처럼 불안하거나 아니면 처진 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 들진 않으세요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

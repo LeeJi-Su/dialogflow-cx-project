@@ -1,0 +1,221 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "지금",
+      "auto": true
+    }, {
+      "text": " 감각",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 둔해지거나 따끔거리는 듯한 느낌을 겪고 계신 건 아닌가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 감각",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 무뎌지는 것 같거나 따끔거리는 감각",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " 감각",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 둔해지거나 따끔거리는 느낌을 경험하고 계신지요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 감각",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "둔해지는 것 같거나 따끔거리는 듯한 증상이",
+      "auto": true
+    }, {
+      "text": " 나타나나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "지금 감각이",
+      "auto": true
+    }, {
+      "text": " 무뎌",
+      "auto": true
+    }, {
+      "text": "지거나 따끔거리는",
+      "auto": true
+    }, {
+      "text": " 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있다고 보면 될까요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 ",
+      "auto": true
+    }, {
+      "text": "감각",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "둔해진 것 같거나 따끔거리는 증상을",
+      "auto": true
+    }, {
+      "text": " 겪고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "감각이",
+      "auto": true
+    }, {
+      "text": " 둔해지",
+      "auto": true
+    }, {
+      "text": "거나 따끔거리는 감각을 느끼고 계신",
+      "auto": true
+    }, {
+      "text": " 건가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 감각",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 무뎌지거나 따끔거리는 ",
+      "auto": true
+    }, {
+      "text": "듯한 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "지금",
+      "auto": true
+    }, {
+      "text": " 감각",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 둔해지는 것 같거나 따끔",
+      "auto": true
+    }, {
+      "text": "거리는",
+      "auto": true
+    }, {
+      "text": " 증상",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신지요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 감각",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 둔해지거나 따끔거리는 느낌을 경험하고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "감각",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 둔해지거나 따끔거리는 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

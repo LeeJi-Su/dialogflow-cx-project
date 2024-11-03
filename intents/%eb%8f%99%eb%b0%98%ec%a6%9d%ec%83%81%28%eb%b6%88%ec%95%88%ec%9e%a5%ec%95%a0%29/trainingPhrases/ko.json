@@ -1,0 +1,368 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "두근거림과 함께 ",
+      "auto": true
+    }, {
+      "text": "극심한 불안증세가 나타나는",
+      "auto": true
+    }, {
+      "text": " 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "불안증세가",
+      "auto": true
+    }, {
+      "text": " 동반되는 ",
+      "auto": true
+    }, {
+      "text": "일이",
+      "auto": true
+    }, {
+      "text": " 많으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "극심한 불안",
+      "auto": true
+    }, {
+      "text": "으로 ",
+      "auto": true
+    }, {
+      "text": "괴로워하신 적이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림과",
+      "auto": true
+    }, {
+      "text": " 함께 불안",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 느껴져 힘든 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림과 동시에 느끼는 극심한 불안",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근",
+      "auto": true
+    }, {
+      "text": "거림과",
+      "auto": true
+    }, {
+      "text": " 함께 극심한 불안감을 느낀 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 있을 때 ",
+      "auto": true
+    }, {
+      "text": "불안감이",
+      "auto": true
+    }, {
+      "text": " 심해지는 경우가 많으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림",
+      "auto": true
+    }, {
+      "text": "과 함께 ",
+      "auto": true
+    }, {
+      "text": "불안증세가 나타나",
+      "auto": true
+    }, {
+      "text": "시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림 외에 극심한 불안",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 함께 느껴지신 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림과 함께 불안",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 커지는 것을 ",
+      "auto": true
+    }, {
+      "text": "느끼신",
+      "auto": true
+    }, {
+      "text": " 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 나타날 때 극심한 불안감을 경험하신 적이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림",
+      "auto": true
+    }, {
+      "text": "과 동시에 불안",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 느껴지는 경우가 많으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림과 함께 극심한 불안으로",
+      "auto": true
+    }, {
+      "text": " 인해 힘든 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있을 때 ",
+      "auto": true
+    }, {
+      "text": "불안증세",
+      "auto": true
+    }, {
+      "text": "가 ",
+      "auto": true
+    }, {
+      "text": "동반되신",
+      "auto": true
+    }, {
+      "text": " 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림과 동시에 느끼는 극심한 불안감",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림과 함께 불안이 심해지는 것을 경험",
+      "auto": true
+    }, {
+      "text": "하신 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림 외에도 불안증세가",
+      "auto": true
+    }, {
+      "text": " 동반되는 경우가 많으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림과 함께 느끼는 극심한 불안증세가",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 있을 때 ",
+      "auto": true
+    }, {
+      "text": "극심한 불안증세를 느끼신",
+      "auto": true
+    }, {
+      "text": " 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림과 동시에 불안",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 심해지는 경우가 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근",
+      "auto": true
+    }, {
+      "text": "거림과",
+      "auto": true
+    }, {
+      "text": " 함께 극심한 불안으로 힘든 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림",
+      "auto": true
+    }, {
+      "text": "과 동시에 ",
+      "auto": true
+    }, {
+      "text": "불안감",
+      "auto": true
+    }, {
+      "text": "을 느끼시는 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림과 함께 극심한 불안을",
+      "auto": true
+    }, {
+      "text": " 경험",
+      "auto": true
+    }, {
+      "text": "한",
+      "auto": true
+    }, {
+      "text": " 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림과 동시에 불안증세가 나타나는",
+      "auto": true
+    }, {
+      "text": " 경우가 많으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림과 함께 극심한 불안을 느끼신 적이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼",
+      "auto": true
+    }, {
+      "text": " 두근거림과 동시에 극심한 불안증세를 느끼실까요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

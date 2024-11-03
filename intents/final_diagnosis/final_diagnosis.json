@@ -1,0 +1,23 @@
+{
+  "name": "1dbf20ac-aad6-49ab-a5be-d50c191f6159",
+  "displayName": "final_diagnosis",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  }, {
+    "id": "person1",
+    "entityType": "@sys.person"
+  }, {
+    "id": "currency-name",
+    "entityType": "@sys.currency-name"
+  }, {
+    "id": "location",
+    "entityType": "@sys.location"
+  }, {
+    "id": "diagnosis",
+    "entityType": "@sys.any",
+    "isList": true
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 3
+}

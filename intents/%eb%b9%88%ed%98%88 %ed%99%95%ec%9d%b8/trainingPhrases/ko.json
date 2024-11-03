@@ -1,0 +1,138 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "손바닥",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 창백한가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "손발이",
+      "auto": true
+    }, {
+      "text": " 창백한가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "입술에 ",
+      "auto": true
+    }, {
+      "text": "혈색이",
+      "auto": true
+    }, {
+      "text": " 없나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "피부가",
+      "auto": true
+    }, {
+      "text": " 창박한가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "창백한가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "피부가 창백해지는",
+      "auto": true
+    }, {
+      "text": " 경우가 많나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림",
+      "auto": true
+    }, {
+      "text": "을 느끼실 즈음에 피부가 창백한가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "피부가 창백하신",
+      "auto": true
+    }, {
+      "text": " 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거릴",
+      "auto": true
+    }, {
+      "text": " 때 피부가 창백",
+      "auto": true
+    }, {
+      "text": "해",
+      "auto": true
+    }, {
+      "text": "지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "피부가 창백",
+      "auto": true
+    }, {
+      "text": "해",
+      "auto": true
+    }, {
+      "text": "지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "증상",
+      "auto": true
+    }, {
+      "text": "이 심하면 입술, 입 속 점막, 손톱, 손바닥도 창백해지고 모발이",
+      "auto": true
+    }, {
+      "text": " 거칠어지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "피부가 창백하게",
+      "auto": true
+    }, {
+      "text": " 보이나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

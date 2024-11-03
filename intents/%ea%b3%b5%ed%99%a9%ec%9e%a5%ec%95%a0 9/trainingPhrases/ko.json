@@ -1,0 +1,179 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "메스꺼움이나 배 부분의 불편한 증상",
+      "auto": true
+    }, {
+      "text": "을 겪고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 속이 메스꺼운 느낌이나 복부의",
+      "auto": true
+    }, {
+      "text": " 불편감",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있다고 보면 될까요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "메스껍거나 배 쪽에 불편함을 느끼고 ",
+      "auto": true
+    }, {
+      "text": "계신",
+      "auto": true
+    }, {
+      "text": " 건가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 ",
+      "auto": true
+    }, {
+      "text": "구역질이 나거나 복부에 불편한 감각이",
+      "auto": true
+    }, {
+      "text": " 드시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "메스꺼움",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있거나 배 부분",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 불편하신 건 아닌가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 ",
+      "auto": true
+    }, {
+      "text": "속이 메스",
+      "auto": true
+    }, {
+      "text": "껍거나 복부에 뭔가 ",
+      "auto": true
+    }, {
+      "text": "불편한",
+      "auto": true
+    }, {
+      "text": " 증상",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신지요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "메스꺼운",
+      "auto": true
+    }, {
+      "text": " 느낌이나 배 쪽의 불편감을 경험하고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 구역질",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 나거나 ",
+      "auto": true
+    }, {
+      "text": "복부",
+      "auto": true
+    }, {
+      "text": "에 불편함",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "메스",
+      "auto": true
+    }, {
+      "text": "껍거나 배 부분에 불편한 감각",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신지요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 ",
+      "auto": true
+    }, {
+      "text": "메스꺼움이나",
+      "auto": true
+    }, {
+      "text": " 복부에 ",
+      "auto": true
+    }, {
+      "text": "불편감을 느끼고",
+      "auto": true
+    }, {
+      "text": " 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "메스껍거나 복부 불편감이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

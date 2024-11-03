@@ -1,0 +1,136 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "임신",
+      "auto": true
+    }, {
+      "text": "의 가능성",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "생리 예정일이",
+      "auto": true
+    }, {
+      "text": " 지났는데도 ",
+      "auto": true
+    }, {
+      "text": "월경이",
+      "auto": true
+    }, {
+      "text": " 없나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "임신했을 수도 있다는 직감",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 관계 후",
+      "auto": true
+    }, {
+      "text": " 피임을 하지 않으셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "임신을 의심",
+      "auto": true
+    }, {
+      "text": "할 ",
+      "auto": true
+    }, {
+      "text": "만한 신체",
+      "auto": true
+    }, {
+      "text": " 변화가 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "임신 가능성을 염두",
+      "auto": true
+    }, {
+      "text": "에 두고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "임신 초기 증상을",
+      "auto": true
+    }, {
+      "text": " 경험하고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근",
+      "auto": true
+    }, {
+      "text": "에 ",
+      "auto": true
+    }, {
+      "text": "임신 징후",
+      "auto": true
+    }, {
+      "text": "를 느끼신 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 임신하셨을",
+      "auto": true
+    }, {
+      "text": " 가능성",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "임신 가능성이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

@@ -1,0 +1,237 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "이전에도 ",
+      "auto": true
+    }, {
+      "text": "비슷한 두근거림으로",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "치료",
+      "auto": true
+    }, {
+      "text": "를 받은 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "예전에도 ",
+      "auto": true
+    }, {
+      "text": "두근거림으로 인해 병원에 간 적이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 나타났을 때 병원에 가신 적이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "이전에도 ",
+      "auto": true
+    }, {
+      "text": "두근거림으로 의사의 진단을 받으신 적이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "과거",
+      "auto": true
+    }, {
+      "text": "에 이런 두근거림으로 ",
+      "auto": true
+    }, {
+      "text": "치료",
+      "auto": true
+    }, {
+      "text": "를 받은 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "예전에 두근거림으로 진료받은 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "이전에도 ",
+      "auto": true
+    }, {
+      "text": "두근거림으로 의료적 도움을 요청하신 적이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "과거에 두근거림 때문에 ",
+      "auto": true
+    }, {
+      "text": "의사",
+      "auto": true
+    }, {
+      "text": "에게 ",
+      "auto": true
+    }, {
+      "text": "상담",
+      "auto": true
+    }, {
+      "text": "받은 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림으로 인해 병원에 간",
+      "auto": true
+    }, {
+      "text": " 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "예전에도 비슷한 증상으로 ",
+      "auto": true
+    }, {
+      "text": "치료",
+      "auto": true
+    }, {
+      "text": "를 받으신 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "이런 두근",
+      "auto": true
+    }, {
+      "text": "거림",
+      "auto": true
+    }, {
+      "text": " 증상으로 ",
+      "auto": true
+    }, {
+      "text": "병원을 방문한",
+      "auto": true
+    }, {
+      "text": " 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "과거에 두근거림으로 ",
+      "auto": true
+    }, {
+      "text": "치료",
+      "auto": true
+    }, {
+      "text": "를 받아본 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림 증상으로",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "병원",
+      "auto": true
+    }, {
+      "text": "에",
+      "auto": true
+    }, {
+      "text": " 가신 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "이전에 ",
+      "auto": true
+    }, {
+      "text": "두근거림 증상으로",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "병원",
+      "auto": true
+    }, {
+      "text": "에 가신 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "이전에도 이런 두근거림 증상",
+      "auto": true
+    }, {
+      "text": "으로 병원",
+      "auto": true
+    }, {
+      "text": " 방문하셨거나 ",
+      "auto": true
+    }, {
+      "text": "치료",
+      "auto": true
+    }, {
+      "text": " 받으신적 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

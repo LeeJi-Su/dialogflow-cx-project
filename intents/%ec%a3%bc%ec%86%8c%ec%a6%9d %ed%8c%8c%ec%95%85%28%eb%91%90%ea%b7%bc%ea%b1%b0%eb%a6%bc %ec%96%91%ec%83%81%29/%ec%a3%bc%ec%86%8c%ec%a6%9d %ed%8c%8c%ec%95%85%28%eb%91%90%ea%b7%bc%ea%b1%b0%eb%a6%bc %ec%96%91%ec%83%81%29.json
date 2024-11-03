@@ -1,0 +1,7 @@
+{
+  "name": "43233e2b-db92-43b9-833a-24435f05fc03",
+  "displayName": "주소증 파악(두근거림 양상)",
+  "priority": 500000,
+  "description": "두근거림의 양상",
+  "numTrainingPhrases": 25
+}

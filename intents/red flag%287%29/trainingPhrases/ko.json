@@ -1,0 +1,260 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "누운 자세에서 호흡곤란이 더 강하게 느껴진 적이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "누웠을 때 ",
+      "auto": true
+    }, {
+      "text": "호흡곤란이 심해지는 느낌",
+      "auto": true
+    }, {
+      "text": "을 ",
+      "auto": true
+    }, {
+      "text": "자주",
+      "auto": true
+    }, {
+      "text": " 경험하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "누운 자세",
+      "auto": true
+    }, {
+      "text": "에서 ",
+      "auto": true
+    }, {
+      "text": "호흡곤란이",
+      "auto": true
+    }, {
+      "text": " 심해지는 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "누운 자세",
+      "auto": true
+    }, {
+      "text": "에서 ",
+      "auto": true
+    }, {
+      "text": "호흡곤란이",
+      "auto": true
+    }, {
+      "text": " 더 심하게 느껴지시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "누웠을 때 ",
+      "auto": true
+    }, {
+      "text": "호흡곤란이 심해지는 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드나요?",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "누워 있을 때 ",
+      "auto": true
+    }, {
+      "text": "호흡이",
+      "auto": true
+    }, {
+      "text": " 더 힘들게 느껴지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "누웠을 때 ",
+      "auto": true
+    }, {
+      "text": "호흡곤란이 심하게 나타나는",
+      "auto": true
+    }, {
+      "text": " 경우가 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "누워 있을 때 ",
+      "auto": true
+    }, {
+      "text": "호흡이",
+      "auto": true
+    }, {
+      "text": " 불편하게 느껴지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "누운 자세",
+      "auto": true
+    }, {
+      "text": "에서 ",
+      "auto": true
+    }, {
+      "text": "호흡곤란이 더",
+      "auto": true
+    }, {
+      "text": " 심해지는 것을 경험하셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "누워 있을 때 ",
+      "auto": true
+    }, {
+      "text": "호흡곤란이",
+      "auto": true
+    }, {
+      "text": " 더욱 심해지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "누운 자세",
+      "auto": true
+    }, {
+      "text": "에서 호흡",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 힘들어지는 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "누운 상태",
+      "auto": true
+    }, {
+      "text": "에서 ",
+      "auto": true
+    }, {
+      "text": "호흡곤란이 더 심해진",
+      "auto": true
+    }, {
+      "text": " 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼",
+      "auto": true
+    }, {
+      "text": " 누웠을 때 ",
+      "auto": true
+    }, {
+      "text": "호흡곤란이",
+      "auto": true
+    }, {
+      "text": " 더 심해지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "누운 자세",
+      "auto": true
+    }, {
+      "text": "에서 호흡곤란",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 느껴지시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "누웠을 때 호흡",
+      "auto": true
+    }, {
+      "text": "곤란이 더",
+      "auto": true
+    }, {
+      "text": " 심해지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "호흡곤란",
+      "auto": true
+    }, {
+      "text": "은 누웠을 때 더 심해지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그러면 ",
+      "auto": true
+    }, {
+      "text": "호흡곤란",
+      "auto": true
+    }, {
+      "text": "은 누웠을 때 더 심해지시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

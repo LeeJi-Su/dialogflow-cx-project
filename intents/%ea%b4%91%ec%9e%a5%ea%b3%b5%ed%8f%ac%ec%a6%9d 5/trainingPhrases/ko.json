@@ -1,0 +1,170 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "그럼 혼자",
+      "auto": true
+    }, {
+      "text": " 밖에 있을 때 그런 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 나타나실까요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 밖에서 혼자 있을 때 ",
+      "auto": true
+    }, {
+      "text": "그런 증상을 경험하실 가능성",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있을까요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그렇다면 ",
+      "auto": true
+    }, {
+      "text": "혼자",
+      "auto": true
+    }, {
+      "text": " 밖에 있는 상황에서 그런 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드시는 건가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 밖에 혼자 있는 동안 ",
+      "auto": true
+    }, {
+      "text": "그런 증상이",
+      "auto": true
+    }, {
+      "text": " 느껴지실까요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼 혼자",
+      "auto": true
+    }, {
+      "text": " 밖에 있는 경우에 그런 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 들으실까요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 밖에서 혼자 있을 때 ",
+      "auto": true
+    }, {
+      "text": "그런 증상을",
+      "auto": true
+    }, {
+      "text": " 겪으실까요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그렇다면 ",
+      "auto": true
+    }, {
+      "text": "혼자",
+      "auto": true
+    }, {
+      "text": " 밖에 있을 때 그런 느낌을 받으실까요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 밖에 ",
+      "auto": true
+    }, {
+      "text": "혼자",
+      "auto": true
+    }, {
+      "text": " 있는 ",
+      "auto": true
+    }, {
+      "text": "상황에서",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "그런 증상이",
+      "auto": true
+    }, {
+      "text": " 나타나실까요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼 혼자",
+      "auto": true
+    }, {
+      "text": " 밖에 있을 때 그런 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 밖에서 혼자 있을 때 ",
+      "auto": true
+    }, {
+      "text": "그런 증상을",
+      "auto": true
+    }, {
+      "text": " 경험하실까요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 밖에 혼자 있을 때 느껴지실까요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

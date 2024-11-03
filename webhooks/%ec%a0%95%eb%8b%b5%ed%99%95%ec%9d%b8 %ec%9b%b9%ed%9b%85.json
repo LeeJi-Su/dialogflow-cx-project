@@ -1,0 +1,11 @@
+{
+  "name": "d47b4631-2e1d-4d75-a17c-fc659c526737",
+  "displayName": "정답확인 웹훅",
+  "genericWebService": {
+    "uri": "https://script.google.com/macros/s/AKfycbwcp9ojX8B6jNymGIDMxo-9YXQLgjnKReeYaaJOxQ2ON13Tfh8FpfjFvLbXFUnkY9LzsA/exec",
+    "webhookType": "STANDARD"
+  },
+  "timeout": {
+    "seconds": 5
+  }
+}

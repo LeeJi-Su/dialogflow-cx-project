@@ -1,0 +1,30 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "갑상선",
+      "auto": true
+    }, {
+      "text": " 보겠습니다",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갑상선",
+      "auto": true
+    }, {
+      "text": " 촉진하겠습니다",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갑상선 촉진",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

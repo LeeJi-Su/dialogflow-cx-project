@@ -1,0 +1,123 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "딸과 사이",
+      "auto": true
+    }, {
+      "text": "는 좋은편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "딸과의 관계",
+      "auto": true
+    }, {
+      "text": "는 어떠신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "딸과의",
+      "auto": true
+    }, {
+      "text": " 사이는 어떠세요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "자식",
+      "auto": true
+    }, {
+      "text": "과의 사이가 원활하신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "자식과의",
+      "auto": true
+    }, {
+      "text": " 관계가 좋다고 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "자식",
+      "auto": true
+    }, {
+      "text": "과의 사이가 가까운 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "초등학생 딸과 관계",
+      "auto": true
+    }, {
+      "text": "는 좋으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "딸과 관계",
+      "auto": true
+    }, {
+      "text": "는 괜찮으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "딸과의",
+      "auto": true
+    }, {
+      "text": " 사이는 괜찮나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "자식",
+      "auto": true
+    }, {
+      "text": "과의 사이가 좋으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "자식과의 관계",
+      "auto": true
+    }, {
+      "text": "는 어떠신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "자식과의 관계",
+      "auto": true
+    }, {
+      "text": "는 어떤가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

@@ -1,0 +1,91 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "심장이",
+      "auto": true
+    }, {
+      "text": " 느리게 뛰나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 평소보다",
+      "auto": true
+    }, {
+      "text": " 느린 속도로 나타나시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "심장이 평소보다",
+      "auto": true
+    }, {
+      "text": " 천천히 뛰는 것 같은 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드시지는 않나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림",
+      "auto": true
+    }, {
+      "text": "의 속도가 느리게 나타나지 않으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근",
+      "auto": true
+    }, {
+      "text": "거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 느리게 ",
+      "auto": true
+    }, {
+      "text": "나타나",
+      "auto": true
+    }, {
+      "text": "시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 느리게 나타나진 않으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 평소보다",
+      "auto": true
+    }, {
+      "text": " 느린 속도로 나타나지는 않나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

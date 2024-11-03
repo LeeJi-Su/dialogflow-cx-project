@@ -1,0 +1,590 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "쉴 때 ",
+      "auto": true
+    }, {
+      "text": "두근거림이 덜한 기분이",
+      "auto": true
+    }, {
+      "text": " 드시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 휴식 중에 완화되나요?",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "쉬는 동안 두근거림이",
+      "auto": true
+    }, {
+      "text": " 나아지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 휴식 시 덜하다고 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 편안한 상태",
+      "auto": true
+    }, {
+      "text": "에서 줄어드나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "편안히",
+      "auto": true
+    }, {
+      "text": " 쉴 때 두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 덜해지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "휴식 중 두근거림이 줄어드는",
+      "auto": true
+    }, {
+      "text": " 것 같나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 휴식 시",
+      "auto": true
+    }, {
+      "text": " 완화되나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "휴식이",
+      "auto": true
+    }, {
+      "text": " 두근거림에 좋다고 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "쉴 때 ",
+      "auto": true
+    }, {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 완화되는 것 같나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "휴식할 때 두근",
+      "auto": true
+    }, {
+      "text": "거림이",
+      "auto": true
+    }, {
+      "text": " 감소하나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 쉬는 동안 나아지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "편안히",
+      "auto": true
+    }, {
+      "text": " 앉아 있을 때 ",
+      "auto": true
+    }, {
+      "text": "두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 줄어드나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "휴식",
+      "auto": true
+    }, {
+      "text": " 중 두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 덜해지는 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "쉴 때 두근",
+      "auto": true
+    }, {
+      "text": "거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 완화되나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "편안",
+      "auto": true
+    }, {
+      "text": "하게 있을 때 ",
+      "auto": true
+    }, {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 사라지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 휴식 시 나아지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "휴식이",
+      "auto": true
+    }, {
+      "text": " 두근거림에 영향을 주나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "편히",
+      "auto": true
+    }, {
+      "text": " 쉬면 ",
+      "auto": true
+    }, {
+      "text": "두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 줄어들나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "쉬면 덜 ",
+      "auto": true
+    }, {
+      "text": "두근",
+      "auto": true
+    }, {
+      "text": "거려요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "쉬면 좀 덜 ",
+      "auto": true
+    }, {
+      "text": "두근거리",
+      "auto": true
+    }, {
+      "text": "나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "쉬면 ",
+      "auto": true
+    }, {
+      "text": "두근거리는",
+      "auto": true
+    }, {
+      "text": " 게 괜찮아지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "쉴",
+      "auto": true
+    }, {
+      "text": " 때 ",
+      "auto": true
+    }, {
+      "text": "두근거리는 증상이",
+      "auto": true
+    }, {
+      "text": " 감소하나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "휴식을",
+      "auto": true
+    }, {
+      "text": " 취",
+      "auto": true
+    }, {
+      "text": "하면 두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 완화되나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "휴식할 때 두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 덜해지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "쉬는 동안",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 줄어드는 것 같나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "편안한 상태",
+      "auto": true
+    }, {
+      "text": "에서 ",
+      "auto": true
+    }, {
+      "text": "두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 덜한가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "휴식",
+      "auto": true
+    }, {
+      "text": " 중에 두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 느껴지지 않나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "쉴 때 ",
+      "auto": true
+    }, {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 완화되는 ",
+      "auto": true
+    }, {
+      "text": "기분",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "휴식이",
+      "auto": true
+    }, {
+      "text": " 두근거림에 도움",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 되나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "편안히",
+      "auto": true
+    }, {
+      "text": " 있을 때 ",
+      "auto": true
+    }, {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 나아지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "휴식 중 두근거림이 완화",
+      "auto": true
+    }, {
+      "text": "되는 것 같나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "쉰",
+      "auto": true
+    }, {
+      "text": " 후 ",
+      "auto": true
+    }, {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 감소하나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "휴식할 때 두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 느껴지지 않나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "편히",
+      "auto": true
+    }, {
+      "text": " 앉아 있으면 두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 줄어드나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "휴식 시 두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 완화되는 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "쉬는 동안 두근",
+      "auto": true
+    }, {
+      "text": "거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 덜해지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "휴식 중에 두근",
+      "auto": true
+    }, {
+      "text": "거림이",
+      "auto": true
+    }, {
+      "text": " 사라지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "편안히 쉬면",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 완화되나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "휴식할 때 두근",
+      "auto": true
+    }, {
+      "text": "거림이",
+      "auto": true
+    }, {
+      "text": " 줄어드나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "휴식 시",
+      "auto": true
+    }, {
+      "text": "에 ",
+      "auto": true
+    }, {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 완화되나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

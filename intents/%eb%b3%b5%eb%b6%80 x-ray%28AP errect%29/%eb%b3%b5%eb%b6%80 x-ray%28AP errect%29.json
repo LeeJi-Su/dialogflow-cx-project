@@ -1,0 +1,6 @@
+{
+  "name": "70db9793-c8bb-467f-9cfc-6bbb60826984",
+  "displayName": "복부 x-ray(AP errect)",
+  "priority": 500000,
+  "numTrainingPhrases": 10
+}

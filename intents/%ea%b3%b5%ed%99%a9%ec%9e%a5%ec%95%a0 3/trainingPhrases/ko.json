@@ -1,0 +1,74 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " 가슴",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "두근",
+      "auto": true
+    }, {
+      "text": "거리는",
+      "auto": true
+    }, {
+      "text": " 증상",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신거죠?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "환자분께서 극심한",
+      "auto": true
+    }, {
+      "text": " 불안감, 공포 등",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 나타난다고 하셨는데, 이와 함께 다음 증상들이 함께 나타났다면 말씀해주세요.\r ",
+      "auto": true
+    }, {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " 가슴",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 두근거리는 증상",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신거죠?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

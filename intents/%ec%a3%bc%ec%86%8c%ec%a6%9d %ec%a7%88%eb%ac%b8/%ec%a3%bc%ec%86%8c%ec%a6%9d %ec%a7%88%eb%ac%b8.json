@@ -1,0 +1,8 @@
+{
+  "name": "2f5d30d1-822c-49f5-9411-8c64115a4223",
+  "displayName": "주소증 질문",
+  "priority": 500000,
+  "description": "환자 내원 주소증에 대한 질문",
+  "skipAutoAnnotation": true,
+  "numTrainingPhrases": 35
+}

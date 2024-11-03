@@ -1,0 +1,118 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "두근거릴때",
+      "auto": true
+    }, {
+      "text": " 가슴",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " '쿵'하고 내려앉는 듯한가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "심장",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "순간적",
+      "auto": true
+    }, {
+      "text": "으로 아래로 꺼지는 것 같은 느낌인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 두근거림이 심장이 아래",
+      "auto": true
+    }, {
+      "text": "로 떨어지는 것 같은 느낌인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 심장이",
+      "auto": true
+    }, {
+      "text": " 탁 하고 떨어지는 느낌인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시",
+      "auto": true
+    }, {
+      "text": " 심장",
+      "auto": true
+    }, {
+      "text": "이 쿵",
+      "auto": true
+    }, {
+      "text": "하고 떨어지는 듯한 느낌인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그 두근거림이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "마치",
+      "auto": true
+    }, {
+      "text": " 심장",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 쿵 내려앉는 것 같은 느낌인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그 두근거리는",
+      "auto": true
+    }, {
+      "text": " 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 혹시 심장",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 쿵 내려앉는 듯한 느낌인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

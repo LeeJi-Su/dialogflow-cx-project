@@ -1,0 +1,6 @@
+{
+  "name": "bf8c9acc-0f89-4ad8-806a-67ddfb56386d",
+  "displayName": "복부 X-ray(AP spine)",
+  "priority": 500000,
+  "numTrainingPhrases": 19
+}

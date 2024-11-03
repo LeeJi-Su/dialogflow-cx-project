@@ -1,0 +1,551 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "소화",
+      "parameterId": "person",
+      "auto": true
+    }, {
+      "text": "는 잘 되나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "소화력",
+      "auto": true
+    }, {
+      "text": "은 어떠세요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "밥 ",
+      "auto": true
+    }, {
+      "text": "드신",
+      "auto": true
+    }, {
+      "text": " 후에 ",
+      "auto": true
+    }, {
+      "text": "소화",
+      "auto": true
+    }, {
+      "text": "는 어떠세요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "밥 ",
+      "auto": true
+    }, {
+      "text": "드신",
+      "auto": true
+    }, {
+      "text": " 후에 ",
+      "auto": true
+    }, {
+      "text": "소화",
+      "auto": true
+    }, {
+      "text": " 잘 되세요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "밥 ",
+      "auto": true
+    }, {
+      "text": "먹을",
+      "auto": true
+    }, {
+      "text": " 후에 ",
+      "auto": true
+    }, {
+      "text": "소화",
+      "auto": true
+    }, {
+      "text": " 잘 되세요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "식사 후에 소화",
+      "auto": true
+    }, {
+      "text": "는 잘 되세요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "식사를 하고 ",
+      "auto": true
+    }, {
+      "text": "나면 소화",
+      "auto": true
+    }, {
+      "text": "는 잘 되세요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "소화",
+      "auto": true
+    }, {
+      "text": "는 잘 되시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "소화",
+      "auto": true
+    }, {
+      "text": "는 잘 되세요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "밥",
+      "auto": true
+    }, {
+      "text": "은 잘 ",
+      "auto": true
+    }, {
+      "text": "드시",
+      "auto": true
+    }, {
+      "text": "나요?",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "식사는",
+      "auto": true
+    }, {
+      "text": " 잘 하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "밥 잘 ",
+      "auto": true
+    }, {
+      "text": "드시고",
+      "auto": true
+    }, {
+      "text": " 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "식사",
+      "auto": true
+    }, {
+      "text": " 잘 하고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "식사",
+      "auto": true
+    }, {
+      "text": " 잘 하고 계세요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "식사는",
+      "auto": true
+    }, {
+      "text": " 잘 하세요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "밥은",
+      "auto": true
+    }, {
+      "text": " 잘 드세요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "식사",
+      "auto": true
+    }, {
+      "text": " 잘 하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "요즘 밥",
+      "auto": true
+    }, {
+      "text": "은 잘 ",
+      "auto": true
+    }, {
+      "text": "드시",
+      "auto": true
+    }, {
+      "text": "나요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근에 ",
+      "auto": true
+    }, {
+      "text": "식사량이",
+      "auto": true
+    }, {
+      "text": " 줄어들었나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "식욕이",
+      "auto": true
+    }, {
+      "text": " 좋지 않다고 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근",
+      "auto": true
+    }, {
+      "text": " 식사에 대한 욕구는 어떤가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "식욕",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 적거나 많아진 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "식사할 때 기분",
+      "auto": true
+    }, {
+      "text": "은 어떤가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근",
+      "auto": true
+    }, {
+      "text": "에 잘 드시는 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "식욕이 떨어진 느낌이 드나요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "식사를 하는 데",
+      "auto": true
+    }, {
+      "text": " 문제가 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "요즘 식사량",
+      "auto": true
+    }, {
+      "text": "은 어떻게 되세요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "식욕이 예전",
+      "auto": true
+    }, {
+      "text": "보다 어떤가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근",
+      "auto": true
+    }, {
+      "text": "에 식사에 대한 관심",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "식사하는 데 어려움",
+      "auto": true
+    }, {
+      "text": "은 없으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "식욕",
+      "auto": true
+    }, {
+      "text": "에 변화가 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근",
+      "auto": true
+    }, {
+      "text": "에 ",
+      "auto": true
+    }, {
+      "text": "식사량",
+      "auto": true
+    }, {
+      "text": "은 어떠세요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "식욕이",
+      "auto": true
+    }, {
+      "text": " 좋은 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "요즘",
+      "auto": true
+    }, {
+      "text": " 식사는 잘 하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근",
+      "auto": true
+    }, {
+      "text": " 식욕",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 줄어들거나 늘어난 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "식욕",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 예전과 비교해 어떤가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "식사에",
+      "auto": true
+    }, {
+      "text": " 대한 욕구는 어떻게 되세요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근",
+      "auto": true
+    }, {
+      "text": "에 ",
+      "auto": true
+    }, {
+      "text": "식욕이",
+      "auto": true
+    }, {
+      "text": " 괜찮으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "식욕",
+      "auto": true
+    }, {
+      "text": "은 어떤 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 2주간",
+      "auto": true
+    }, {
+      "text": " 식욕은 어떠세요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "식욕은 어떠세요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "식욕",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 없나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "식욕",
+      "auto": true
+    }, {
+      "text": "은 좋은 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "식욕",
+      "auto": true
+    }, {
+      "text": "은 어떠신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "요즘 ",
+      "auto": true
+    }, {
+      "text": "소화",
+      "auto": true
+    }, {
+      "text": "불량 있다고 했는데 식욕을 어떠신가요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 2주간 두근거림 외의 전체적 증상들을",
+      "auto": true
+    }, {
+      "text": " 여쭤"
+    }, {
+      "text": "보겠습니다. 요즘",
+      "auto": true
+    }, {
+      "text": " 소화불량 있다고 했는데 식욕을 어떠신가요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

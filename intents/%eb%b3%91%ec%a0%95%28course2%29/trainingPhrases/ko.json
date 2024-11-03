@@ -1,0 +1,65 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 계속 심해지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근",
+      "auto": true
+    }, {
+      "text": "거림이",
+      "auto": true
+    }, {
+      "text": " 점점 심해지시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "증상이",
+      "auto": true
+    }, {
+      "text": " 심해지고 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼 증상이",
+      "auto": true
+    }, {
+      "text": " 계속해서 심해지신건가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼 두달",
+      "auto": true
+    }, {
+      "text": " 전부터 ",
+      "auto": true
+    }, {
+      "text": "증상이 심해지",
+      "auto": true
+    }, {
+      "text": "신건가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

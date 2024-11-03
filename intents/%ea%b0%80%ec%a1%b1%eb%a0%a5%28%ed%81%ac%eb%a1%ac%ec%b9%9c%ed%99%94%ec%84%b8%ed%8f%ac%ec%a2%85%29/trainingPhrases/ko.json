@@ -1,0 +1,341 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "가족 중에 ",
+      "auto": true
+    }, {
+      "text": "암 환자가",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 암으로 어려움을 겪는 분이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "암 진단",
+      "auto": true
+    }, {
+      "text": "을 받은 ",
+      "auto": true
+    }, {
+      "text": "가까운 가족이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 ",
+      "auto": true
+    }, {
+      "text": "암 진단",
+      "auto": true
+    }, {
+      "text": "을 받은 분이 있는지요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족분들",
+      "auto": true
+    }, {
+      "text": " 중 ",
+      "auto": true
+    }, {
+      "text": "암이나",
+      "auto": true
+    }, {
+      "text": " 종양질환을 가지고 계신분 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족분들 중에 ",
+      "auto": true
+    }, {
+      "text": "암 진단 받으신",
+      "auto": true
+    }, {
+      "text": " 분 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 ",
+      "auto": true
+    }, {
+      "text": "암이나 종양 질환이 있는지 궁금",
+      "auto": true
+    }, {
+      "text": "합니다.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가까운",
+      "auto": true
+    }, {
+      "text": " 친척 중에 암과 같은 질환을 앓고 ",
+      "auto": true
+    }, {
+      "text": "계신 분이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "암으로 고생하는 가족이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 암 관련 질환을 앓고 있는 분이 있습니까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 ",
+      "auto": true
+    }, {
+      "text": "암으로 투병 중인",
+      "auto": true
+    }, {
+      "text": " 분이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "종양",
+      "auto": true
+    }, {
+      "text": "질환으로 어려움을 겪고 있는 가족",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 ",
+      "auto": true
+    }, {
+      "text": "암 환자가",
+      "auto": true
+    }, {
+      "text": " 있는지요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가까운 친척 중에 종양",
+      "auto": true
+    }, {
+      "text": "질환을 앓고 ",
+      "auto": true
+    }, {
+      "text": "계신 분이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 ",
+      "auto": true
+    }, {
+      "text": "암",
+      "auto": true
+    }, {
+      "text": "과 같은 질환을 앓고 있는 분이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 ",
+      "auto": true
+    }, {
+      "text": "암 진단",
+      "auto": true
+    }, {
+      "text": "을 받은 ",
+      "auto": true
+    }, {
+      "text": "분이",
+      "auto": true
+    }, {
+      "text": " 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가까운 가족",
+      "auto": true
+    }, {
+      "text": " 중에 종양질환을 앓고 계신 분이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 암과 같은 질환을 겪고 계신 분이 있습니까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "종양질환으로",
+      "auto": true
+    }, {
+      "text": " 고생하는 ",
+      "auto": true
+    }, {
+      "text": "가족",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 암을 앓고 ",
+      "auto": true
+    }, {
+      "text": "계신 분이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "있는지",
+      "auto": true
+    }, {
+      "text": " 궁금합니다.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "종양질환을",
+      "auto": true
+    }, {
+      "text": " 겪고 있는 가족",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가까운 가족",
+      "auto": true
+    }, {
+      "text": " 중에 암으로 진단받은 분이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 ",
+      "auto": true
+    }, {
+      "text": "암이나 종양",
+      "auto": true
+    }, {
+      "text": "질환을 앓고 ",
+      "auto": true
+    }, {
+      "text": "계신 분이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 암이나 종양 관련 질환을 앓고 계신 분이 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "암 진단",
+      "auto": true
+    }, {
+      "text": " 받은 적 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 암과 같은 종양질환을 앓고 계신분이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

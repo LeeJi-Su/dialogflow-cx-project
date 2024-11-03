@@ -1,0 +1,37 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "피부색",
+      "auto": true
+    }, {
+      "text": " 보겠습니다",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "피부색",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "피부색",
+      "auto": true
+    }, {
+      "text": "은 어떤가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "피부색 확인해볼게요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

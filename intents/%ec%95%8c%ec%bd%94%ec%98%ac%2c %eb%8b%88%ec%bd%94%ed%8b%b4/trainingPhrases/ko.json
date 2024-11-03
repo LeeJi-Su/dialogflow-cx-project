@@ -1,0 +1,305 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "술담배",
+      "auto": true
+    }, {
+      "text": " 하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "술 담배",
+      "auto": true
+    }, {
+      "text": "는 안하시죠?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "음주나 흡연은 안하시는",
+      "auto": true
+    }, {
+      "text": " 거죠?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "음주나 흡연",
+      "auto": true
+    }, {
+      "text": "은 안하시죠?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "음주는",
+      "auto": true
+    }, {
+      "text": " 안하시죠?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "흡연은",
+      "auto": true
+    }, {
+      "text": " 안하시죠?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "담배",
+      "auto": true
+    }, {
+      "text": " 좋아하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "술",
+      "auto": true
+    }, {
+      "text": " 좋아하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "음주",
+      "auto": true
+    }, {
+      "text": "와 ",
+      "auto": true
+    }, {
+      "text": "흡연을 얼마나 자주 하시나요",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "음주나 흡연을 하시는지",
+      "auto": true
+    }, {
+      "text": " 알고 싶습니다.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "담배",
+      "auto": true
+    }, {
+      "text": "를 ",
+      "auto": true
+    }, {
+      "text": "피우",
+      "auto": true
+    }, {
+      "text": "거나 ",
+      "auto": true
+    }, {
+      "text": "술",
+      "auto": true
+    }, {
+      "text": "을 마시는지요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "술",
+      "auto": true
+    }, {
+      "text": "이나 ",
+      "auto": true
+    }, {
+      "text": "담배",
+      "auto": true
+    }, {
+      "text": "를 ",
+      "auto": true
+    }, {
+      "text": "얼마나 자주 드시나요",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "술과 담배",
+      "auto": true
+    }, {
+      "text": "를 모두 하시는지요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "음주나 흡연을",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "하시는지 알려주실",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "수",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "술이나",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "담배",
+      "auto": true
+    }, {
+      "text": "를 드시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "담배",
+      "auto": true
+    }, {
+      "text": "를 피우거나 ",
+      "auto": true
+    }, {
+      "text": "술",
+      "auto": true
+    }, {
+      "text": "을 드시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "술이나 담배를 즐기시",
+      "auto": true
+    }, {
+      "text": "는 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "흡연 ",
+      "auto": true
+    }, {
+      "text": "하시나요",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "음주를 즐기나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "담배",
+      "auto": true
+    }, {
+      "text": " 피시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "술",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "드시",
+      "auto": true
+    }, {
+      "text": "나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "음주나",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "흡연을",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "하시는지",
+      "auto": true
+    }, {
+      "text": " 궁금합니다.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "술이나 담배",
+      "auto": true
+    }, {
+      "text": " 하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

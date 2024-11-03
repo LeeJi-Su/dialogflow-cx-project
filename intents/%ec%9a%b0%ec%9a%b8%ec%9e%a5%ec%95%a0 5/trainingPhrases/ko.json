@@ -1,0 +1,185 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "지금",
+      "auto": true
+    }, {
+      "text": " 불면",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 계속되는 상태를 겪고 계신다고 보면 되는 건가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "요즘 계속 ",
+      "auto": true
+    }, {
+      "text": "불면 상태로 지내고 계신 건",
+      "auto": true
+    }, {
+      "text": " 아닌가 싶은데, 어떠신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " 불면",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 계속되는 상황을 겪고 계신 건 아닌지 여쭤봐도 될까요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "지금",
+      "auto": true
+    }, {
+      "text": " 계속해서 불면으로 ",
+      "auto": true
+    }, {
+      "text": "고생하고 계신 상태인 것",
+      "auto": true
+    }, {
+      "text": " 같은데요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 ",
+      "auto": true
+    }, {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " 불면 ",
+      "auto": true
+    }, {
+      "text": "상태",
+      "auto": true
+    }, {
+      "text": "가 계속 지속되고 있는 건 아닌가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "지금",
+      "auto": true
+    }, {
+      "text": " 불면",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 계속되는 상황을 겪고 계신 건 아닌지 궁금합니다.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "요즘 계속해서 불면을 ",
+      "auto": true
+    }, {
+      "text": "경험",
+      "auto": true
+    }, {
+      "text": "하고 ",
+      "auto": true
+    }, {
+      "text": "계신 상태인 것 같은데",
+      "auto": true
+    }, {
+      "text": ", 맞나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "불면 상태",
+      "auto": true
+    }, {
+      "text": "가 계속 이어지고 있는 것은 아닌가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "지금",
+      "auto": true
+    }, {
+      "text": " 불면",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 계속되는 상태를 겪고 계신 것인지요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 ",
+      "auto": true
+    }, {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " 계속해서 불면 상태를 가지고 ",
+      "auto": true
+    }, {
+      "text": "계신",
+      "auto": true
+    }, {
+      "text": " 건가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " 계속 불면을 가지고 ",
+      "auto": true
+    }, {
+      "text": "계신",
+      "auto": true
+    }, {
+      "text": " 상태인거죠?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

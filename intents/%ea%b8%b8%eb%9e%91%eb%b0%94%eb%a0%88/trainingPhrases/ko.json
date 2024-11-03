@@ -1,0 +1,330 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "최근 한 달",
+      "auto": true
+    }, {
+      "text": " 동안 감염성 질환으로 아프신 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 30일",
+      "auto": true
+    }, {
+      "text": " 동안 감염병에 걸린 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 30일",
+      "auto": true
+    }, {
+      "text": " 사이에 ",
+      "auto": true
+    }, {
+      "text": "아프신",
+      "auto": true
+    }, {
+      "text": " 적이 감염 관련이었나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "한 달 동안",
+      "auto": true
+    }, {
+      "text": " 감염 ",
+      "auto": true
+    }, {
+      "text": "질환",
+      "auto": true
+    }, {
+      "text": "을 경험",
+      "auto": true
+    }, {
+      "text": "한",
+      "auto": true
+    }, {
+      "text": " 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "한 달 이내에",
+      "auto": true
+    }, {
+      "text": " 감염성 질환에 걸린 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 한 달",
+      "auto": true
+    }, {
+      "text": " 이내에 감염성 질환을 앓으신 적이 있습니까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 1개월",
+      "auto": true
+    }, {
+      "text": " 동안 아프셨던 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 감염과 관련",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 30일",
+      "auto": true
+    }, {
+      "text": " 사이에 감염병에 걸린 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 1개월",
+      "auto": true
+    }, {
+      "text": " 동안 감염성 질환으로 아프셨던 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "한 달",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "이내에",
+      "auto": true
+    }, {
+      "text": " 감염 관련 질환을 경험하신 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 30일 동안",
+      "auto": true
+    }, {
+      "text": " 감염병에 걸린 적이 있습니까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 1개월간",
+      "auto": true
+    }, {
+      "text": " 감염 질환을 앓으셨던 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "한 ",
+      "auto": true
+    }, {
+      "text": "달 이내에",
+      "auto": true
+    }, {
+      "text": " 감염성 질환에 걸린 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 1개월",
+      "auto": true
+    }, {
+      "text": " 동안 감염 질환으로 ",
+      "auto": true
+    }, {
+      "text": "고생하신 적이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 30일 동안",
+      "auto": true
+    }, {
+      "text": " 감염 관련 질환을 겪으신 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 한 달간",
+      "auto": true
+    }, {
+      "text": " 감염성 질환을 앓으신 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 1개월",
+      "auto": true
+    }, {
+      "text": " 동안 감염병에 걸린 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "한 달",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "이내에",
+      "auto": true
+    }, {
+      "text": " 감염 질환을 앓으신 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 1개월",
+      "auto": true
+    }, {
+      "text": " 동안 아픈 적이 있으신가요, 특히 감염으로 인한?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "지난 1개월",
+      "auto": true
+    }, {
+      "text": " 동안 감염 질환을 경험하신 ",
+      "auto": true
+    }, {
+      "text": "적이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 30일 동안",
+      "auto": true
+    }, {
+      "text": " 감염성 질환에 걸린 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 한 달",
+      "auto": true
+    }, {
+      "text": " 이내에 감염 질환을 앓으신 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 1개월",
+      "auto": true
+    }, {
+      "text": " 동안 감염성 질환에 걸린 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 1개월",
+      "auto": true
+    }, {
+      "text": " 동안 감염 질환 앓은 적 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

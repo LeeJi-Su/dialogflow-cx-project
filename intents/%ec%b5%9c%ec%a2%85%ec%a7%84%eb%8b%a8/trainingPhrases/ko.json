@@ -1,0 +1,54 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "최종진단 할게",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최종진단 할래요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최종진단이요"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최종진단"
+    }, {
+      "text": "!"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최종진단",
+      "auto": true
+    }, {
+      "text": " 하겠습니다.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최종진단 할게요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최종진단"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

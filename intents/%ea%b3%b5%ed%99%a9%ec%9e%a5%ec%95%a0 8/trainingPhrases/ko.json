@@ -1,0 +1,158 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "가슴 부위에 불편감이나 ",
+      "auto": true
+    }, {
+      "text": "통증 같은 증상을",
+      "auto": true
+    }, {
+      "text": " 경험하고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 가슴에 불편한 감각이나 아픔",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있다고 보면 될까요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가슴쪽에 불편감",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있거나 ",
+      "auto": true
+    }, {
+      "text": "통증이 나타나고",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 가슴 부위에 불편함이나 아픔을 ",
+      "auto": true
+    }, {
+      "text": "느끼고",
+      "auto": true
+    }, {
+      "text": " 계신지요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가슴에 불편감이나 ",
+      "auto": true
+    }, {
+      "text": "통증 같은 증상",
+      "auto": true
+    }, {
+      "text": "을 겪고 계신 건 아닌가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 가슴쪽에 뭔가 불편하거나 아픈 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가슴 부위에 불편감",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있거나 통증을 경험하고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 가슴에 불편함이나 ",
+      "auto": true
+    }, {
+      "text": "통증 같은 증상이",
+      "auto": true
+    }, {
+      "text": " 나타나나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가슴쪽에 ",
+      "auto": true
+    }, {
+      "text": "불편한",
+      "auto": true
+    }, {
+      "text": " 감각이나 아픔",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신지요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 가슴 부위에 불편",
+      "auto": true
+    }, {
+      "text": "감이나 통증을 느끼고",
+      "auto": true
+    }, {
+      "text": " 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가슴쪽에 ",
+      "auto": true
+    }, {
+      "text": "불편감이나",
+      "auto": true
+    }, {
+      "text": " 가슴에 통증은 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

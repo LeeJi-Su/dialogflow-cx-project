@@ -1,0 +1,150 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "지난 6",
+      "auto": true
+    }, {
+      "text": "개월간 일상에서 지나치게 불안해",
+      "auto": true
+    }, {
+      "text": "하거나 걱정",
+      "auto": true
+    }, {
+      "text": "한",
+      "auto": true
+    }, {
+      "text": " 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "약 반년 전부터 지금까지 일상활동에서 과도한 불안이나 걱정을 느끼신",
+      "auto": true
+    }, {
+      "text": " 적 있으신지요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 6개월 동안 일상생활 중 지나친 불안감이나 걱정거리로 고민하신",
+      "auto": true
+    }, {
+      "text": " 적 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "지난 ",
+      "auto": true
+    }, {
+      "text": "반년 사이 일상에서 과도하게 불안해",
+      "auto": true
+    }, {
+      "text": "하거나 걱정",
+      "auto": true
+    }, {
+      "text": "한",
+      "auto": true
+    }, {
+      "text": " 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "6개월 전부터 현재까지 일상활동 중 지나친 불안이나 걱정을",
+      "auto": true
+    }, {
+      "text": " 경험하셨습니까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 반년 동안 일상생활에서 과도한 불안감이나 걱정을 느끼신",
+      "auto": true
+    }, {
+      "text": " 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "지난 6개월간 일상활동 중 지나치게 불안해하거나 걱정한",
+      "auto": true
+    }, {
+      "text": " 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신지요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "약 6개월 전부터 지금까지 일상에서 과도한 불안이나 걱정을 하신",
+      "auto": true
+    }, {
+      "text": " 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 반년 사이에",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "일상생활 중 지나친 불안감",
+      "auto": true
+    }, {
+      "text": "이나 걱정거리가 있으셨습니까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "지난 6개월 동안 일상활동에서 과도한 불안이나 걱정을 경험하신",
+      "auto": true
+    }, {
+      "text": " 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 "
+    }, {
+      "text": "6개월 동안 일상활동에서 지나치게",
+      "auto": true
+    }, {
+      "text": " 불안하거나 걱정을 하신적 있으신가요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

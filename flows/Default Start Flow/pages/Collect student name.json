@@ -1,0 +1,37 @@
+{
+  "name": "640e44e4-73da-4de7-b1f7-89bf9a2a1e03",
+  "displayName": "Collect student name",
+  "form": {
+    "parameters": [ {
+      "displayName": "student_name",
+      "required": true,
+      "entityType": "@sys.any",
+      "fillBehavior": {
+        "initialPromptFulfillment": {
+          "nextActionOverride": {
+          
+          }
+        }
+      }
+    } ]
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "이름을 입력해주세요.\n(ex. 홍길동)" ]
+      },
+      "languageCode": "ko"
+    } ],
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "condition": "$session.params.student_name != null",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Collect student ID",
+    "name": "2ddd0a12-9914-46da-9610-4042ebbfd6b7"
+  } ]
+}

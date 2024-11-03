@@ -1,0 +1,10 @@
+{
+  "name": "406006da-de41-4417-adaf-e46b24d19e79",
+  "displayName": "한방변증(1)",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 46
+}

@@ -1,0 +1,42 @@
+{
+  "name": "288bd8a7-58c5-46d3-8443-c12b5686d076",
+  "displayName": "설문조사",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "아래 링크에 접속하여 설문조사를 실시한 후 채팅창에 “시험 종료”를 입력해주세요.\n\n[https://forms.gle/hn92SHA8m64XmHiPA]" ]
+      },
+      "languageCode": "ko"
+    }, {
+      "payload": {
+        "richContent": [ [ {
+          "actionLink": "https://forms.gle/hn92SHA8m64XmHiPA",
+          "subtitle": "클릭하여 가상환자 챗봇의 사용성을 평가해주세요",
+          "title": "사용성 평가",
+          "type": "info"
+        } ] ]
+      },
+      "languageCode": "ko"
+    } ],
+    "setParameterActions": [ {
+      "parameter": "$session.is_ended",
+      "value": true
+    } ],
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "intent": "설문조사 후 응답(시험종료)",
+    "triggerFulfillment": {
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "end page",
+    "name": "20d7adad-7a8c-4d43-ac4d-2ac591bb0c72"
+  } ]
+}

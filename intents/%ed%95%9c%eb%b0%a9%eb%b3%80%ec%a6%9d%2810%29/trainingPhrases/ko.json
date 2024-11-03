@@ -1,0 +1,530 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "잘 때 식은땀",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 많이 나서 ",
+      "auto": true
+    }, {
+      "text": "걱정하시나요",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "잠자는 동안",
+      "auto": true
+    }, {
+      "text": " 몸에 땀",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 많이 나나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "잠",
+      "auto": true
+    }, {
+      "text": "을 자는",
+      "auto": true
+    }, {
+      "text": " 중에 ",
+      "auto": true
+    }, {
+      "text": "자주",
+      "auto": true
+    }, {
+      "text": " 땀을 흘리시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근",
+      "auto": true
+    }, {
+      "text": "에 ",
+      "auto": true
+    }, {
+      "text": "밤",
+      "auto": true
+    }, {
+      "text": "에 식은땀을 많이 흘리신 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "밤",
+      "auto": true
+    }, {
+      "text": "에 ",
+      "auto": true
+    }, {
+      "text": "수면",
+      "auto": true
+    }, {
+      "text": " 중에 땀을 많이 흘리시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "잘 때 몸에 땀",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 나는 것 같다고 ",
+      "auto": true
+    }, {
+      "text": "느끼시",
+      "auto": true
+    }, {
+      "text": "나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "밤",
+      "auto": true
+    }, {
+      "text": "에 자다가 식은땀 때문에 깬 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근에 ",
+      "auto": true
+    }, {
+      "text": "자다가",
+      "auto": true
+    }, {
+      "text": " 식은땀을 흘리신 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "잠",
+      "auto": true
+    }, {
+      "text": "을 자는",
+      "auto": true
+    }, {
+      "text": " 중에 식은땀을 ",
+      "auto": true
+    }, {
+      "text": "자주 흘리시",
+      "auto": true
+    }, {
+      "text": "나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "수면",
+      "auto": true
+    }, {
+      "text": " 중에 식은땀",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 나나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "잘 때 ",
+      "auto": true
+    }, {
+      "text": "땀",
+      "auto": true
+    }, {
+      "text": " 나나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "잘 때 땀",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 나시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "자는",
+      "auto": true
+    }, {
+      "text": " 중에 땀을 흘리나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "밤",
+      "auto": true
+    }, {
+      "text": "에 ",
+      "auto": true
+    }, {
+      "text": "자다가",
+      "auto": true
+    }, {
+      "text": " 땀",
+      "auto": true
+    }, {
+      "text": "으로 인해",
+      "auto": true
+    }, {
+      "text": " 불편하신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "자는 동안",
+      "auto": true
+    }, {
+      "text": " 식은땀",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 많이 나나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근에 ",
+      "auto": true
+    }, {
+      "text": "잠잘 때",
+      "auto": true
+    }, {
+      "text": " 땀",
+      "auto": true
+    }, {
+      "text": "에 젖어본 적이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "잘 때 식은땀 때문에 ",
+      "auto": true
+    }, {
+      "text": "괴로운 기분이 드시",
+      "auto": true
+    }, {
+      "text": "나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "수면 중에 ",
+      "auto": true
+    }, {
+      "text": "불편한",
+      "auto": true
+    }, {
+      "text": " 땀",
+      "auto": true
+    }, {
+      "text": "을",
+      "auto": true
+    }, {
+      "text": " 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "잠자는 동안",
+      "auto": true
+    }, {
+      "text": " 땀",
+      "auto": true
+    }, {
+      "text": "을",
+      "auto": true
+    }, {
+      "text": " 많이 흘리시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "밤",
+      "auto": true
+    }, {
+      "text": "에 자다가 식은땀 때문에 ",
+      "auto": true
+    }, {
+      "text": "깨신 적이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "잘 때 땀",
+      "auto": true
+    }, {
+      "text": "을 흘리는 것 같다고 느끼시나요",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "자는 동안",
+      "auto": true
+    }, {
+      "text": " 식은땀",
+      "auto": true
+    }, {
+      "text": "을 흘리신",
+      "auto": true
+    }, {
+      "text": " 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "밤",
+      "auto": true
+    }, {
+      "text": "에 ",
+      "auto": true
+    }, {
+      "text": "자다가",
+      "auto": true
+    }, {
+      "text": " 땀 때문에 불편하신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근",
+      "auto": true
+    }, {
+      "text": "에 잘 때 식은땀",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 나셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "잠",
+      "auto": true
+    }, {
+      "text": "을 ",
+      "auto": true
+    }, {
+      "text": "자는",
+      "auto": true
+    }, {
+      "text": " 동안 땀에 젖는 기분",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "밤",
+      "auto": true
+    }, {
+      "text": "에 ",
+      "auto": true
+    }, {
+      "text": "자면서",
+      "auto": true
+    }, {
+      "text": " 땀을 많이 흘리시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "잘",
+      "auto": true
+    }, {
+      "text": " 때 몸에 땀",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 나는 것 같나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "수면 중에",
+      "auto": true
+    }, {
+      "text": " 식은땀을 경험하신 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "밤",
+      "auto": true
+    }, {
+      "text": "에 ",
+      "auto": true
+    }, {
+      "text": "자다가",
+      "auto": true
+    }, {
+      "text": " 식은땀",
+      "auto": true
+    }, {
+      "text": "을 흘리신 적이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "잘 ",
+      "auto": true
+    }, {
+      "text": "자는 동안",
+      "auto": true
+    }, {
+      "text": " 땀",
+      "auto": true
+    }, {
+      "text": "이 나시나요",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "잠잘 때",
+      "auto": true
+    }, {
+      "text": " 식은땀",
+      "auto": true
+    }, {
+      "text": "을 흘리시",
+      "auto": true
+    }, {
+      "text": "나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "잘 때 식은",
+      "auto": true
+    }, {
+      "text": "땀 흘리시나요",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

@@ -1,0 +1,270 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "생리를 얼마",
+      "auto": true
+    }, {
+      "text": " 전에 ",
+      "auto": true
+    }, {
+      "text": "했다고",
+      "auto": true
+    }, {
+      "text": " 하셨는데 어떤 변화가 있었나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "월",
+      "auto": true
+    }, {
+      "text": "경량이나 주기가 달라진",
+      "auto": true
+    }, {
+      "text": " 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "2",
+      "auto": true
+    }, {
+      "text": "주전에 월경 하셨다고",
+      "auto": true
+    }, {
+      "text": " 했는데, 혹시 ",
+      "auto": true
+    }, {
+      "text": "주기나",
+      "auto": true
+    }, {
+      "text": " 월경량의 변화가 있었나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 월경",
+      "auto": true
+    }, {
+      "text": "하셨다고 하셨는데, ",
+      "auto": true
+    }, {
+      "text": "주기나 양이",
+      "auto": true
+    }, {
+      "text": " 어떻게 변했나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근",
+      "auto": true
+    }, {
+      "text": "에 월경하셨는데, 주기나 양에 대해 어떤 변화가 있었나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 월경",
+      "auto": true
+    }, {
+      "text": "하셨는데, ",
+      "auto": true
+    }, {
+      "text": "주기나",
+      "auto": true
+    }, {
+      "text": " 양에 변화가 있었나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "월경량이나",
+      "auto": true
+    }, {
+      "text": " 주기",
+      "auto": true
+    }, {
+      "text": "에 변동",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있었던 것 같으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근",
+      "auto": true
+    }, {
+      "text": "에 ",
+      "auto": true
+    }, {
+      "text": "월경 주기가",
+      "auto": true
+    }, {
+      "text": " 어떻게 변했는지 말씀해 주실 ",
+      "auto": true
+    }, {
+      "text": "수",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "월경량",
+      "auto": true
+    }, {
+      "text": "에 변화가 있거나 주기가 늘어난 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "월경이",
+      "auto": true
+    }, {
+      "text": " 예전과 다른 패턴을 보였나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 월경",
+      "auto": true
+    }, {
+      "text": "하셨다고 하셨는데, ",
+      "auto": true
+    }, {
+      "text": "양이나 주기가",
+      "auto": true
+    }, {
+      "text": " 달라졌나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "월경",
+      "auto": true
+    }, {
+      "text": "의 변화가 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "월경량",
+      "auto": true
+    }, {
+      "text": "에 변화가 있었거나 주기가 길어졌다고 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 월경 주기가",
+      "auto": true
+    }, {
+      "text": " 변한 것 같으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "월경 주기에",
+      "auto": true
+    }, {
+      "text": " 변화가 있거나 양",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 줄어들거나 늘어난 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근",
+      "auto": true
+    }, {
+      "text": " 월경하셨다고 하셨는데, 주기가 길어지거나 변동",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있었나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "월경",
+      "auto": true
+    }, {
+      "text": "하셨다고 하셨는데 월경 주기가 늘어났거나 월경량의 변화가 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "월경하셨다고",
+      "auto": true
+    }, {
+      "text": " 하셨는데 월경 주기가 늘어났거나 월경량의 변화가 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

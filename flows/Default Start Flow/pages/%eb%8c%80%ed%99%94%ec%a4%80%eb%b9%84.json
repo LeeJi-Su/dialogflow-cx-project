@@ -1,0 +1,53 @@
+{
+  "name": "90e5cc89-c4c0-4335-8b5b-d6471af80524",
+  "displayName": "대화준비",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "﻿시험 시작 준비가 완료되셨다면 \"시험 시작\"을 입력해 주세요!" ]
+      },
+      "languageCode": "ko"
+    } ],
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "intent": "대화준비(시작)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "﻿📝 상황지침\n\n- 만 45세, 여자, 박선영, 법무법인 사무직\n- 주소증: 두근거림\n- 두근거림이 심하게 느껴져 내원\n \n\n﻿📝 활력징후\n- 혈압: 120/80mmHg\n- 심박수: 90회/분\n- 호흡: 20회/분\n- 체온: 36.5℃\n- 체중: 61.0kg\n- 신장: 163cm\n\n\n﻿바로 질문을 시작해서 시험을 진행하세요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "e91139d3-785a-4d40-9028-ef1db61f17d9"
+  } ],
+  "eventHandlers": [ {
+    "event": "sys.no-match-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "'시작'이라고 정확하게 입력해주세요!" ]
+        },
+        "languageCode": "ko"
+      } ],
+      "setParameterActions": [ {
+        "parameter": "start_command",
+        "value": null
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "cc8db24c-9152-4fb7-89a8-164a7a231f90"
+  } ]
+}

@@ -1,0 +1,93 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "시어머니",
+      "auto": true
+    }, {
+      "text": "와의 사이가 가까운 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "시어머니",
+      "auto": true
+    }, {
+      "text": "와의 관계가 좋다고 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "시어머니",
+      "auto": true
+    }, {
+      "text": "와의 관계가 원만한가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "시어머니",
+      "auto": true
+    }, {
+      "text": "와의 관계는 어떻게 유지하고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "시어머니",
+      "auto": true
+    }, {
+      "text": "와의 사이가 친밀하신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "시어머니",
+      "auto": true
+    }, {
+      "text": "와의 관계에 대해 어떻게 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "시어머니",
+      "auto": true
+    }, {
+      "text": "와의 사이가 좋으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "시어머니",
+      "auto": true
+    }, {
+      "text": "와의 관계는 어떠신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "시어머니와의",
+      "auto": true
+    }, {
+      "text": " 관계는 어떤가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

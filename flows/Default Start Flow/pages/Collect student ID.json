@@ -1,0 +1,35 @@
+{
+  "name": "1f298420-0ea1-40d8-a89f-8412cfbba185",
+  "displayName": "Collect student ID",
+  "form": {
+    "parameters": [ {
+      "displayName": "student_id",
+      "required": true,
+      "entityType": "@sys.any",
+      "fillBehavior": {
+        "initialPromptFulfillment": {
+        
+        }
+      }
+    } ]
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "학번을 입력해주세요.\n(ex. 20201809)" ]
+      },
+      "languageCode": "ko"
+    } ],
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "condition": "$session.params.student_id != null",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "confirm info",
+    "name": "54e1d6c1-8383-4216-9933-eebd9e044723"
+  } ]
+}

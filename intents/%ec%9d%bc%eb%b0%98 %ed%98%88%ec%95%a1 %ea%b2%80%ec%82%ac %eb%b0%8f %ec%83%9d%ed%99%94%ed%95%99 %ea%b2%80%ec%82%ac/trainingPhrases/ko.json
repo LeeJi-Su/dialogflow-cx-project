@@ -1,0 +1,23 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "일반 혈액검사 및 생화학 검사 수치",
+      "auto": true
+    }, {
+      "text": " 확인하겠습니다",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "일반 혈액검사 및 생화학 검사",
+      "auto": true
+    }, {
+      "text": " 보겠습니다",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

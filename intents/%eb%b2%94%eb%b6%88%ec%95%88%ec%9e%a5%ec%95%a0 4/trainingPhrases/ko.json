@@ -1,0 +1,182 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "낭떠러지 끝에 서 있는 것 같은 위기감",
+      "auto": true
+    }, {
+      "text": "을 경험하고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 ",
+      "auto": true
+    }, {
+      "text": "지금 낭떠러지",
+      "auto": true
+    }, {
+      "text": " 끝에 서 있는 듯한 절박한 감정을 느끼고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "현재 상황이 낭떠러지 끝에 서 있는 것과 같은 불안감을 주고",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "지금 마치 낭떠러지",
+      "auto": true
+    }, {
+      "text": " 끝에 서 있는 것처럼 위험한 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "낭떠러지 끝에 서 있는 것 같은",
+      "auto": true
+    }, {
+      "text": " 불안정한 상태를 경험하고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 ",
+      "auto": true
+    }, {
+      "text": "지금",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "낭떠러지",
+      "auto": true
+    }, {
+      "text": " 끝에 서 있는 듯한 위태로운 감정을 느끼고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "상황이 마치 낭떠러지 끝에",
+      "auto": true
+    }, {
+      "text": " 서 ",
+      "auto": true
+    }, {
+      "text": "있는 것",
+      "auto": true
+    }, {
+      "text": " 같은 느낌을 주나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "지금 낭떠러지",
+      "auto": true
+    }, {
+      "text": " 끝에 서 있는 것처럼 불안한 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "마치 낭떠러지",
+      "auto": true
+    }, {
+      "text": " 끝에 서 있는 듯한 감정을 경험하고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 ",
+      "auto": true
+    }, {
+      "text": "지금 낭떠러지",
+      "auto": true
+    }, {
+      "text": " 끝에 서 있는 것 같은 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "현재 낭떠러지 끝에",
+      "auto": true
+    }, {
+      "text": " 서있는 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

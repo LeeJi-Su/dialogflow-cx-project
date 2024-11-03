@@ -1,0 +1,517 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "사소한",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "에 깜짝 놀라는 경향",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "쉽게 ",
+      "auto": true
+    }, {
+      "text": "놀라신다고",
+      "auto": true
+    }, {
+      "text": " 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "쉽게 놀라는 기분",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드셨던 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "쉽게 놀라시는 ",
+      "auto": true
+    }, {
+      "text": "기분이",
+      "auto": true
+    }, {
+      "text": " 드시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "요즘 작은 ",
+      "auto": true
+    }, {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "에도 ",
+      "auto": true
+    }, {
+      "text": "과민하게",
+      "auto": true
+    }, {
+      "text": " 반응하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "사소한",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "에 대해 놀라는 경향",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근",
+      "auto": true
+    }, {
+      "text": "에 쉽게 놀라는 ",
+      "auto": true
+    }, {
+      "text": "일이",
+      "auto": true
+    }, {
+      "text": " 있었나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "작은 일로 ",
+      "auto": true
+    }, {
+      "text": "자주",
+      "auto": true
+    }, {
+      "text": " 깜짝 놀라는 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "사소한",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "에 쉽게 놀란다고 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근",
+      "auto": true
+    }, {
+      "text": "에 별거 아닌 ",
+      "auto": true
+    }, {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "에 놀라신 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "작은 ",
+      "auto": true
+    }, {
+      "text": "일로",
+      "auto": true
+    }, {
+      "text": " 깜짝 놀라시는 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "사소한",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "에도 ",
+      "auto": true
+    }, {
+      "text": "과민하게",
+      "auto": true
+    }, {
+      "text": " 반응하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "별거 아닌 ",
+      "auto": true
+    }, {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "에 ",
+      "auto": true
+    }, {
+      "text": "반응이 크신가요",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "요즘 작은 ",
+      "auto": true
+    }, {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "에도 쉽게 ",
+      "auto": true
+    }, {
+      "text": "깜짝",
+      "auto": true
+    }, {
+      "text": " 놀라시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "요즘 별거 아닌 ",
+      "auto": true
+    }, {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "에도 ",
+      "auto": true
+    }, {
+      "text": "반응이 크신가요",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "일상",
+      "auto": true
+    }, {
+      "text": "에서 ",
+      "auto": true
+    }, {
+      "text": "자주 놀라는",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "일이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근에 ",
+      "auto": true
+    }, {
+      "text": "작은 일에도",
+      "auto": true
+    }, {
+      "text": " 놀라신 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "별거 아닌 ",
+      "auto": true
+    }, {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "에 ",
+      "auto": true
+    }, {
+      "text": "자주 놀라",
+      "auto": true
+    }, {
+      "text": "는 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "사소한 일로 깜짝깜짝",
+      "auto": true
+    }, {
+      "text": " 놀라",
+      "auto": true
+    }, {
+      "text": "는",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "일이",
+      "auto": true
+    }, {
+      "text": " 많으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "쉽게 놀라는",
+      "auto": true
+    }, {
+      "text": " 경향",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "요즘 작은 일에도 깜짝",
+      "auto": true
+    }, {
+      "text": " 놀라시는 것 같나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근",
+      "auto": true
+    }, {
+      "text": "에 사소한 ",
+      "auto": true
+    }, {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "에 놀라신 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "별거 아닌 일로",
+      "auto": true
+    }, {
+      "text": " 깜짝 놀라시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "일상적인 ",
+      "auto": true
+    }, {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "에 ",
+      "auto": true
+    }, {
+      "text": "자주 놀라시",
+      "auto": true
+    }, {
+      "text": "는 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "쉽게 놀란다고",
+      "auto": true
+    }, {
+      "text": " 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "사소한",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "에도 쉽게 놀라시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "요즘 ",
+      "auto": true
+    }, {
+      "text": "사소한",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "에도 쉽게 놀라시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "별것 아닌 ",
+      "auto": true
+    }, {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "에 깜짝 놀라신 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "작은 ",
+      "auto": true
+    }, {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "에도 쉽게 놀라시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "쉽게 놀라는",
+      "auto": true
+    }, {
+      "text": " 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "쉽게 놀라고 별거 아닌 ",
+      "auto": true
+    }, {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "에도 ",
+      "auto": true
+    }, {
+      "text": "깜짝깜짝",
+      "auto": true
+    }, {
+      "text": " 놀라시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

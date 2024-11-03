@@ -1,0 +1,388 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "자주 밤을 새우",
+      "auto": true
+    }, {
+      "text": "면서 ",
+      "auto": true
+    }, {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "을 하시는지요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "업무로 인해 자주 밤을 새우",
+      "auto": true
+    }, {
+      "text": "는 경우가 많으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "밤을 새우",
+      "auto": true
+    }, {
+      "text": "면서 일하는 ",
+      "auto": true
+    }, {
+      "text": "일이",
+      "auto": true
+    }, {
+      "text": " 많으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "을 하실 때 ",
+      "auto": true
+    }, {
+      "text": "밤",
+      "auto": true
+    }, {
+      "text": "을 새는 ",
+      "auto": true
+    }, {
+      "text": "일이",
+      "auto": true
+    }, {
+      "text": " 빈번한가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "야근",
+      "auto": true
+    }, {
+      "text": " 때문에 ",
+      "auto": true
+    }, {
+      "text": "밤",
+      "auto": true
+    }, {
+      "text": "을 새우는 경우가 많으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "직장",
+      "auto": true
+    }, {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": " 때문에 ",
+      "auto": true
+    }, {
+      "text": "밤새",
+      "auto": true
+    }, {
+      "text": "는 경우가 많나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "회사 일",
+      "auto": true
+    }, {
+      "text": " 때문에 ",
+      "auto": true
+    }, {
+      "text": "밤을 새우",
+      "auto": true
+    }, {
+      "text": "는 경우가 많나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "을 하실 때 ",
+      "auto": true
+    }, {
+      "text": "밤을 새우",
+      "auto": true
+    }, {
+      "text": "는 ",
+      "auto": true
+    }, {
+      "text": "일이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "자주",
+      "auto": true
+    }, {
+      "text": " 발생하나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "밤을 새는",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "일이",
+      "auto": true
+    }, {
+      "text": " 자주 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "을 할 때 종종 ",
+      "auto": true
+    }, {
+      "text": "밤",
+      "auto": true
+    }, {
+      "text": "을 새우시는지요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "업무로 인해 ",
+      "auto": true
+    }, {
+      "text": "자주 밤을 새우",
+      "auto": true
+    }, {
+      "text": "는 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "밤을 새면서",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "을 하시는 경우가 많나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "을 하실 때 ",
+      "auto": true
+    }, {
+      "text": "밤을",
+      "auto": true
+    }, {
+      "text": " 새는 ",
+      "auto": true
+    }, {
+      "text": "일이",
+      "auto": true
+    }, {
+      "text": " 잦으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "자주 야근하면서",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "밤",
+      "auto": true
+    }, {
+      "text": "을 새우시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "업무로 인해 밤을 새운",
+      "auto": true
+    }, {
+      "text": " 적이 많으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "을 하실 때 종종 ",
+      "auto": true
+    }, {
+      "text": "밤",
+      "auto": true
+    }, {
+      "text": "을 ",
+      "auto": true
+    }, {
+      "text": "새우",
+      "auto": true
+    }, {
+      "text": "시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": " 때문에 ",
+      "auto": true
+    }, {
+      "text": "밤을 새는",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "일이",
+      "auto": true
+    }, {
+      "text": " 빈번한가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "자주 밤을",
+      "auto": true
+    }, {
+      "text": " 새면서 ",
+      "auto": true
+    }, {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "밤",
+      "auto": true
+    }, {
+      "text": "을 ",
+      "auto": true
+    }, {
+      "text": "자주",
+      "auto": true
+    }, {
+      "text": " 새시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "업무로 ",
+      "auto": true
+    }, {
+      "text": "인해",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "밤",
+      "auto": true
+    }, {
+      "text": "을 새는 경우가 많으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "을 하실 때 ",
+      "auto": true
+    }, {
+      "text": "자주 밤을 새시나요",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "을 ",
+      "auto": true
+    }, {
+      "text": "하실 때 자주 밤을 새는",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "을 하나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

@@ -1,0 +1,20 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "복장은",
+      "auto": true
+    }, {
+      "text": " 어떠신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "복장",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

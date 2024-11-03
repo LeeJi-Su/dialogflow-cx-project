@@ -1,0 +1,284 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "이전에 ",
+      "auto": true
+    }, {
+      "text": "정신과 치료",
+      "auto": true
+    }, {
+      "text": "를 받은 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "정신적인",
+      "auto": true
+    }, {
+      "text": " 문제로 인해 ",
+      "auto": true
+    }, {
+      "text": "전문가와 상담",
+      "auto": true
+    }, {
+      "text": "한",
+      "auto": true
+    }, {
+      "text": " 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "정신과",
+      "auto": true
+    }, {
+      "text": "적 문제로 ",
+      "auto": true
+    }, {
+      "text": "치료",
+      "auto": true
+    }, {
+      "text": "를 받은 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "이전에 ",
+      "auto": true
+    }, {
+      "text": "정신과",
+      "auto": true
+    }, {
+      "text": "에서 어떤 상태로 진단받으셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "정신과",
+      "auto": true
+    }, {
+      "text": "적 질환으로 인해 ",
+      "auto": true
+    }, {
+      "text": "상담",
+      "auto": true
+    }, {
+      "text": "을 받은 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "정신적 질환으로 ",
+      "auto": true
+    }, {
+      "text": "치료",
+      "auto": true
+    }, {
+      "text": "받은 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "정신과",
+      "auto": true
+    }, {
+      "text": "적 문제로 인해 진단받은 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "정신과",
+      "auto": true
+    }, {
+      "text": "에서 어떤 진단을 받은 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "이전에 ",
+      "auto": true
+    }, {
+      "text": "정신과적 진단을 받은",
+      "auto": true
+    }, {
+      "text": " 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "정신적 건강",
+      "auto": true
+    }, {
+      "text": " 문제로 진단받은 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "정신과",
+      "auto": true
+    }, {
+      "text": "에서 ",
+      "auto": true
+    }, {
+      "text": "치료",
+      "auto": true
+    }, {
+      "text": "를 받은 이력",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "과거에 ",
+      "auto": true
+    }, {
+      "text": "정신과",
+      "auto": true
+    }, {
+      "text": " 진료를 받은 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "정신과",
+      "auto": true
+    }, {
+      "text": "적 질환에 대한 진단을 받은 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "정신적인",
+      "auto": true
+    }, {
+      "text": " 문제로 진단받은 이력",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "이전에 ",
+      "auto": true
+    }, {
+      "text": "정신과",
+      "auto": true
+    }, {
+      "text": "에서 진단받은 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "정신과적 질환",
+      "auto": true
+    }, {
+      "text": " 진단을 받은 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "정신과적",
+      "auto": true
+    }, {
+      "text": " 질환",
+      "auto": true
+    }, {
+      "text": "을",
+      "auto": true
+    }, {
+      "text": " 진단",
+      "auto": true
+    }, {
+      "text": "받으신",
+      "auto": true
+    }, {
+      "text": " 이력",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

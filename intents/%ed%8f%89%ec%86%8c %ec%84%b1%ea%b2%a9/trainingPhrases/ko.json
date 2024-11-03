@@ -1,0 +1,33 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "평소 성격",
+      "auto": true
+    }, {
+      "text": "은 어떠나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "평소 성격",
+      "auto": true
+    }, {
+      "text": "은 어떤 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "평소 성격",
+      "auto": true
+    }, {
+      "text": "은 어떠신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

@@ -1,0 +1,295 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "증상",
+      "auto": true
+    }, {
+      "text": "이 처음",
+      "auto": true
+    }, {
+      "text": " 발생했을 때의 ",
+      "auto": true
+    }, {
+      "text": "상황",
+      "auto": true
+    }, {
+      "text": "을 ",
+      "auto": true
+    }, {
+      "text": "자세히 설명해 주실",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "수",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림과 연관된 특정 사건이나",
+      "auto": true
+    }, {
+      "text": " 활동",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있었습니까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "증상",
+      "auto": true
+    }, {
+      "text": "이 처음",
+      "auto": true
+    }, {
+      "text": " 발생했을 때, 무엇을 하고 계셨는지 ",
+      "auto": true
+    }, {
+      "text": "기억",
+      "auto": true
+    }, {
+      "text": "나시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가슴 두근거림을",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "처음",
+      "auto": true
+    }, {
+      "text": " 경험했을 때의 ",
+      "auto": true
+    }, {
+      "text": "생활",
+      "auto": true
+    }, {
+      "text": " 환경이나 상황은 어떠셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 시작된 날, 특별히 기억에 남는 ",
+      "auto": true
+    }, {
+      "text": "일이",
+      "auto": true
+    }, {
+      "text": " 있었습니까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림과 관련해서 어떤 특정한 계기나 사건",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 떠오르시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 시작되기 직전에 특별히 기억나는 ",
+      "auto": true
+    }, {
+      "text": "일이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "증상",
+      "auto": true
+    }, {
+      "text": "이 처음",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "발생했을 때의 환경이나 상황에 대해 말씀해",
+      "auto": true
+    }, {
+      "text": " 주실 ",
+      "auto": true
+    }, {
+      "text": "수",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "처음",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "가슴이 두근거렸을",
+      "auto": true
+    }, {
+      "text": " 때, 어떤 활동을 하고 계셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 시작된 시점에 스트레스나",
+      "auto": true
+    }, {
+      "text": " 특별한 사건",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있었나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "증상",
+      "auto": true
+    }, {
+      "text": "이 처음",
+      "auto": true
+    }, {
+      "text": " 나타났을 때, ",
+      "auto": true
+    }, {
+      "text": "무언가",
+      "auto": true
+    }, {
+      "text": " 특이한 ",
+      "auto": true
+    }, {
+      "text": "일이",
+      "auto": true
+    }, {
+      "text": " 있었습니까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림을 ",
+      "auto": true
+    }, {
+      "text": "처음",
+      "auto": true
+    }, {
+      "text": " 느꼈을 때의 상황을 기억하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 시작되었을",
+      "auto": true
+    }, {
+      "text": " 때, 어떤 특별한 상황이나 사건",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있었나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 처음 나타났을",
+      "auto": true
+    }, {
+      "text": " 때, 특별한 ",
+      "auto": true
+    }, {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "이나 계기가 있었나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "처음",
+      "auto": true
+    }, {
+      "text": " 발생하게 된 계기가 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거리는 증상이",
+      "auto": true
+    }, {
+      "text": " 특별히 ",
+      "auto": true
+    }, {
+      "text": "심해진",
+      "auto": true
+    }, {
+      "text": " 계기가 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

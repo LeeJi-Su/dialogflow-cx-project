@@ -1,0 +1,50 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "최종 진단",
+      "parameterId": "person",
+      "auto": true
+    }, {
+      "text": "은 "
+    }, {
+      "text": "{diagnosis}",
+      "parameterId": "diagnosis"
+    }, {
+      "text": "입니다"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최종 진단",
+      "parameterId": "person",
+      "auto": true
+    }, {
+      "text": "은 [공황",
+      "auto": true
+    }, {
+      "text": "장애",
+      "parameterId": "location",
+      "auto": true
+    }, {
+      "text": "]입니다",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "[",
+      "auto": true
+    }, {
+      "text": "공황장애",
+      "parameterId": "person",
+      "auto": true
+    }, {
+      "text": "]으로 진단됩니다",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

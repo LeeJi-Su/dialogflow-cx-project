@@ -1,0 +1,114 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "두근거림이 일상적인 업무나 활동수행에 얼마나 큰 지장을",
+      "auto": true
+    }, {
+      "text": " 주고 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 두근거림 때문에 일상적인 ",
+      "auto": true
+    }, {
+      "text": "일",
+      "auto": true
+    }, {
+      "text": "을 하는데 얼마나 많은 어려움을 겪고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림 때문에 일상적인 활동을 하는데 어려움을 겪고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 평소",
+      "auto": true
+    }, {
+      "text": " 생활에 어느정도로 영향을 미치고 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림으로 인해 일상생활",
+      "auto": true
+    }, {
+      "text": "에 얼마나 지장",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림",
+      "auto": true
+    }, {
+      "text": " 때문에 생활",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 불편하신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림",
+      "auto": true
+    }, {
+      "text": " 때문에 ",
+      "auto": true
+    }, {
+      "text": "일상이",
+      "auto": true
+    }, {
+      "text": " 불편하신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 일상생활에 얼마나 영향을 미치나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 지금 일상생활에 미치는 불편함의 정도가",
+      "auto": true
+    }, {
+      "text": " 어느정도인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

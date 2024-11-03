@@ -1,0 +1,54 @@
+{
+  "name": "00000000-0000-0000-0000-000000000000",
+  "displayName": "Default Start Flow",
+  "description": "A start flow created along with the agent",
+  "transitionRoutes": [ {
+    "intent": "Default Welcome Intent",
+    "triggerFulfillment": {
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "Collect student name",
+    "name": "bcae622c-17ac-4695-9c1d-f02ce4a61eb4"
+  } ],
+  "eventHandlers": [ {
+    "event": "sys.no-match-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "해당 질문에 대해서는 대답하기 어렵습니다. 다시 질문해주세요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "4689a86d-bbd2-457e-b1fa-8326316f3952"
+  }, {
+    "event": "sys.no-input-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "해당 질문에 대해서는 대답하기 어렵습니다. 다시 질문해주세요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "b9f44918-f9c2-453b-9da9-5c304107247f"
+  } ],
+  "nluSettings": {
+    "modelType": "MODEL_TYPE_ADVANCED",
+    "classificationThreshold": 0.30000001
+  },
+  "nluSettingsList": [ {
+    "modelType": "MODEL_TYPE_ADVANCED",
+    "classificationThreshold": 0.30000001,
+    "customConfigKey": "2d9972d8-29a3-4c14-85db-c38adcc4b949",
+    "languageCode": "ko"
+  } ]
+}

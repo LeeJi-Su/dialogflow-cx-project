@@ -1,0 +1,201 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "F41.0",
+      "parameterId": "number"
+    }, {
+      "text": " "
+    }, {
+      "text": "공황장애",
+      "auto": true
+    }, {
+      "text": " 입니다."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "우발적 발작성 불안",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "공황장애",
+      "auto": true
+    }, {
+      "text": "(",
+      "auto": true
+    }, {
+      "text": "우발적",
+      "auto": true
+    }, {
+      "text": " 발작성 불안)",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "F41.0",
+      "parameterId": "number"
+    }, {
+      "text": " "
+    }, {
+      "text": "공황",
+      "auto": true
+    }, {
+      "text": "장애"
+    }, {
+      "text": "(우발적 발작성 불안)"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "F41.0",
+      "parameterId": "number"
+    }, {
+      "text": ", "
+    }, {
+      "text": "공황",
+      "auto": true
+    }, {
+      "text": "장애"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "F41.0",
+      "parameterId": "number"
+    }, {
+      "text": "이요"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "F41.0",
+      "parameterId": "number"
+    }, {
+      "text": "입니다."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "F41.0",
+      "parameterId": "number"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "공황장애"
+    }, {
+      "text": "가 정확한 진단이라고 봅니다."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "환자의 상태는 "
+    }, {
+      "text": "공황장애"
+    }, {
+      "text": "로 보입니다."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "공황장애"
+    }, {
+      "text": "로 진단할 수 있습니다."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "이 사례는 "
+    }, {
+      "text": "공황장애"
+    }, {
+      "text": "에 해당합니다."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "제 생각에는 "
+    }, {
+      "text": "공황장애"
+    }, {
+      "text": "인 것 같습니다."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "공황장애"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "공황장애"
+    }, {
+      "text": "라고 생각합니다."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "이 증상은 "
+    }, {
+      "text": "공황장애"
+    }, {
+      "text": "를 나타냅니다."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "정답은 "
+    }, {
+      "text": "공황장애"
+    }, {
+      "text": "입니다."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "공황장애"
+    }, {
+      "text": "입니다."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최종진단은 "
+    }, {
+      "text": "공황장애"
+    }, {
+      "text": "입니다"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "공황장애"
+    }, {
+      "text": "입니다"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

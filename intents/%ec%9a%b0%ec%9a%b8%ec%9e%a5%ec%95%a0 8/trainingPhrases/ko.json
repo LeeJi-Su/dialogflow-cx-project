@@ -1,0 +1,179 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "죽음을 반복적으로 생각하거나 자살에 대해 고려하고 ",
+      "auto": true
+    }, {
+      "text": "계시",
+      "auto": true
+    }, {
+      "text": "진 않나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 죽음에 대한 생각이 자주",
+      "auto": true
+    }, {
+      "text": " 드시거나 ",
+      "auto": true
+    }, {
+      "text": "자살",
+      "auto": true
+    }, {
+      "text": "을 ",
+      "auto": true
+    }, {
+      "text": "고민",
+      "auto": true
+    }, {
+      "text": "하고 ",
+      "auto": true
+    }, {
+      "text": "계신",
+      "auto": true
+    }, {
+      "text": " 건 아닌지요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "반복적",
+      "auto": true
+    }, {
+      "text": "으로 죽음에 대해 생각하거나 ",
+      "auto": true
+    }, {
+      "text": "자살",
+      "auto": true
+    }, {
+      "text": "을 떠올리는 ",
+      "auto": true
+    }, {
+      "text": "일이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "죽음에 관한 생각",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 계속 들거나 자살을 고려하고 계신 건 아닌지 걱정됩니다.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 반복해서 죽음을 떠올리거나 자살을 생각하고 계시진 않으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "죽음에 대한 생각",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 자주 떠오르거나 자살을 ",
+      "auto": true
+    }, {
+      "text": "고민하고 계신",
+      "auto": true
+    }, {
+      "text": " 건 아닌지요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "반복적으로 죽음을 생각하거나 자살에 대해 고려하고 계시진 않으신지요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 ",
+      "auto": true
+    }, {
+      "text": "죽음",
+      "auto": true
+    }, {
+      "text": "에 대한 생각",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 자주 들거나 자살을 고민하고 ",
+      "auto": true
+    }, {
+      "text": "계신",
+      "auto": true
+    }, {
+      "text": " 건 아닌가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "죽음에 관한 생각",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 반복되거나 ",
+      "auto": true
+    }, {
+      "text": "자살을",
+      "auto": true
+    }, {
+      "text": " 떠올리는 ",
+      "auto": true
+    }, {
+      "text": "일이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 죽음에 대해 반복적으로 생각하거나 자살을 고려하고 계시진 않나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "반복적으로",
+      "auto": true
+    }, {
+      "text": " 죽음에 대해 생각하고 자살을 생각하지는 않으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

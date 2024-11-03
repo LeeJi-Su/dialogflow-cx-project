@@ -1,0 +1,185 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "갑상선 호르몬 수치",
+      "auto": true
+    }, {
+      "text": "에 큰 이상은 없으셨죠",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갑상선 호르몬 검사 받아보신적",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갑상선호르몬 수치",
+      "auto": true
+    }, {
+      "text": "에 큰 이상은 없나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "건강검진",
+      "auto": true
+    }, {
+      "text": " 결과에서 ",
+      "auto": true
+    }, {
+      "text": "갑상선 수치가",
+      "auto": true
+    }, {
+      "text": " 괜찮다고 나왔나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갑상선 호르몬 검사",
+      "auto": true
+    }, {
+      "text": " 결과에 특별한 이상",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 없었나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 검사에서 갑상선",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "호르몬",
+      "auto": true
+    }, {
+      "text": " 수치가 정상이었다고 하셨죠?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "건강검진",
+      "auto": true
+    }, {
+      "text": " 결과, ",
+      "auto": true
+    }, {
+      "text": "갑상선 수치가",
+      "auto": true
+    }, {
+      "text": " 양호하다는 이야기를 들으셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 검사에서 ",
+      "auto": true
+    }, {
+      "text": "갑상선 호르몬이 이상 없다는",
+      "auto": true
+    }, {
+      "text": " 결과를 받으셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "건강검진에서",
+      "auto": true
+    }, {
+      "text": " 갑상선 관련 ",
+      "auto": true
+    }, {
+      "text": "수치",
+      "auto": true
+    }, {
+      "text": "에 문제가 없었다고 하셨죠?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 ",
+      "auto": true
+    }, {
+      "text": "검진",
+      "auto": true
+    }, {
+      "text": "에서 ",
+      "auto": true
+    }, {
+      "text": "갑상선 수치가",
+      "auto": true
+    }, {
+      "text": " 정상으로 나왔나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갑상선",
+      "auto": true
+    }, {
+      "text": " 관련 검사 결과는 괜찮았나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 건강검진에서 갑상선 호르몬 수치가 정상으로",
+      "auto": true
+    }, {
+      "text": " 나왔나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "갑상선 호르몬 수치",
+      "auto": true
+    }, {
+      "text": " 등에 특별한 이상은 없으셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 건강검진에서 갑상선 호르몬 수치 등에",
+      "auto": true
+    }, {
+      "text": " 특별한 이상은 없으셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

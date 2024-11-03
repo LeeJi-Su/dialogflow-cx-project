@@ -1,0 +1,262 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "가족 중에 ",
+      "auto": true
+    }, {
+      "text": "당뇨로 고생하는 분이 있는지",
+      "auto": true
+    }, {
+      "text": " 궁금합니다.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가까운 가족",
+      "auto": true
+    }, {
+      "text": " 중에 ",
+      "auto": true
+    }, {
+      "text": "당뇨환자가",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 ",
+      "auto": true
+    }, {
+      "text": "당뇨환자가 있는지 알고",
+      "auto": true
+    }, {
+      "text": " 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "당뇨를 앓고 있는 가족",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있습니까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가까운 친척",
+      "auto": true
+    }, {
+      "text": " 중에 당뇨로 ",
+      "auto": true
+    }, {
+      "text": "진단받은 분이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 ",
+      "auto": true
+    }, {
+      "text": "당뇨",
+      "auto": true
+    }, {
+      "text": " 문제로 힘들어하는 분이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "당뇨환자가",
+      "auto": true
+    }, {
+      "text": " 가족 중에 있는지 궁금합니다.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 당뇨병으로 ",
+      "auto": true
+    }, {
+      "text": "어려움을 겪고 계신 분이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가까운",
+      "auto": true
+    }, {
+      "text": " 가족 중에 당뇨",
+      "auto": true
+    }, {
+      "text": "로",
+      "auto": true
+    }, {
+      "text": " 고생하는 분이 있습니까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 ",
+      "auto": true
+    }, {
+      "text": "당뇨",
+      "auto": true
+    }, {
+      "text": "로 ",
+      "auto": true
+    }, {
+      "text": "치료",
+      "auto": true
+    }, {
+      "text": "받고 있는 분이 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족분들",
+      "auto": true
+    }, {
+      "text": " 중에 당뇨병을 ",
+      "auto": true
+    }, {
+      "text": "앓고 계신 분",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가까운",
+      "auto": true
+    }, {
+      "text": " 친척 중에 당뇨를 겪고 ",
+      "auto": true
+    }, {
+      "text": "계신 분이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "당뇨병 환자가 가족",
+      "auto": true
+    }, {
+      "text": "에 있는지 궁금합니다.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 ",
+      "auto": true
+    }, {
+      "text": "당뇨 문제로 고생하는",
+      "auto": true
+    }, {
+      "text": " 분이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "당뇨병을 앓고 있는 가족",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 당뇨로 ",
+      "auto": true
+    }, {
+      "text": "진단받은 분이",
+      "auto": true
+    }, {
+      "text": " 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가까운",
+      "auto": true
+    }, {
+      "text": " 가족 중에 ",
+      "auto": true
+    }, {
+      "text": "당뇨환자가",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 당뇨병을 앓고 ",
+      "auto": true
+    }, {
+      "text": "계신 분이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "가족 중에 당뇨있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

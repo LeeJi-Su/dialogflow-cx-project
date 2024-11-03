@@ -1,0 +1,209 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "근육통이나 소화불량으로 의사",
+      "auto": true
+    }, {
+      "text": "의 진료를 받으신 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "근육통과 소화불량 때문에 병원을 찾은 적이",
+      "auto": true
+    }, {
+      "text": " 있으신가요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "이 증상으로 병원",
+      "auto": true
+    }, {
+      "text": "에서 어떤 진단을 받은 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 증상 때문에 ",
+      "auto": true
+    }, {
+      "text": "의사",
+      "auto": true
+    }, {
+      "text": "와 상담한",
+      "auto": true
+    }, {
+      "text": " 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "근육통과 소화불량 관련하여 진료를 받아본",
+      "auto": true
+    }, {
+      "text": " 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "증상과 관련해 병원에서 검진을 받아본 적이",
+      "auto": true
+    }, {
+      "text": " 있나요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "근육통이나 소화불량으로 진단받은",
+      "auto": true
+    }, {
+      "text": " 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "근육통과 소화불량 때문에",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "병원",
+      "auto": true
+    }, {
+      "text": "에",
+      "auto": true
+    }, {
+      "text": " 가신 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "소화불량",
+      "auto": true
+    }, {
+      "text": " 때문에 ",
+      "auto": true
+    }, {
+      "text": "병원",
+      "auto": true
+    }, {
+      "text": "에 가신 적 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "근육통",
+      "auto": true
+    }, {
+      "text": " 때문에 ",
+      "auto": true
+    }, {
+      "text": "병원",
+      "auto": true
+    }, {
+      "text": "에 가신적 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "근육통이나 소화",
+      "auto": true
+    }, {
+      "text": "불량 관련해서 진단받으신 거 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "근육통",
+      "auto": true
+    }, {
+      "text": "이나 소화",
+      "auto": true
+    }, {
+      "text": "불량",
+      "auto": true
+    }, {
+      "text": " 관련해서 ",
+      "auto": true
+    }, {
+      "text": "병원",
+      "auto": true
+    }, {
+      "text": "에 가신적 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "아까 근육통과 소화불량이",
+      "auto": true
+    }, {
+      "text": " 있다고 하셨는데, 이와 관련해서 ",
+      "auto": true
+    }, {
+      "text": "병원",
+      "auto": true
+    }, {
+      "text": "에 가시거나 진단 받으신 적 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "근육통이나 소화불량",
+      "auto": true
+    }, {
+      "text": " 관련해서 ",
+      "auto": true
+    }, {
+      "text": "병원",
+      "auto": true
+    }, {
+      "text": "에 가시거나 진단 받으신거 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

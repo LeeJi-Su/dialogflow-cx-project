@@ -1,0 +1,248 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "심장이",
+      "auto": true
+    }, {
+      "text": " 빠르게 뛰나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "심장이 빨리",
+      "auto": true
+    }, {
+      "text": " 뛰나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근",
+      "auto": true
+    }, {
+      "text": "거릴 때 ",
+      "auto": true
+    }, {
+      "text": "심장",
+      "auto": true
+    }, {
+      "text": "박동",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 빠르게 나타나시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이 나타날 때 심장박동이 빨라지",
+      "auto": true
+    }, {
+      "text": "나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거릴",
+      "auto": true
+    }, {
+      "text": " 때 ",
+      "auto": true
+    }, {
+      "text": "심장",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 빨리 뛰나요?",
+      "auto": true
+    } ],
+    "repeatCount": 3,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "심장이 빨리 뛰는",
+      "auto": true
+    }, {
+      "text": " 것 같이 느껴지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "심장",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 빠르게 뛰는 ",
+      "auto": true
+    }, {
+      "text": "증상이 자주 나타나시나요",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "심장",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "빨리 뛰는 것을 자주",
+      "auto": true
+    }, {
+      "text": " 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "심박수가 자주",
+      "auto": true
+    }, {
+      "text": " 빨라지는 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "심장이 갑자기 빨리 뛰는",
+      "auto": true
+    }, {
+      "text": " 경우가 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "심장 박동이",
+      "auto": true
+    }, {
+      "text": " 증가하는 걸 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "심장",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 뛰는 속도가 ",
+      "auto": true
+    }, {
+      "text": "빨라진",
+      "auto": true
+    }, {
+      "text": " 것 같나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "심박수가 빨라지",
+      "auto": true
+    }, {
+      "text": "는 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼 두근거릴 때, 심장이 빨리 뛰는 것",
+      "auto": true
+    }, {
+      "text": " 같은 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그렇다면 ",
+      "auto": true
+    }, {
+      "text": "심장이 뛸",
+      "auto": true
+    }, {
+      "text": " 때 빠르게 뛰는 것 같나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼 심장이",
+      "auto": true
+    }, {
+      "text": " 빠르게 같이 뛰는 느낌인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "심장이",
+      "auto": true
+    }, {
+      "text": " 빠르게 뛰는 느낌인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "심장이 빠르게 뛰나요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

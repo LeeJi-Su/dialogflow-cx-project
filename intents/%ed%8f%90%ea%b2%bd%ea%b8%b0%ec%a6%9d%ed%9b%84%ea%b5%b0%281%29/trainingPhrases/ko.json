@@ -1,0 +1,297 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "매달 생리를",
+      "auto": true
+    }, {
+      "text": " 하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "아직도",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "매달 생리를",
+      "auto": true
+    }, {
+      "text": " 하시나요, 아니면 ",
+      "auto": true
+    }, {
+      "text": "폐경",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 되셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "폐경 증상",
+      "auto": true
+    }, {
+      "text": "을 경험하고 계신가요, ",
+      "auto": true
+    }, {
+      "text": "아니면 아직",
+      "auto": true
+    }, {
+      "text": " 월경을 하고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "월경",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 계속되고 있나요, ",
+      "auto": true
+    }, {
+      "text": "아니면",
+      "auto": true
+    }, {
+      "text": " 최근에 변화가 있으셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "아직 가임기 상태이",
+      "auto": true
+    }, {
+      "text": "신가요, ",
+      "auto": true
+    }, {
+      "text": "아니면",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "폐경기에",
+      "auto": true
+    }, {
+      "text": " 접어드셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "생리가 규칙적으로 있으신지, 아니면 불규칙",
+      "auto": true
+    }, {
+      "text": "해",
+      "auto": true
+    }, {
+      "text": "지거나 멈추셨는지 궁금합니다.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "폐경",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 되셨나요, ",
+      "auto": true
+    }, {
+      "text": "아니면 아직",
+      "auto": true
+    }, {
+      "text": " 월경을 하고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "아직도 정기적으로 생리를",
+      "auto": true
+    }, {
+      "text": " 하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "월경 주기가",
+      "auto": true
+    }, {
+      "text": " 아직 있으신가요, 혹시 폐경기에 접어드셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "생리가 ",
+      "auto": true
+    }, {
+      "text": "계속 있으신지",
+      "auto": true
+    }, {
+      "text": ", 아니면 이미 끝나셨는지 여쭤봐도 될까요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "아직 월경을 하고 계신가요",
+      "auto": true
+    }, {
+      "text": ", ",
+      "auto": true
+    }, {
+      "text": "아니면 폐경",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 되셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "월경",
+      "auto": true
+    }, {
+      "text": "은 계속 하고 계신건가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " 폐경하셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "폐경기",
+      "auto": true
+    }, {
+      "text": "인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 폐경",
+      "auto": true
+    }, {
+      "text": " 하셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "마지막 ",
+      "auto": true
+    }, {
+      "text": "월경이",
+      "auto": true
+    }, {
+      "text": " 언제인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "마지막 ",
+      "auto": true
+    }, {
+      "text": "월경일이",
+      "auto": true
+    }, {
+      "text": " 언제인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "주기적으로 생리를",
+      "auto": true
+    }, {
+      "text": " 하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "생리를",
+      "auto": true
+    }, {
+      "text": " 하고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "주기적으로 월경을",
+      "auto": true
+    }, {
+      "text": " 하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "월경을",
+      "auto": true
+    }, {
+      "text": " 하고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 지금 월경을 하고 계신가요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

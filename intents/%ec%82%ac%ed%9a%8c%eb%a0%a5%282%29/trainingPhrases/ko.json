@@ -1,0 +1,149 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "남편",
+      "auto": true
+    }, {
+      "text": "과의 사이가 원활하신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "남편",
+      "auto": true
+    }, {
+      "text": "과의 관계가 좋다고 생각하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "남편",
+      "auto": true
+    }, {
+      "text": "과의 사이가 친밀한 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "남편",
+      "auto": true
+    }, {
+      "text": "과의 ",
+      "auto": true
+    }, {
+      "text": "관계",
+      "auto": true
+    }, {
+      "text": "가 어떻다고 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "남편",
+      "auto": true
+    }, {
+      "text": "과의 관계는 어떤가요, 좋으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "남편",
+      "auto": true
+    }, {
+      "text": "과의 관계는 어떤지 궁금합니다.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "남편",
+      "auto": true
+    }, {
+      "text": "과의 관계는 만족스러운 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "남편",
+      "auto": true
+    }, {
+      "text": "과의 사이가 원만한가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "남편",
+      "auto": true
+    }, {
+      "text": "과의 사이가 좋으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "결혼",
+      "auto": true
+    }, {
+      "text": " 생활은 괜찮으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "남편",
+      "auto": true
+    }, {
+      "text": "과의 관계에 문제는 없나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "남편과 관계",
+      "auto": true
+    }, {
+      "text": "는 좋나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼 남편",
+      "auto": true
+    }, {
+      "text": "과의 관계는 어떠신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "남편관의 관계",
+      "auto": true
+    }, {
+      "text": "는 어떤가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

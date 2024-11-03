@@ -1,0 +1,33 @@
+{
+  "name": "7d2bbf80-67d3-41e1-8a85-c2759d3ec332",
+  "displayName": "재도전 의사 확인2",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "재도전 하시겠습니까? (예/아니오)" ]
+      },
+      "languageCode": "ko"
+    } ],
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "intent": "재도전(o)",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "최종진단 안내3",
+    "name": "5e9532ad-15ea-4408-8903-950f6ef9fa47"
+  }, {
+    "intent": "재도전(x)",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "공황장애 관련 정보 제공",
+    "name": "6899db2a-1ec8-4e94-9a97-df0948c28b85"
+  } ]
+}

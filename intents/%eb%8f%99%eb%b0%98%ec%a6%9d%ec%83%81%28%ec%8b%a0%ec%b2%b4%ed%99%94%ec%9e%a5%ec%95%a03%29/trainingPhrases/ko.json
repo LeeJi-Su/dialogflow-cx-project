@@ -1,0 +1,41 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "근육이",
+      "auto": true
+    }, {
+      "text": " 긴장되거나, 위장관 ",
+      "auto": true
+    }, {
+      "text": "장애",
+      "auto": true
+    }, {
+      "text": ", ",
+      "auto": true
+    }, {
+      "text": "어지럼증 등 불편한",
+      "auto": true
+    }, {
+      "text": " 점이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 외에 ",
+      "auto": true
+    }, {
+      "text": "불편한",
+      "auto": true
+    }, {
+      "text": " 점 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

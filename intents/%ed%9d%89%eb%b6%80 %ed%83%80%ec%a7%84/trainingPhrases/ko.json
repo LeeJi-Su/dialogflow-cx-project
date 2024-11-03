@@ -1,0 +1,20 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "흉부 타진",
+      "auto": true
+    }, {
+      "text": "하겠습니다",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "흉부 타진",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

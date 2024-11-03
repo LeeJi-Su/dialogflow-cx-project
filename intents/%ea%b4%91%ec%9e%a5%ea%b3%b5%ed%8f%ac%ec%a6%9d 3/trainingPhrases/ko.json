@@ -1,0 +1,182 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "그럼 밀폐된 공간",
+      "auto": true
+    }, {
+      "text": "에 있을 때, 특히 ",
+      "auto": true
+    }, {
+      "text": "공연장, 영화관 등에서",
+      "auto": true
+    }, {
+      "text": " 그런 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 나타나시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 공연장, 영화관 등의 밀폐된 공간에",
+      "auto": true
+    }, {
+      "text": " 있을 때 ",
+      "auto": true
+    }, {
+      "text": "그런 증상을",
+      "auto": true
+    }, {
+      "text": " 경험하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그렇다면 ",
+      "auto": true
+    }, {
+      "text": "밀폐된 공간, 예컨대 공연장이나 영화관 등에 있을",
+      "auto": true
+    }, {
+      "text": " 때 그런 ",
+      "auto": true
+    }, {
+      "text": "느낌이",
+      "auto": true
+    }, {
+      "text": " 드시는 건가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 공연장, 영화관 같은 밀폐된 공간에",
+      "auto": true
+    }, {
+      "text": " 있을 때 그런 증상",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 느껴지시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼 밀폐된 공간, 즉 공연장이나 영화관 등에",
+      "auto": true
+    }, {
+      "text": " 있을 때 그런 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 들으시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 공연장, 영화관 등 밀폐된 공간에 있을",
+      "auto": true
+    }, {
+      "text": " 때 그런 증상을 겪으시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그렇다면 밀폐된 공간에 있을 때, 특히 ",
+      "auto": true
+    }, {
+      "text": "공연장이나 영화관 등에서",
+      "auto": true
+    }, {
+      "text": " 그런 느낌을 받으시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 공연장, 영화관과 같은 밀폐된 공간",
+      "auto": true
+    }, {
+      "text": "에 있을 때 그런 증상",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 나타나시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼 밀폐",
+      "auto": true
+    }, {
+      "text": "된 공간, 예를 들어 ",
+      "auto": true
+    }, {
+      "text": "공연장이나 영화관 등에서",
+      "auto": true
+    }, {
+      "text": " 그런 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 ",
+      "auto": true
+    }, {
+      "text": "공연장이나 영화관 같은 밀폐된 공간에서 그런 증상을",
+      "auto": true
+    }, {
+      "text": " 경험하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "공연장",
+      "auto": true
+    }, {
+      "text": ", ",
+      "auto": true
+    }, {
+      "text": "영화간 등 밀폐된 공간에서",
+      "auto": true
+    }, {
+      "text": " 느껴지시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

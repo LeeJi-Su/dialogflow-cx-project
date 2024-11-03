@@ -1,0 +1,289 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "왼쪽 어깨나 턱으로 통증",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 느껴지는 ",
+      "auto": true
+    }, {
+      "text": "일이",
+      "auto": true
+    }, {
+      "text": " 있으면 ",
+      "auto": true
+    }, {
+      "text": "말씀해 주세요",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "왼쪽 어깨나 턱에서 ",
+      "auto": true
+    }, {
+      "text": "통증이 나타나는",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "일이",
+      "auto": true
+    }, {
+      "text": " 많으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "왼쪽 어깨",
+      "auto": true
+    }, {
+      "text": "나",
+      "auto": true
+    }, {
+      "text": " 턱에서 ",
+      "auto": true
+    }, {
+      "text": "통증이 발생한 적이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "왼쪽 어깨나 턱으로 인해 불편한 통증을 느낀 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "왼쪽 어깨나 턱에서 통증이 느껴진 적이 있다면",
+      "auto": true
+    }, {
+      "text": " 언제였나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "왼쪽",
+      "auto": true
+    }, {
+      "text": " 어깨나 턱으로 ",
+      "auto": true
+    }, {
+      "text": "통증이",
+      "auto": true
+    }, {
+      "text": " 느껴진 경우가 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "왼쪽 어깨나 턱이",
+      "auto": true
+    }, {
+      "text": " 아픈 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "왼쪽",
+      "auto": true
+    }, {
+      "text": " 어깨와 턱에서 통증",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있었던 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "왼쪽 어깨 또는 턱에 통증",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 느껴진 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거릴 때 왼쪽 어깨나 턱으로 통증이 나타난 적이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "왼쪽 어깨나 ",
+      "auto": true
+    }, {
+      "text": "턱으로 통증이 나타난",
+      "auto": true
+    }, {
+      "text": " 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "증상이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "나타날 때 왼쪽 어깨",
+      "auto": true
+    }, {
+      "text": "나 ",
+      "auto": true
+    }, {
+      "text": "턱",
+      "auto": true
+    }, {
+      "text": "에 통증",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "왼쪽 어깨나",
+      "auto": true
+    }, {
+      "text": " 턱에 통증",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있었던 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "왼쪽 어깨나 턱에서 통증을 느낀 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "왼쪽 어깨나 턱",
+      "auto": true
+    }, {
+      "text": "으로 ",
+      "auto": true
+    }, {
+      "text": "통증이 나타나신",
+      "auto": true
+    }, {
+      "text": " 적은 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "왼쪽 ",
+      "auto": true
+    }, {
+      "text": "어깨나 턱",
+      "auto": true
+    }, {
+      "text": "으로 ",
+      "auto": true
+    }, {
+      "text": "통증이 나타나신 적도",
+      "auto": true
+    }, {
+      "text": " 없으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼 왼쪽 어깨나 턱으로 통증이 나타나신",
+      "auto": true
+    }, {
+      "text": " 적은 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼 왼쪽 어깨나 턱으로 통증이 나타나신",
+      "auto": true
+    }, {
+      "text": " 적은 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼 왼쪽 어깨나 턱으로 통증이 나타나신 적도",
+      "auto": true
+    }, {
+      "text": " 없으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

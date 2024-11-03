@@ -1,0 +1,13 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "그럼 그게 반복적으로 예상치 못하게 나타나시",
+      "auto": true
+    }, {
+      "text": "는 거죠?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

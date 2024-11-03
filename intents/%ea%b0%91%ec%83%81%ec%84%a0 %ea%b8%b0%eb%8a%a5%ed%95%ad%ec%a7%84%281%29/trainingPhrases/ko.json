@@ -1,0 +1,333 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "열기를",
+      "auto": true
+    }, {
+      "text": " 느낄 때 ",
+      "auto": true
+    }, {
+      "text": "가슴이 두근",
+      "auto": true
+    }, {
+      "text": "거려 숨쉬기가 힘들어지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "더운",
+      "auto": true
+    }, {
+      "text": " 곳에 있으면 ",
+      "auto": true
+    }, {
+      "text": "두근거림이 더 심해지",
+      "auto": true
+    }, {
+      "text": "시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "더운 곳에 있으면 더 ",
+      "auto": true
+    }, {
+      "text": "두근거리",
+      "auto": true
+    }, {
+      "text": "나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "체온이 상승할 때 두근거림이 더 심해지는 경향이",
+      "auto": true
+    }, {
+      "text": " 있나요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "체온이",
+      "auto": true
+    }, {
+      "text": " 상승할 때 더 ",
+      "auto": true
+    }, {
+      "text": "두근거리",
+      "auto": true
+    }, {
+      "text": "나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "체온이 상승하면 두근거림이 더 심해지",
+      "auto": true
+    }, {
+      "text": "시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "더울 때 증상이",
+      "auto": true
+    }, {
+      "text": " 더욱 심해지는 경향",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "열기를",
+      "auto": true
+    }, {
+      "text": " 느낄 때 ",
+      "auto": true
+    }, {
+      "text": "두근거리는 증상이",
+      "auto": true
+    }, {
+      "text": " 심해지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "더울",
+      "auto": true
+    }, {
+      "text": " 때 ",
+      "auto": true
+    }, {
+      "text": "증상이",
+      "auto": true
+    }, {
+      "text": " 더 심해지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "열기를",
+      "auto": true
+    }, {
+      "text": " 느낄 때 두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 더 심해지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "더운 환경에서 두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 더 심해지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "더울",
+      "auto": true
+    }, {
+      "text": " 때 더 ",
+      "auto": true
+    }, {
+      "text": "두근거리",
+      "auto": true
+    }, {
+      "text": "시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "더울 때 ",
+      "auto": true
+    }, {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 더 심해지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "열",
+      "auto": true
+    }, {
+      "text": "이 날",
+      "auto": true
+    }, {
+      "text": " 때 더 ",
+      "auto": true
+    }, {
+      "text": "두근거리",
+      "auto": true
+    }, {
+      "text": "시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "몸에 ",
+      "auto": true
+    }, {
+      "text": "열이날 떄",
+      "auto": true
+    }, {
+      "text": " 더 ",
+      "auto": true
+    }, {
+      "text": "두근거리",
+      "auto": true
+    }, {
+      "text": "나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "몸에 ",
+      "auto": true
+    }, {
+      "text": "열",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 날때 ",
+      "auto": true
+    }, {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 심해지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "더위를 느낄 때 더",
+      "auto": true
+    }, {
+      "text": "두근거리",
+      "auto": true
+    }, {
+      "text": "나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "열",
+      "auto": true
+    }, {
+      "text": "이 날",
+      "auto": true
+    }, {
+      "text": " 때 ",
+      "auto": true
+    }, {
+      "text": "심장이 평소",
+      "auto": true
+    }, {
+      "text": "보다 강하게 뛰는 것 같나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "체온이 올라갈 때 심장 박동이 더 빨라지는",
+      "auto": true
+    }, {
+      "text": " 것을 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "더운 환경에 있으면 가슴",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 더 심하게 ",
+      "auto": true
+    }, {
+      "text": "두근거리",
+      "auto": true
+    }, {
+      "text": "나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "몸에 ",
+      "auto": true
+    }, {
+      "text": "열",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 오르거나 더운 곳에 있을 때 ",
+      "auto": true
+    }, {
+      "text": "약간 참을 수 없이 두근거림이 더 심해지",
+      "auto": true
+    }, {
+      "text": "시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

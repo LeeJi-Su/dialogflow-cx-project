@@ -1,0 +1,23 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "지금 가장 걱정",
+      "auto": true
+    }, {
+      "text": "되는 것이 무엇인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "지금 가장 걱정되는",
+      "auto": true
+    }, {
+      "text": " 것",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

@@ -1,0 +1,158 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "그렇다면 ",
+      "auto": true
+    }, {
+      "text": "마치 죽을 것 같은 극심한 공포감을 느끼고",
+      "auto": true
+    }, {
+      "text": " 계신다고 보면 되겠네요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼 죽음에 대한 강한 공포심이 엄습해",
+      "auto": true
+    }, {
+      "text": " 오는 걸 경험하고 계신 건가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그러니까 ",
+      "auto": true
+    }, {
+      "text": "죽을 것 같은 극도의 공포감이",
+      "auto": true
+    }, {
+      "text": " 밀려오시는 거군요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그렇다면 죽음",
+      "auto": true
+    }, {
+      "text": "과 연관된 강렬한 공포심",
+      "auto": true
+    }, {
+      "text": "을 느끼고 계신다는 뜻인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼 마치",
+      "auto": true
+    }, {
+      "text": " 죽을 것 같은 공포감에 휩싸여 계신 건가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그러니까 죽음",
+      "auto": true
+    }, {
+      "text": "에 대한 극심한 공포심이 드시는 거라고",
+      "auto": true
+    }, {
+      "text": " 이해해도 될까요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그렇다면 ",
+      "auto": true
+    }, {
+      "text": "죽을 것 같은 강한 공포감을",
+      "auto": true
+    }, {
+      "text": " 겪고 계신 거라고 볼 ",
+      "auto": true
+    }, {
+      "text": "수",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼",
+      "auto": true
+    }, {
+      "text": " 죽음에 대한 극도의 공포심을 느끼고 계신다는 말씀",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": "신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그러니까 ",
+      "auto": true
+    }, {
+      "text": "마치 죽을",
+      "auto": true
+    }, {
+      "text": " 것 같은 공포감",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 느껴지시는 거군요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그렇다면 죽을 것 같은 공포심을 경험하고 ",
+      "auto": true
+    }, {
+      "text": "계신",
+      "auto": true
+    }, {
+      "text": " 건가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "그럼 죽을 것",
+      "auto": true
+    }, {
+      "text": " 같은 공포심",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 느껴지시는 거죠?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

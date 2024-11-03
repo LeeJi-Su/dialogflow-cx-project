@@ -1,0 +1,54 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "흉부",
+      "auto": true
+    }, {
+      "text": " x",
+      "auto": true
+    }, {
+      "text": "-",
+      "auto": true
+    }, {
+      "text": "ray요.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "흉부 엑스레이요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "흉부 엑스레이",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "흉부 x-ray",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "흉부 X-ray",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "흉부 X-ray 제시해주세요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

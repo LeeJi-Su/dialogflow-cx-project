@@ -1,0 +1,305 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "복용 중인",
+      "auto": true
+    }, {
+      "text": " 약 있으세요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "졸피뎀 외에 ",
+      "auto": true
+    }, {
+      "text": "복용 중인",
+      "auto": true
+    }, {
+      "text": " 약 있으십니까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "졸피뎀 외에 ",
+      "auto": true
+    }, {
+      "text": "복용 중인",
+      "auto": true
+    }, {
+      "text": " 약 있어요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "복용 중인",
+      "auto": true
+    }, {
+      "text": " 약 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "복용 중인",
+      "auto": true
+    }, {
+      "text": " 약 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "현재 드시는",
+      "auto": true
+    }, {
+      "text": " 약 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "복용중인",
+      "auto": true
+    }, {
+      "text": " 약 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "졸피뎀 이외에 복용하는 ",
+      "auto": true
+    }, {
+      "text": "약",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있다면 어떤 건가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "복용 중인 약 중",
+      "auto": true
+    }, {
+      "text": " 졸",
+      "auto": true
+    }, {
+      "text": "피뎀 이외에",
+      "auto": true
+    }, {
+      "text": " 어떤 것이 있습니까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "졸피뎀 외에 어떤 ",
+      "auto": true
+    }, {
+      "text": "약을",
+      "auto": true
+    }, {
+      "text": " 추가로 드시고 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "졸피뎀 이외의 약을 복용하고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "현재 복용 중인 약물 리스트",
+      "auto": true
+    }, {
+      "text": "에 졸피뎀 외에 어떤 것이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "졸피뎀 외에 ",
+      "auto": true
+    }, {
+      "text": "복용 중인",
+      "auto": true
+    }, {
+      "text": " 약",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "다른 약물을 졸피뎀과 함께 ",
+      "auto": true
+    }, {
+      "text": "드시고",
+      "auto": true
+    }, {
+      "text": " 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "졸피뎀 말고 ",
+      "auto": true
+    }, {
+      "text": "복용 중인 약",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " 졸",
+      "auto": true
+    }, {
+      "text": "피뎀 외에",
+      "auto": true
+    }, {
+      "text": " 어떤 약을 복용하고 계신지요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "졸피뎀 외에 다른 약을 복용하고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "졸",
+      "auto": true
+    }, {
+      "text": "피뎀 말고",
+      "auto": true
+    }, {
+      "text": " 먹고 있는 ",
+      "auto": true
+    }, {
+      "text": "약은",
+      "auto": true
+    }, {
+      "text": " 없나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "졸피뎀 말고 ",
+      "auto": true
+    }, {
+      "text": "드시고",
+      "auto": true
+    }, {
+      "text": " 있는 약 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "수면제 말고 복용하고 계신",
+      "auto": true
+    }, {
+      "text": " 약 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "수면제",
+      "auto": true
+    }, {
+      "text": " 외에 ",
+      "auto": true
+    }, {
+      "text": "복용하시는",
+      "auto": true
+    }, {
+      "text": " 약 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "현재 복용하시는",
+      "auto": true
+    }, {
+      "text": " 약 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "졸피뎀 외에 ",
+      "auto": true
+    }, {
+      "text": "복용하시는",
+      "auto": true
+    }, {
+      "text": " 약은 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

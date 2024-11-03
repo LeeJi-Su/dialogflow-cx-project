@@ -1,0 +1,211 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "복부",
+      "auto": true
+    }, {
+      "text": " x-ray AP spine 확인할게요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "복부",
+      "auto": true
+    }, {
+      "text": " x-ray AP spine 확인하겠습니다.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "복부",
+      "auto": true
+    }, {
+      "text": " x-ray ",
+      "auto": true
+    }, {
+      "text": "AP",
+      "auto": true
+    }, {
+      "text": " spine 보겠습니다",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "AP",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "spine",
+      "auto": true
+    }, {
+      "text": " 확인할게요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "AP",
+      "auto": true
+    }, {
+      "text": " spine으로 보여주세요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "복부 x-ray",
+      "auto": true
+    }, {
+      "text": " (AP spine)"
+    } ],
+    "repeatCount": 2,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "복부",
+      "auto": true
+    }, {
+      "text": " x-ray (AP ",
+      "auto": true
+    }, {
+      "text": "spine",
+      "auto": true
+    }, {
+      "text": ") ",
+      "auto": true
+    }, {
+      "text": "보여줘",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "복부 x-ray",
+      "auto": true
+    }, {
+      "text": " (AP spine) ",
+      "auto": true
+    }, {
+      "text": "보여주세요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "복부",
+      "auto": true
+    }, {
+      "text": " x-ray (AP spine)확인할게요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "복부 x-ray",
+      "auto": true
+    }, {
+      "text": " (AP spine)",
+      "auto": true
+    }, {
+      "text": "이요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "복부 x-ray AP (spine)",
+      "auto": true
+    }, {
+      "text": " 확인할게요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "AP (spine)",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "보여주세요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "복부 x-ray AP (spine)",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "이요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "spine이요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "복부 엑스레이 AP spine"
+    } ],
+    "repeatCount": 2,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "복부 x-ray AP spine 이요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "복부 x-ray AP ",
+      "auto": true
+    }, {
+      "text": "spine 제공해주세요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "AP spine",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "복부 x-ray AP spine",
+      "auto": true
+    }, {
+      "text": " 보여줘",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

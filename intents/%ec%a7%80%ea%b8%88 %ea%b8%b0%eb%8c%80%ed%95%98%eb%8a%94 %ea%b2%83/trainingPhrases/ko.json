@@ -1,0 +1,42 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "지금 기대하는",
+      "auto": true
+    }, {
+      "text": " 걸 ",
+      "auto": true
+    }, {
+      "text": "말씀해주실",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "수",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "지금 기대하는 것이",
+      "auto": true
+    }, {
+      "text": " 무엇인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "지금 기대하는 것",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

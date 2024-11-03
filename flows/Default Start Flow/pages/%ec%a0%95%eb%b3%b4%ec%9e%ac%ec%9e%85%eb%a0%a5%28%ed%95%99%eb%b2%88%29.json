@@ -1,0 +1,34 @@
+{
+  "name": "e0f9240a-fc82-41bf-9a6a-d5beeb25f423",
+  "displayName": "정보재입력(학번)",
+  "form": {
+    "parameters": [ {
+      "displayName": "student_id",
+      "required": true,
+      "entityType": "@sys.any",
+      "fillBehavior": {
+        "initialPromptFulfillment": {
+        
+        }
+      }
+    } ]
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "학번을 입력해주세요." ]
+      },
+      "languageCode": "ko"
+    } ],
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "condition": "$page.params.status = 'FINAL'",
+    "triggerFulfillment": {
+    
+    },
+    "name": "a0dd3201-9507-47aa-8dc1-f5c55d1da03a"
+  } ]
+}

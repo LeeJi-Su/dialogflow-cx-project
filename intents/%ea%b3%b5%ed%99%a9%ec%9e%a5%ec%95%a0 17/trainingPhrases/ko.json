@@ -1,0 +1,200 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "증상 재발에 대한 두려움이나 회피 심리 때문에 새로운 행동을 시작하신",
+      "auto": true
+    }, {
+      "text": " 적이 있으신지요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시",
+      "auto": true
+    }, {
+      "text": " 증상",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "다시 올까 봐 두려워하거나 피하고 싶어서",
+      "auto": true
+    }, {
+      "text": " 이전에 하지 않았던 행동을 하기 시작하셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "증상 재발에 대한 공포나 회피 욕구로 인해 이전과 다른 행동을 시작하신 적이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 증상",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "다시 나타날까 봐 두려워하거나 피하고 싶어서 새로운 행동 패턴을 시작",
+      "auto": true
+    }, {
+      "text": "하셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "증상 재발에 대한 두려움이나 회피 심리로 인해",
+      "auto": true
+    }, {
+      "text": " 이전에 하지 않던 ",
+      "auto": true
+    }, {
+      "text": "행동을 시작하신 적이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시",
+      "auto": true
+    }, {
+      "text": " 증상",
+      "auto": true
+    }, {
+      "text": "이 다시 올까 봐 두려워하거나 피하고 싶어서 이전과 다른 행동을 하기",
+      "auto": true
+    }, {
+      "text": " 시작하셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "증상 재발에 대한 두려움이나 회피 욕구로 인해 새로운 행동을 시작하신 적이",
+      "auto": true
+    }, {
+      "text": " 있으신지요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시",
+      "auto": true
+    }, {
+      "text": " 증상",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "다시 나타날까 봐 두려워하거나 피하려고 이전과 다른 행동을 취하신 적이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "증상의",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "재발",
+      "auto": true
+    }, {
+      "text": "을 두려워하거나 ",
+      "auto": true
+    }, {
+      "text": "피하고 싶어서 새로운 행동을 시작",
+      "auto": true
+    }, {
+      "text": "하신 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 증상이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "재발할까 두려워서",
+      "auto": true
+    }, {
+      "text": ", 또는 ",
+      "auto": true
+    }, {
+      "text": "피하고 싶어서 이전과 다른 행동을 시작하신 적이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "증상이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "다시 나타날까봐 두려워서 혹은",
+      "auto": true
+    }, {
+      "text": " 피하고 ",
+      "auto": true
+    }, {
+      "text": "싶어서",
+      "auto": true
+    }, {
+      "text": " 이전에 하지 않았던 ",
+      "auto": true
+    }, {
+      "text": "행동을 시작한",
+      "auto": true
+    }, {
+      "text": " 적이 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

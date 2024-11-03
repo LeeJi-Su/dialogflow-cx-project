@@ -1,0 +1,10 @@
+{
+  "name": "7bf1b5cc-4175-4f59-bdba-06102c2e5b13",
+  "displayName": "대화준비(시작)",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 9
+}

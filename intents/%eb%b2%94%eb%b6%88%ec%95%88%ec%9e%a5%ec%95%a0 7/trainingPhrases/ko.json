@@ -1,0 +1,197 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "지금",
+      "auto": true
+    }, {
+      "text": " 역시 마찬가지로 ",
+      "auto": true
+    }, {
+      "text": "잠을 잘 못",
+      "auto": true
+    }, {
+      "text": " 주무시는 어려움",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": "도 ",
+      "auto": true
+    }, {
+      "text": "마찬가지로 잠을 제대로 이루지 못하고 계신 건가요",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "마찬가지로 요즘 ",
+      "auto": true
+    }, {
+      "text": "숙면을 취하기 힘든",
+      "auto": true
+    }, {
+      "text": " 상황이신 건가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "지금도 마찬가지로 잠",
+      "auto": true
+    }, {
+      "text": "을 ",
+      "auto": true
+    }, {
+      "text": "잘",
+      "auto": true
+    }, {
+      "text": " 못 ",
+      "auto": true
+    }, {
+      "text": "주무시는",
+      "auto": true
+    }, {
+      "text": " 문제가 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "마찬가지로 ",
+      "auto": true
+    }, {
+      "text": "현재 수면",
+      "auto": true
+    }, {
+      "text": "에 어려움을 겪고 ",
+      "auto": true
+    }, {
+      "text": "계신",
+      "auto": true
+    }, {
+      "text": " 건가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "지금",
+      "auto": true
+    }, {
+      "text": " 역시 마찬가지로 ",
+      "auto": true
+    }, {
+      "text": "잠을 잘 못 이루고 계신",
+      "auto": true
+    }, {
+      "text": " 건 아닌가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": "도 마찬가지로 ",
+      "auto": true
+    }, {
+      "text": "숙면을 취하기 어려운 상황",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": "신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "마찬가지로 요즘 ",
+      "auto": true
+    }, {
+      "text": "잠을 잘 못 주무시는 상태이신",
+      "auto": true
+    }, {
+      "text": " 건가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "지금도 마찬가지로 잠을 제대로 못 주무시는",
+      "auto": true
+    }, {
+      "text": " 상황인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 마찬가지로 ",
+      "auto": true
+    }, {
+      "text": "현재",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "잠을 잘 이루지",
+      "auto": true
+    }, {
+      "text": " 못하고 ",
+      "auto": true
+    }, {
+      "text": "계신 건가요",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "마찬가지로 ",
+      "auto": true
+    }, {
+      "text": "지금",
+      "auto": true
+    }, {
+      "text": " 잠도 잘 ",
+      "auto": true
+    }, {
+      "text": "못주무시고",
+      "auto": true
+    }, {
+      "text": " 계신거죠?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

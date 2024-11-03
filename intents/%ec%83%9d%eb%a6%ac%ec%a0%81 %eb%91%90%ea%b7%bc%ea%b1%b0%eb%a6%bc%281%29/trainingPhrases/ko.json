@@ -1,0 +1,381 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "운동 후에 가슴의 두근거림이 더 두드러진다",
+      "auto": true
+    }, {
+      "text": "고 생각하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "운동 후 가슴이 더 두근거리는 것을 경험한",
+      "auto": true
+    }, {
+      "text": " 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "운동 후 가슴의 두근거림이 평소보다",
+      "auto": true
+    }, {
+      "text": " 더 심하게 느껴지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "운동 후에 가슴이 두근거림",
+      "auto": true
+    }, {
+      "text": "을 더 많이 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "운동을 마치고 나서 가슴의 두근거림이 더 심해지는 것",
+      "auto": true
+    }, {
+      "text": " 같나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "운동 후 가슴",
+      "auto": true
+    }, {
+      "text": "의 ",
+      "auto": true
+    }, {
+      "text": "두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 강해지는 경우가 많나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "운동",
+      "auto": true
+    }, {
+      "text": " 후 가슴의 두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 특히 강해진다고 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "운동",
+      "auto": true
+    }, {
+      "text": " 후에 가슴",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "심하게",
+      "auto": true
+    }, {
+      "text": " 두근거리는 느낌을 자주 받나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "운동 후에 가슴이 더 두근거리는 것 같다는",
+      "auto": true
+    }, {
+      "text": " 생각",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "운동을 마친 후 가슴의 두근거림이 특히 강하게",
+      "auto": true
+    }, {
+      "text": " 느껴지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "운동",
+      "auto": true
+    }, {
+      "text": " 후에 가슴의 두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 눈에 띄게 심해지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "운동 후 가슴의 두근거림이 증가한 듯한 기분이",
+      "auto": true
+    }, {
+      "text": " 드나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "운동을 마친 후 가슴의 두근거림이 더",
+      "auto": true
+    }, {
+      "text": " 눈에 띄게 느껴지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "평소보다 강도 높은 운동을 하면 운동 후 두근거림이 더 심해지",
+      "auto": true
+    }, {
+      "text": "나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "고강도 운동을 마치고 나면 가슴이 심하게 두근거리는 증상이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "운동",
+      "auto": true
+    }, {
+      "text": " 후 ",
+      "auto": true
+    }, {
+      "text": "가슴이",
+      "auto": true
+    }, {
+      "text": " 더욱 두근거리는 느낌을 자주 받나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "운동을 심하게 한 후에 증상이 심해지",
+      "auto": true
+    }, {
+      "text": "나요",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "운동",
+      "auto": true
+    }, {
+      "text": " 후에 ",
+      "auto": true
+    }, {
+      "text": "증상이",
+      "auto": true
+    }, {
+      "text": " 심해지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "운동 후 가슴이 더 두근거리는 것을 경험하는",
+      "auto": true
+    }, {
+      "text": " 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "운동을 하고 ",
+      "auto": true
+    }, {
+      "text": "나면 가슴이 더 두근거리는 것",
+      "auto": true
+    }, {
+      "text": " 같은 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "운동",
+      "auto": true
+    }, {
+      "text": " 후에 가슴의 두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 더 강하게 느껴지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "운동을 마치고 가슴이 두근거림을 더",
+      "auto": true
+    }, {
+      "text": " 느끼는 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "운동이",
+      "auto": true
+    }, {
+      "text": " 끝난 후 가슴",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 더 심하게 뛰는 듯한 느낌",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 드나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "운동 후",
+      "auto": true
+    }, {
+      "text": " 가슴의 ",
+      "auto": true
+    }, {
+      "text": "두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 평소보다 강하게 느껴지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "운동을 ",
+      "auto": true
+    }, {
+      "text": "마친 후에 가슴이 평소보다",
+      "auto": true
+    }, {
+      "text": " 더 ",
+      "auto": true
+    }, {
+      "text": "두근거리",
+      "auto": true
+    }, {
+      "text": "나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "운동을 ",
+      "auto": true
+    }, {
+      "text": "마친 후 가슴이 평소보다 더 심하게 두근거리는 느낌이",
+      "auto": true
+    }, {
+      "text": " 드나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "운동을 "
+    }, {
+      "text": "심하게 한",
+      "auto": true
+    }, {
+      "text": " 후에 "
+    }, {
+      "text": "두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 심해지시나요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

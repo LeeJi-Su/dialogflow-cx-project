@@ -1,0 +1,194 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "안면 홍조 증상이",
+      "auto": true
+    }, {
+      "text": " 있다고 생각하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "피부가",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "예민해서",
+      "auto": true
+    }, {
+      "text": " 쉽게 붉어지는 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "얼굴",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "자주 붉어져서 신경",
+      "auto": true
+    }, {
+      "text": " 쓰이시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "홍조로 인해 피부",
+      "auto": true
+    }, {
+      "text": " 관리에 어려움을 겪고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "얼굴이 쉽게 달아오르는 증상이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "안면 홍조가 자주",
+      "auto": true
+    }, {
+      "text": " 발생하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "피부가",
+      "auto": true
+    }, {
+      "text": " 쉽게 붉어지는 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "얼굴이 갑자기 화끈거리며 붉어",
+      "auto": true
+    }, {
+      "text": "지는 경험",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "뺨이나 ",
+      "auto": true
+    }, {
+      "text": "코 주변이 자주",
+      "auto": true
+    }, {
+      "text": " 붉어지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "안면 홍조로",
+      "auto": true
+    }, {
+      "text": " 불편함을 겪고 계신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "얼굴",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 쉽게 ",
+      "auto": true
+    }, {
+      "text": "붉어",
+      "auto": true
+    }, {
+      "text": "지는 경향",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "피부에 붉은 기가 나타나는",
+      "auto": true
+    }, {
+      "text": " 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "얼굴에 ",
+      "auto": true
+    }, {
+      "text": "홍조 증상이",
+      "auto": true
+    }, {
+      "text": " 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "얼굴이",
+      "auto": true
+    }, {
+      "text": " 붉은 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "홍조가",
+      "auto": true
+    }, {
+      "text": " 있나요?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

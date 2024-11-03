@@ -1,0 +1,10 @@
+{
+  "name": "f8722213-ccd4-4390-914c-5877a8c83939",
+  "displayName": "정보확인(아니오)",
+  "parameters": [ {
+    "id": "any",
+    "entityType": "@sys.any"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 7
+}

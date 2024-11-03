@@ -1,0 +1,206 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "요즘 ",
+      "auto": true
+    }, {
+      "text": "집중",
+      "auto": true
+    }, {
+      "text": "하기 어렵거나 ",
+      "auto": true
+    }, {
+      "text": "머릿속이 멍해지는",
+      "auto": true
+    }, {
+      "text": " 증상을 경험하신 적 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 집중력",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 떨어지거나 ",
+      "auto": true
+    }, {
+      "text": "머릿속이 하얘지는",
+      "auto": true
+    }, {
+      "text": " 현상을 겪으신 적 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "요즘 들어 ",
+      "auto": true
+    }, {
+      "text": "집중하기",
+      "auto": true
+    }, {
+      "text": " 힘들거나 머릿속",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 텅 비는 듯한 느낌을 받으신 적 있으신지요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "근래",
+      "auto": true
+    }, {
+      "text": "에 ",
+      "auto": true
+    }, {
+      "text": "집중력 저하나 머릿속이 하얗게 비워지는 듯한 경험",
+      "auto": true
+    }, {
+      "text": "을 하신 적 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "요즘 ",
+      "auto": true
+    }, {
+      "text": "집중하기",
+      "auto": true
+    }, {
+      "text": " 어렵거나 ",
+      "auto": true
+    }, {
+      "text": "머릿속이 백지",
+      "auto": true
+    }, {
+      "text": "처럼 되는 느낌을 받으신 적 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근 집중력",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 떨어지거나 ",
+      "auto": true
+    }, {
+      "text": "머릿속이 하얘지는 증상을 경험하신",
+      "auto": true
+    }, {
+      "text": " 적 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "요즘 들어 ",
+      "auto": true
+    }, {
+      "text": "집중하기",
+      "auto": true
+    }, {
+      "text": " 힘들거나 ",
+      "auto": true
+    }, {
+      "text": "머릿속이 멍해지",
+      "auto": true
+    }, {
+      "text": "는 경험을 하신 적 있으신지요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "근래",
+      "auto": true
+    }, {
+      "text": "에 ",
+      "auto": true
+    }, {
+      "text": "집중력 저하나 머릿속이 하얗게",
+      "auto": true
+    }, {
+      "text": " 되는 현상을 겪으신 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "요즘 ",
+      "auto": true
+    }, {
+      "text": "집중하기",
+      "auto": true
+    }, {
+      "text": " 어렵거나 머릿속",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 텅 비는 듯한 느낌을 받으신 적 있으신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "최근에 집중력",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 떨어지거나 ",
+      "auto": true
+    }, {
+      "text": "머릿속이 하얘지는 경험을",
+      "auto": true
+    }, {
+      "text": " 하신 적이 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "요즘 ",
+      "auto": true
+    }, {
+      "text": "집중",
+      "auto": true
+    }, {
+      "text": "하기 힘들거나 ",
+      "auto": true
+    }, {
+      "text": "머릿속이 하얗게 되신 적이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

@@ -1,0 +1,140 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "대중교통을 이용할 때, 특히 자동차, 버스, 기차 등에서 그런 강렬한 불안과 공포가 밀려오시",
+      "auto": true
+    }, {
+      "text": "나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 자동차, 버스, 기차 같은 대중교통 이용 시 그런 극심한 불안과 공포 증상이",
+      "auto": true
+    }, {
+      "text": " 느껴지시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "대중교통, 예컨대 자동차나 버스, 기차를 탈 때 그런 심한 불안감과 공포심이",
+      "auto": true
+    }, {
+      "text": " 엄습하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 자동차, 버스, 기차 등 대중교통 이용 중에 그런 극도의 불안과 공포",
+      "auto": true
+    }, {
+      "text": "를 겪으시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "대중교통, 즉 자동차나 버스, 기차 등을 이용할 때 그런 심각한 불안과 공포 증상이 나타나",
+      "auto": true
+    }, {
+      "text": "시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 자동차, 버스, 기차와 같은 대중교통 탑승 시 그런 강한 불안감과 공포심이",
+      "auto": true
+    }, {
+      "text": " 생기시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "대중교통",
+      "auto": true
+    }, {
+      "text": "을 이용할 때, 특히 ",
+      "auto": true
+    }, {
+      "text": "자동차나 버스, 기차 등에서 그런 극심한 불안과 공포가 드시",
+      "auto": true
+    }, {
+      "text": "나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 자동차, 버스, 기차 등의 대중교통 이용 시 그런 심한 불안과 공포 증상을",
+      "auto": true
+    }, {
+      "text": " 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "대중교통",
+      "auto": true
+    }, {
+      "text": ", 예를 들어 자동차, ",
+      "auto": true
+    }, {
+      "text": "버스",
+      "auto": true
+    }, {
+      "text": ", ",
+      "auto": true
+    }, {
+      "text": "기차를 탈 때 그런 극도의 불안감과 공포",
+      "auto": true
+    }, {
+      "text": "를 경험하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 자동차나 버스, 기차 같은 대중교통을 이용할 때 그런 극심한 불안과 공포 증상이 나타나",
+      "auto": true
+    }, {
+      "text": "시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "다음 상황에서 ",
+      "auto": true
+    }, {
+      "text": "극심한 불안과 공포가 느껴지셨다면 말씀해주세요.\r 자동차, 버스, 기차 등 대중교통을 이용할 때",
+      "auto": true
+    }, {
+      "text": " 그런 증상",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 느껴지시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}
