@@ -1,13 +1,6 @@
 {
   "name": "926e8fe2-323f-4256-8ac7-3cfca17c6790",
   "displayName": "발병시기(onset)",
-  "parameters": [ {
-    "id": "date",
-    "entityType": "@sys.date"
-  }, {
-    "id": "person",
-    "entityType": "@sys.person"
-  } ],
   "priority": 500000,
   "numTrainingPhrases": 13
 }

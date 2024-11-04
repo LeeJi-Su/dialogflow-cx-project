@@ -18,7 +18,7 @@
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "아니요" ]
+          "text": [ "잘 모르겠습니다" ]
         },
         "languageCode": "ko"
       } ],
@@ -33,7 +33,7 @@
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "아니요." ]
+          "text": [ "잘 모르겠습니다." ]
         },
         "languageCode": "ko"
       } ],
