@@ -1,6 +1,316 @@
 {
   "trainingPhrases": [ {
     "parts": [ {
+      "text": "약을 먹고 나면 증상이",
+      "auto": true
+    }, {
+      "text": " 나타나세요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "졸피뎀을 ",
+      "auto": true
+    }, {
+      "text": "먹고나면 증상이",
+      "auto": true
+    }, {
+      "text": " 시작되나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "졸피뎀",
+      "auto": true
+    }, {
+      "text": "을 드신 후에 증상이",
+      "auto": true
+    }, {
+      "text": " 발생하나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "졸피뎀",
+      "auto": true
+    }, {
+      "text": "을 복용하면 증상이",
+      "auto": true
+    }, {
+      "text": " 심해지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "수면제를 ",
+      "auto": true
+    }, {
+      "text": "복용하면 증상이",
+      "auto": true
+    }, {
+      "text": " 심해지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "약",
+      "auto": true
+    }, {
+      "text": "을 드시고나면 증상이",
+      "auto": true
+    }, {
+      "text": " 심해지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "약 먹으면 ",
+      "auto": true
+    }, {
+      "text": "증상이",
+      "auto": true
+    }, {
+      "text": " 심해지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "약",
+      "auto": true
+    }, {
+      "text": "을 복용하면 증상이",
+      "auto": true
+    }, {
+      "text": " 심해지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "수면제를 드신 후에 두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 발생하나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "수면제 ",
+      "auto": true
+    }, {
+      "text": "복용 후에 두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "심해진",
+      "auto": true
+    }, {
+      "text": "나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "졸피뎀 ",
+      "auto": true
+    }, {
+      "text": "복용",
+      "auto": true
+    }, {
+      "text": " 후에 ",
+      "auto": true
+    }, {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 심해지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "소화제",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "복용",
+      "auto": true
+    }, {
+      "text": " 후에 두근",
+      "auto": true
+    }, {
+      "text": "거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 심해지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "수면제 복용 후에 두근거림이",
+      "auto": true
+    }, {
+      "text": " 시작되셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "수면제 복용 이후에 두근거림이 심해진",
+      "auto": true
+    }, {
+      "text": "건가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "졸피뎀 ",
+      "auto": true
+    }, {
+      "text": "복용 후에 두근거림이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "심해진",
+      "auto": true
+    }, {
+      "text": "건가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "졸",
+      "auto": true
+    }, {
+      "text": "피뎀 복용 후에 두근거림이",
+      "auto": true
+    }, {
+      "text": " 시작된건가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "졸",
+      "auto": true
+    }, {
+      "text": "피뎀 복용 이후에 두근거림이",
+      "auto": true
+    }, {
+      "text": " 시작되었나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "약을 복용한",
+      "auto": true
+    }, {
+      "text": " 이후에 ",
+      "auto": true
+    }, {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " 시작됐나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "약을 복용한",
+      "auto": true
+    }, {
+      "text": " 이후에 증상",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 시작됐나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "수면제를 드신 이후로 증상이",
+      "auto": true
+    }, {
+      "text": " 시작됐나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "수면제를 드신 이후로 증상이",
+      "auto": true
+    }, {
+      "text": " 심해졌나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "졸피뎀을 먹은 후에 ",
+      "auto": true
+    }, {
+      "text": "증상이",
+      "auto": true
+    }, {
+      "text": " 심해졌나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
       "text": "소화제 복용 후 가슴의 두근거림이 특히 심해지는 것",
       "auto": true
     }, {

@@ -157,7 +157,7 @@
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "아까 말했다시피 평소에는 그렇진 않은데 증상이 발생하면 숨이 안쉬어지니까 죽을까봐 무서워요. 그땐 불안하죠." ]
+          "text": [ "평소에는 그렇진 않은데 증상이 발생하면 숨이 안쉬어지니까 죽을까봐 무서워요. 그땐 불안하죠." ]
         },
         "languageCode": "ko"
       } ],
@@ -262,7 +262,7 @@
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "네. 증상 발생할 때 갑작스럽게 나타납니다." ]
+          "text": [ "증상이 발생하면 무섭긴 해요. 두근거릴 때면 숨도 잘 알ㄴ쉬어지고 식은 땀도 나고 그러니까 불안하고 무서워요." ]
         },
         "languageCode": "ko"
       } ],
@@ -273,7 +273,7 @@
     "targetPage": "문진 및 신체검진",
     "name": "b44f06da-203d-4496-a1b3-c42f6c5bddb3"
   }, {
-    "intent": "공황장애 2",
+    "intent": "공황장애 2(갑작)",
     "triggerFulfillment": {
       "messages": [ {
         "text": {
@@ -817,7 +817,7 @@
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "그러지는 않는 것 같아요." ]
+          "text": [ "그러지는 않는 것 같아요. 약 복용과는 딱히 상관 없어요." ]
         },
         "languageCode": "ko"
       } ],
@@ -1055,7 +1055,7 @@
     "targetPage": "문진 및 신체검진",
     "name": "121949c9-a716-4130-a526-482694ecc9a5"
   }, {
-    "intent": "red flag(1)",
+    "intent": "red flag(1_두통, 땀)",
     "triggerFulfillment": {
       "messages": [ {
         "text": {
@@ -1070,7 +1070,7 @@
     "targetPage": "문진 및 신체검진",
     "name": "da6fcf5f-d6d2-43b9-ac61-9ae517e4cb13"
   }, {
-    "intent": "red flag(2)",
+    "intent": "red flag(2_구역질)",
     "triggerFulfillment": {
       "messages": [ {
         "text": {
@@ -1085,7 +1085,7 @@
     "targetPage": "문진 및 신체검진",
     "name": "aa72c675-8c58-4ca5-9b80-243611811454"
   }, {
-    "intent": "red flag(3)",
+    "intent": "red flag(3_신경예민)",
     "triggerFulfillment": {
       "messages": [ {
         "text": {
@@ -1100,7 +1100,7 @@
     "targetPage": "문진 및 신체검진",
     "name": "c5876b84-efc5-484e-acd6-120c625d3ba6"
   }, {
-    "intent": "red flag(4)",
+    "intent": "red flag(4_상복부 통증)",
     "triggerFulfillment": {
       "messages": [ {
         "text": {
@@ -1115,11 +1115,11 @@
     "targetPage": "문진 및 신체검진",
     "name": "dab16d6d-f6a1-4679-baad-e718ba1cc4a5"
   }, {
-    "intent": "red flag(5)",
+    "intent": "red flag(5_흉통)",
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "가슴이 답답하긴 한데, 쥐어짜는 듯한 통증은 아니에요." ]
+          "text": [ "가슴이 답답하긴 한데,  통증은 없어요." ]
         },
         "languageCode": "ko"
       } ],
@@ -1130,7 +1130,7 @@
     "targetPage": "문진 및 신체검진",
     "name": "9b6ed1c3-9140-4a4b-ba4c-6426ceef0640"
   }, {
-    "intent": "red flag(6)",
+    "intent": "red flag(6_호흡곤란)",
     "triggerFulfillment": {
       "messages": [ {
         "text": {
@@ -1205,11 +1205,11 @@
     "targetPage": "문진 및 신체검진",
     "name": "4e64bce1-eb79-4aa1-888d-05a5afda93df"
   }, {
-    "intent": "동반증상(갑상선 기능항진증 1)",
+    "intent": "동반증상(갑상선 기능항진증 1_더위)",
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "두근거림이 나타나기 전후로 딱히 달라진 건 없어요. 예전과 비슷한 정도로 더위를 적당하게 타는 것 같습니다." ]
+          "text": [ "더위는 적당하게 타는 것 같습니다. 두근거림 전후로 달리지지도 않았고요." ]
         },
         "languageCode": "ko"
       } ],
@@ -1284,7 +1284,7 @@
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "어깨 근육통이랑 소화불량도 있어요." ]
+          "text": [ "어깨 근육통이랑 소화불량도 있어요. 되게 오래전부터 항상 달고 살았어요. " ]
         },
         "languageCode": "ko"
       } ],
@@ -1384,7 +1384,7 @@
     "targetPage": "문진 및 신체검진",
     "name": "d022e3d5-854a-429c-98cf-1c36b1979ec9"
   }, {
-    "intent": "사회력(2)",
+    "intent": "사회력(2_남편)",
     "triggerFulfillment": {
       "messages": [ {
         "text": {
@@ -1399,7 +1399,7 @@
     "targetPage": "문진 및 신체검진",
     "name": "a40aef7d-d1f2-4aac-a4dc-6f1db30b9e17"
   }, {
-    "intent": "사회력(3)",
+    "intent": "사회력(3_딸)",
     "triggerFulfillment": {
       "messages": [ {
         "text": {
@@ -1414,7 +1414,7 @@
     "targetPage": "문진 및 신체검진",
     "name": "c0610f59-ab92-47af-84e6-112cbc0173fb"
   }, {
-    "intent": "사회력(4)",
+    "intent": "사회력(4_시어머니)",
     "triggerFulfillment": {
       "messages": [ {
         "text": {
@@ -1429,7 +1429,7 @@
     "targetPage": "문진 및 신체검진",
     "name": "82a18b3e-f105-4182-9e4f-08efb3219b77"
   }, {
-    "intent": "사회력(5)",
+    "intent": "사회력(5_직장)",
     "triggerFulfillment": {
       "messages": [ {
         "text": {
@@ -1858,7 +1858,7 @@
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "사지가 특별히 차갑진 않습니다." ]
+          "text": [ "딱히 추위를 느끼지도 않고, 몸이 차지도 않아요." ]
         },
         "languageCode": "ko"
       } ],
@@ -2600,5 +2600,101 @@
     },
     "targetPage": "문진 및 신체검진",
     "name": "cff2dab4-7b2d-4680-ac57-163fd81b4aa6"
+  }, {
+    "intent": "증상(갑자기)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "네. 두 달 전쯤 증상이 갑자기 발생한 것 같아요. " ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "1772c0e5-67f6-4222-a1ac-063ebfcefb84"
+  }, {
+    "intent": "병정4(증상의 약화)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "흠.. 매번 다르지만 심할 때도 있고 약해질 때도 있어요. 특별히 어떤 경우에 심해지고 약해지는지는 저도 잘 모르겠네요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "f58ad5ef-7381-43f1-9da0-46f9cd57a461"
+  }, {
+    "intent": "환자 인적사항(직업)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "한방병원에서 사무직으로 일하고 있어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "c706fe7d-7cb9-4ea1-a9e1-fabfcdad1a29"
+  }, {
+    "intent": "사회력(3_딸)",
+    "triggerFulfillment": {
+    
+    },
+    "name": "07fe698c-21e3-438e-bd1a-4dbb1ef7ef69"
+  }, {
+    "intent": "사회력(가족 전반)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "남편과 딸이랑 같이 살고 있는데, 남편과는 사이가 별로 좋진 않아요. 근데 이게 두근거림과는 관련있는 것 같진 않은데.." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "68b97300-8b92-4420-9062-b6447c35505d"
+  }, {
+    "intent": "가족력(두근거림)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "가족 중엔 저와 비슷한 증상이 있는 사람은 없어요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "65cbd163-58d9-4715-85a0-dca61dd20fcb"
+  }, {
+    "intent": "두근거림(대응)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "두근거림이 발생하면 제가 할 수 있는게 없어요. 증상이 가라앉기를 기다릴 수 밖에 없어요.. 그럴때마다 어찌나 불안하고 무서운지... 숨도 제 의지대로 안쉬어져서 너무 무서워요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "19471568-ce27-4715-8830-1084c8955c8a"
   } ]
 }

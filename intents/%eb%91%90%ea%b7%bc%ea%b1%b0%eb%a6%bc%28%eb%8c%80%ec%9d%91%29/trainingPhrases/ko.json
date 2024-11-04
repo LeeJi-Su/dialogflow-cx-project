@@ -1,0 +1,121 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "증상 발생 시",
+      "auto": true
+    }, {
+      "text": " 어떻게 반응하세요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "증상 발생하면",
+      "auto": true
+    }, {
+      "text": " 어떻게 반응하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "증상이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "발생",
+      "auto": true
+    }, {
+      "text": "하면 ",
+      "auto": true
+    }, {
+      "text": "환자분은 뭐",
+      "auto": true
+    }, {
+      "text": "하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "증상이",
+      "auto": true
+    }, {
+      "text": " 발생하면 어떤 대응을 하세요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거리는 증상이 나타나면",
+      "auto": true
+    }, {
+      "text": " 어떻게 대응하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거리는 증상이 나타나면",
+      "auto": true
+    }, {
+      "text": " 어떻게 하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거릴",
+      "auto": true
+    }, {
+      "text": " 때 어떻게 반응하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거림이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "발생",
+      "auto": true
+    }, {
+      "text": "하면 어떻게 대응하세요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "증상이 나타나면",
+      "auto": true
+    }, {
+      "text": " 어떻게 하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "두근거릴 때",
+      "auto": true
+    }, {
+      "text": " 어떻게 하시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}

@@ -1,8 +1,49 @@
 {
   "trainingPhrases": [ {
     "parts": [ {
+      "text": "공포를 느끼는",
+      "auto": true
+    }, {
+      "text": " 상황",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "혹시 특정 상황에 ",
+      "auto": true
+    }, {
+      "text": "공포",
+      "auto": true
+    }, {
+      "text": "를 느끼시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "특정 상황에서 ",
+      "auto": true
+    }, {
+      "text": "공포를",
+      "auto": true
+    }, {
+      "text": " 느끼나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
       "text": "극심한 공포",
-      "parameterId": "person",
       "auto": true
     }, {
       "text": "가 갑작스럽게 발생하나요?",

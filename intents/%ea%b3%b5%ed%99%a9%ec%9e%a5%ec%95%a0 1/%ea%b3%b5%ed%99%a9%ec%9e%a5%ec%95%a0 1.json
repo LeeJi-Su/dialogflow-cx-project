@@ -1,10 +1,6 @@
 {
   "name": "de9aefde-4f7c-4baa-949d-9f0b8ea3d51f",
   "displayName": "공황장애 1",
-  "parameters": [ {
-    "id": "person",
-    "entityType": "@sys.person"
-  } ],
   "priority": 500000,
-  "numTrainingPhrases": 13
+  "numTrainingPhrases": 16
 }

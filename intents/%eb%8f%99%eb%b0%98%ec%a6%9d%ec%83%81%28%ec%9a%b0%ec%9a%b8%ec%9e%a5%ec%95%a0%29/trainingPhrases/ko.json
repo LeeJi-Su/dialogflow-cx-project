@@ -1,6 +1,33 @@
 {
   "trainingPhrases": [ {
     "parts": [ {
+      "text": "우울감을",
+      "auto": true
+    }, {
+      "text": " 느끼나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "우울하신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "우울한 증상이",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
       "text": "에너지이",
       "auto": true
     }, {

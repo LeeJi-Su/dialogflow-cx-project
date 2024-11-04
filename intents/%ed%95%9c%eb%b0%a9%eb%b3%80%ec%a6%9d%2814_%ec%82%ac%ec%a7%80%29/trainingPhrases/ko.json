@@ -1,6 +1,206 @@
 {
   "trainingPhrases": [ {
     "parts": [ {
+      "text": "추위",
+      "parameterId": "currency-name",
+      "auto": true
+    }, {
+      "text": "를 잘 타세요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "추위를 잘 타시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "추위를",
+      "auto": true
+    }, {
+      "text": " 잘 못견디나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "피부가",
+      "auto": true
+    }, {
+      "text": " 찬편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "몸이",
+      "auto": true
+    }, {
+      "text": " 찬편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "손발이",
+      "auto": true
+    }, {
+      "text": " 차나요?",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "손발이",
+      "auto": true
+    }, {
+      "text": " 찬편이신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "손발이 찬",
+      "auto": true
+    }, {
+      "text": " 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "사지가 찬",
+      "auto": true
+    }, {
+      "text": " 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "피부가 찬",
+      "auto": true
+    }, {
+      "text": " 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "몸이 찬",
+      "auto": true
+    }, {
+      "text": " 편인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "사지가",
+      "auto": true
+    }, {
+      "text": " 차갑습니까?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "사지가 차가우신가요",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "손발이",
+      "auto": true
+    }, {
+      "text": " 차갑나요?",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "피부가",
+      "auto": true
+    }, {
+      "text": " 차갑나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "몸",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 차가운가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "몸",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "차가우",
+      "auto": true
+    }, {
+      "text": "신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "손발이 차갑게",
+      "auto": true
+    }, {
+      "text": " 느껴지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "손발이 차가운",
+      "auto": true
+    }, {
+      "text": "가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
       "text": "손과 발이 차갑다고 느끼시나요",
       "auto": true
     } ],
@@ -213,16 +413,6 @@
     "languageCode": "ko"
   }, {
     "parts": [ {
-      "text": "손발이",
-      "auto": true
-    }, {
-      "text": " 차나요?",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "ko"
-  }, {
-    "parts": [ {
       "text": "사지가",
       "auto": true
     }, {
@@ -237,16 +427,6 @@
       "auto": true
     }, {
       "text": " 차나요?",
-      "auto": true
-    } ],
-    "repeatCount": 1,
-    "languageCode": "ko"
-  }, {
-    "parts": [ {
-      "text": "손발이",
-      "auto": true
-    }, {
-      "text": " 차갑나요?",
       "auto": true
     } ],
     "repeatCount": 1,
