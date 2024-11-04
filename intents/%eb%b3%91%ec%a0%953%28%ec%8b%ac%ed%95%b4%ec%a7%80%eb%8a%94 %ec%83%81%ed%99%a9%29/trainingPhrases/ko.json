@@ -1,0 +1,76 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "증상이 갑자기 심해질",
+      "auto": true
+    }, {
+      "text": " 때가 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "증상이",
+      "auto": true
+    }, {
+      "text": " 심해질 때가 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "증상이 심해질",
+      "auto": true
+    }, {
+      "text": " 때는 언제인가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "증상이",
+      "auto": true
+    }, {
+      "text": " 언제 심해지시나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "증상이",
+      "auto": true
+    }, {
+      "text": " 언제 심해지죠?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "언제 증상이",
+      "auto": true
+    }, {
+      "text": " 심해지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "언제 두근거림",
+      "auto": true
+    }, {
+      "text": "이",
+      "auto": true
+    }, {
+      "text": " 심해지나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  } ]
+}
