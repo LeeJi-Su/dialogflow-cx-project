@@ -1,6 +1,23 @@
 {
   "trainingPhrases": [ {
     "parts": [ {
+      "text": "구토",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "구토가",
+      "auto": true
+    }, {
+      "text": " 있나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
       "text": "구토하실",
       "auto": true
     }, {

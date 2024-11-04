@@ -1,6 +1,26 @@
 {
   "trainingPhrases": [ {
     "parts": [ {
+      "text": "체중",
+      "auto": true
+    }, {
+      "text": "은 어떠신가요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
+      "text": "체중이",
+      "auto": true
+    }, {
+      "text": " 감소하셨나요?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ko"
+  }, {
+    "parts": [ {
       "text": "체중이 급격히",
       "auto": true
     }, {

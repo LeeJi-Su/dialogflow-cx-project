@@ -753,7 +753,7 @@
     "targetPage": "문진 및 신체검진",
     "name": "0017f73e-ecd1-49d0-a5fc-304dce81ac96"
   }, {
-    "intent": "지속(duration2)",
+    "intent": "지속(duration2)_빈도",
     "triggerFulfillment": {
       "messages": [ {
         "text": {
@@ -768,7 +768,7 @@
     "targetPage": "문진 및 신체검진",
     "name": "854b0661-2ff9-46d8-8600-6d0070585e84"
   }, {
-    "intent": "지속(duration 3)",
+    "intent": "지속(duration 3)_심화",
     "triggerFulfillment": {
       "messages": [ {
         "text": {
@@ -2585,5 +2585,20 @@
     },
     "targetPage": "문진 및 신체검진",
     "name": "e1763c5c-95a8-446b-aff8-e14818957841"
+  }, {
+    "intent": "병정3(심해지는 상황)",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "언제 심하다고 할 수 없는게, 증상이 갑자기 찾아와서 아침에 심할때도 있고 밤에 심할 때도 있어요. 점점 심해지는 것도 아니에요." ]
+        },
+        "languageCode": "ko"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "문진 및 신체검진",
+    "name": "cff2dab4-7b2d-4680-ac57-163fd81b4aa6"
   } ]
 }
